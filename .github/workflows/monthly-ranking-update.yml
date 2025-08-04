@@ -20,14 +20,21 @@ jobs:
 
     - name: Install dependencies
       run: |
+        set -x # Enable verbose shell output
         python -m pip install --upgrade pip
-        pip install requests
+        pip install --verbose requests # Add --verbose for more detailed installation logs
+        pip freeze # List installed packages to confirm
+      shell: bash # Explicitly use bash shell for set -x
 
     - name: Generate ranking data
-      run: python generate_rankings.py
+      run: |
+        set -x # Enable verbose shell output
+        python generate_rankings.py
+      shell: bash # Explicitly use bash shell for set -x
 
     - name: Commit and push changes
       run: |
+        set -x # Enable verbose shell output
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add squad_rankings.json
@@ -35,3 +42,4 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      shell: bash # Explicitly use bash shell for set -x
