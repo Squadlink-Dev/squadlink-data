@@ -8,6 +8,8 @@ on:
 jobs:
   update-rankings:
     runs-on: ubuntu-latest
+    permissions: # <--- ADD THIS BLOCK
+      contents: write # Grant write permission to the GITHUB_TOKEN for this job
 
     steps:
     - name: Checkout repository
@@ -20,21 +22,21 @@ jobs:
 
     - name: Install dependencies
       run: |
-        set -x # Enable verbose shell output
+        set -x
         python -m pip install --upgrade pip
-        pip install --verbose requests # Add --verbose for more detailed installation logs
-        pip freeze # List installed packages to confirm
-      shell: bash # Explicitly use bash shell for set -x
+        pip install --verbose requests
+        pip freeze
+      shell: bash
 
     - name: Generate ranking data
       run: |
-        set -x # Enable verbose shell output
+        set -x
         python generate_rankings.py
-      shell: bash # Explicitly use bash shell for set -x
+      shell: bash
 
     - name: Commit and push changes
       run: |
-        set -x # Enable verbose shell output
+        set -x
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add squad_rankings.json
@@ -42,4 +44,4 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      shell: bash # Explicitly use bash shell for set -x
+      shell: bash
