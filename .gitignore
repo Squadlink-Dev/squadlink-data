@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# macOS specific
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# GitHub Actions specific
+# Workflow files themselves are tracked, but temporary build artifacts are not
+.github/workflows/*.tmp
+.github/workflows/*.log
+
+# Generated files that are meant to be committed
+# Do NOT ignore squad_rankings.json, as it is the output you want to track
+#!squad_rankings.json
