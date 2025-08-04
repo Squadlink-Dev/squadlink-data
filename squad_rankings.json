@@ -1,0 +1,3638 @@
+{
+    "last_updated": 1754339139.371203,
+    "squad_stats": {
+        "$$$": {
+            "level": 73.2,
+            "killsELO": 1557.814,
+            "gamesELO": 1588.438,
+            "wins": 2621,
+            "losses": 1807
+        },
+        "-=SYN=-": {
+            "level": 31.0,
+            "killsELO": 1396.76,
+            "gamesELO": 1362.09,
+            "wins": 179,
+            "losses": 179
+        },
+        "-ARROW->": {
+            "level": 118.5,
+            "killsELO": 1661.28,
+            "gamesELO": 1636.08,
+            "wins": 828,
+            "losses": 615
+        },
+        "-GIGN-": {
+            "level": 41.0,
+            "killsELO": 1486.42,
+            "gamesELO": 1392.73,
+            "wins": 31,
+            "losses": 28
+        },
+        "-Rebel-": {
+            "level": 89.0,
+            "killsELO": 1630.7150000000001,
+            "gamesELO": 1583.845,
+            "wins": 358,
+            "losses": 215
+        },
+        "-U_A-": {
+            "level": 113.0,
+            "killsELO": 1762.23,
+            "gamesELO": 2069.98,
+            "wins": 273,
+            "losses": 153
+        },
+        ".INJ": {
+            "level": 73.0,
+            "killsELO": 1672.6133333333335,
+            "gamesELO": 1508.0966666666666,
+            "wins": 1180,
+            "losses": 778
+        },
+        ".MP4": {
+            "level": 1136.0,
+            "killsELO": 1680.52,
+            "gamesELO": 1778.25,
+            "wins": 506,
+            "losses": 126
+        },
+        "007": {
+            "level": 118.0,
+            "killsELO": 1665.17,
+            "gamesELO": 1722.46,
+            "wins": 701,
+            "losses": 500
+        },
+        "00N": {
+            "level": 91.5,
+            "killsELO": 1533.31,
+            "gamesELO": 1435.625,
+            "wins": 1463,
+            "losses": 1278
+        },
+        "100%": {
+            "level": 89.0,
+            "killsELO": 1713.02,
+            "gamesELO": 1667.47,
+            "wins": 89,
+            "losses": 81
+        },
+        "101ST": {
+            "level": 83.5,
+            "killsELO": 1610.21,
+            "gamesELO": 1671.2849999999999,
+            "wins": 813,
+            "losses": 578
+        },
+        "279VN": {
+            "level": 273.0,
+            "killsELO": 1731.82,
+            "gamesELO": 2212.44,
+            "wins": 1070,
+            "losses": 561
+        },
+        "3.O": {
+            "level": 93.0,
+            "killsELO": 1585.37,
+            "gamesELO": 1611.93,
+            "wins": 389,
+            "losses": 332
+        },
+        "4GE": {
+            "level": 51.0,
+            "killsELO": 1856.5149999999999,
+            "gamesELO": 2050.645,
+            "wins": 388,
+            "losses": 178
+        },
+        "50.CAL": {
+            "level": 165.0,
+            "killsELO": 1584.9650000000001,
+            "gamesELO": 1865.85,
+            "wins": 1755,
+            "losses": 693
+        },
+        "501st": {
+            "level": 72.0,
+            "killsELO": 1629.98,
+            "gamesELO": 1733.41,
+            "wins": 376,
+            "losses": 253
+        },
+        "67.": {
+            "level": 58.0,
+            "killsELO": 1681.11,
+            "gamesELO": 1562.07,
+            "wins": 474,
+            "losses": 236
+        },
+        "75322": {
+            "level": 52.0,
+            "killsELO": 1401.33,
+            "gamesELO": 1556.67,
+            "wins": 360,
+            "losses": 317
+        },
+        "9Ine": {
+            "level": 102.8,
+            "killsELO": 1544.344,
+            "gamesELO": 1693.3080000000002,
+            "wins": 3144,
+            "losses": 2268
+        },
+        "<KILL>": {
+            "level": 92.5,
+            "killsELO": 1535.4850000000001,
+            "gamesELO": 1725.46,
+            "wins": 1244,
+            "losses": 626
+        },
+        "@_@": {
+            "level": 97.0,
+            "killsELO": 1696.18,
+            "gamesELO": 1721.79,
+            "wins": 254,
+            "losses": 110
+        },
+        "@__@": {
+            "level": 61.0,
+            "killsELO": 1563.42,
+            "gamesELO": 1409.48,
+            "wins": 437,
+            "losses": 341
+        },
+        "A.F.K": {
+            "level": 58.5,
+            "killsELO": 1635.4299999999998,
+            "gamesELO": 1701.955,
+            "wins": 500,
+            "losses": 305
+        },
+        "AAA": {
+            "level": 153.0,
+            "killsELO": 1677.0833333333333,
+            "gamesELO": 2042.5600000000002,
+            "wins": 2243,
+            "losses": 1271
+        },
+        "ABC": {
+            "level": 90.0,
+            "killsELO": 1766.03,
+            "gamesELO": 2221.2,
+            "wins": 179,
+            "losses": 65
+        },
+        "ACE": {
+            "level": 124.5,
+            "killsELO": 1664.3525,
+            "gamesELO": 1817.6650000000002,
+            "wins": 2843,
+            "losses": 1442
+        },
+        "ACES": {
+            "level": 44.5,
+            "killsELO": 1495.9699999999998,
+            "gamesELO": 1678.605,
+            "wins": 530,
+            "losses": 362
+        },
+        "ACWB": {
+            "level": 67.2,
+            "killsELO": 1677.716,
+            "gamesELO": 1822.4299999999998,
+            "wins": 1926,
+            "losses": 1021
+        },
+        "AHK": {
+            "level": 105.5909090909091,
+            "killsELO": 1632.11,
+            "gamesELO": 1691.2195454545456,
+            "wins": 11128,
+            "losses": 6275
+        },
+        "AI": {
+            "level": 600.6086956521739,
+            "killsELO": 1804.950869565217,
+            "gamesELO": 2129.2060869565216,
+            "wins": 60017,
+            "losses": 29115
+        },
+        "AKR": {
+            "level": 205.0,
+            "killsELO": 1639.9,
+            "gamesELO": 1825.4,
+            "wins": 1134,
+            "losses": 708
+        },
+        "ALASKA": {
+            "level": 50.0,
+            "killsELO": 1611.6635714285717,
+            "gamesELO": 1715.4485714285718,
+            "wins": 4154,
+            "losses": 2880
+        },
+        "ALPHA": {
+            "level": 69.45454545454545,
+            "killsELO": 1609.461818181818,
+            "gamesELO": 1745.4599999999998,
+            "wins": 3611,
+            "losses": 2251
+        },
+        "AMK": {
+            "level": 123.0,
+            "killsELO": 1552.52,
+            "gamesELO": 1601.25,
+            "wins": 553,
+            "losses": 439
+        },
+        "ANZAC": {
+            "level": 102.0,
+            "killsELO": 1557.89,
+            "gamesELO": 1450.74,
+            "wins": 549,
+            "losses": 406
+        },
+        "AOS": {
+            "level": 141.77777777777777,
+            "killsELO": 1672.197777777778,
+            "gamesELO": 1815.1922222222222,
+            "wins": 7076,
+            "losses": 3969
+        },
+        "APEX": {
+            "level": 187.0,
+            "killsELO": 1723.1350000000002,
+            "gamesELO": 1983.1075,
+            "wins": 3539,
+            "losses": 1531
+        },
+        "APG": {
+            "level": 171.7826086956522,
+            "killsELO": 1671.6034782608695,
+            "gamesELO": 1746.0347826086959,
+            "wins": 19653,
+            "losses": 11985
+        },
+        "APG-JR": {
+            "level": 26.0,
+            "killsELO": 1425.08,
+            "gamesELO": 1514.1,
+            "wins": 16,
+            "losses": 31
+        },
+        "ASIA": {
+            "level": 28.0,
+            "killsELO": 1563.3,
+            "gamesELO": 1463.95,
+            "wins": 62,
+            "losses": 57
+        },
+        "ASPECT": {
+            "level": 91.0,
+            "killsELO": 1665.65,
+            "gamesELO": 1700.99,
+            "wins": 425,
+            "losses": 86
+        },
+        "AURORA": {
+            "level": 82.0,
+            "killsELO": 1554.74,
+            "gamesELO": 1867.11,
+            "wins": 472,
+            "losses": 341
+        },
+        "AUS": {
+            "level": 83.42857142857143,
+            "killsELO": 1592.1885714285713,
+            "gamesELO": 1722.3242857142857,
+            "wins": 3530,
+            "losses": 2539
+        },
+        "AWD": {
+            "level": 61.0,
+            "killsELO": 1442.75,
+            "gamesELO": 1524.25,
+            "wins": 15,
+            "losses": 17
+        },
+        "AWM": {
+            "level": 53.0,
+            "killsELO": 1501.61,
+            "gamesELO": 1476.83,
+            "wins": 70,
+            "losses": 58
+        },
+        "Advanced": {
+            "level": 196.0,
+            "killsELO": 1579.56,
+            "gamesELO": 1600.76,
+            "wins": 550,
+            "losses": 487
+        },
+        "AjK": {
+            "level": 73.5,
+            "killsELO": 1547.285,
+            "gamesELO": 1591.685,
+            "wins": 956,
+            "losses": 635
+        },
+        "AltF4": {
+            "level": 84.0,
+            "killsELO": 1757.69,
+            "gamesELO": 1921.75,
+            "wins": 380,
+            "losses": 222
+        },
+        "America": {
+            "level": 136.5,
+            "killsELO": 1849.13,
+            "gamesELO": 2303.665,
+            "wins": 1272,
+            "losses": 337
+        },
+        "Aplpha": {
+            "level": 74.0,
+            "killsELO": 1554.3249999999998,
+            "gamesELO": 1610.4650000000001,
+            "wins": 1014,
+            "losses": 771
+        },
+        "Arctic": {
+            "level": 53.0,
+            "killsELO": 1614.47,
+            "gamesELO": 1734.93,
+            "wins": 260,
+            "losses": 153
+        },
+        "Arklan": {
+            "level": 61.333333333333336,
+            "killsELO": 1655.5200000000002,
+            "gamesELO": 1856.96,
+            "wins": 828,
+            "losses": 411
+        },
+        "Arrow": {
+            "level": 92.0,
+            "killsELO": 1544.71,
+            "gamesELO": 1253.48,
+            "wins": 537,
+            "losses": 442
+        },
+        "AusNZ": {
+            "level": 85.0,
+            "killsELO": 1553.94,
+            "gamesELO": 1481.42,
+            "wins": 605,
+            "losses": 439
+        },
+        "Axe": {
+            "level": 82.0,
+            "killsELO": 1642.8,
+            "gamesELO": 1701.04,
+            "wins": 765,
+            "losses": 426
+        },
+        "B.I.G": {
+            "level": 124.0,
+            "killsELO": 1651.455,
+            "gamesELO": 1895.81,
+            "wins": 1770,
+            "losses": 773
+        },
+        "B0NK": {
+            "level": 63.0,
+            "killsELO": 1489.2,
+            "gamesELO": 1572.96,
+            "wins": 47,
+            "losses": 32
+        },
+        "BALD": {
+            "level": 53.0,
+            "killsELO": 1474.49,
+            "gamesELO": 1301.86,
+            "wins": 178,
+            "losses": 152
+        },
+        "BATFISH": {
+            "level": 61.0,
+            "killsELO": 1591.38,
+            "gamesELO": 1818.93,
+            "wins": 493,
+            "losses": 309
+        },
+        "BB$": {
+            "level": 89.0,
+            "killsELO": 1627.2,
+            "gamesELO": 1375.19,
+            "wins": 64,
+            "losses": 56
+        },
+        "BBQ": {
+            "level": 152.0,
+            "killsELO": 1678.19,
+            "gamesELO": 1573.16,
+            "wins": 735,
+            "losses": 340
+        },
+        "BEAST": {
+            "level": 115.0,
+            "killsELO": 1885.28,
+            "gamesELO": 2292.5333333333333,
+            "wins": 1192,
+            "losses": 238
+        },
+        "BEASTS": {
+            "level": 152.28571428571428,
+            "killsELO": 1655.1771428571426,
+            "gamesELO": 1639.9714285714288,
+            "wins": 5394,
+            "losses": 3545
+        },
+        "BEKAS": {
+            "level": 164.0,
+            "killsELO": 1766.76,
+            "gamesELO": 2092.2,
+            "wins": 481,
+            "losses": 146
+        },
+        "BERRY": {
+            "level": 85.0,
+            "killsELO": 1636.03,
+            "gamesELO": 2059.42,
+            "wins": 691,
+            "losses": 265
+        },
+        "BETA": {
+            "level": 79.0,
+            "killsELO": 1442.27,
+            "gamesELO": 1565.51,
+            "wins": 608,
+            "losses": 493
+        },
+        "BLAST": {
+            "level": 145.0,
+            "killsELO": 1639.7452500000004,
+            "gamesELO": 1836.5629999999994,
+            "wins": 33383,
+            "losses": 19209
+        },
+        "BLOON": {
+            "level": 84.0,
+            "killsELO": 1626.74,
+            "gamesELO": 1754.33,
+            "wins": 384,
+            "losses": 312
+        },
+        "BOT": {
+            "level": 488.8,
+            "killsELO": 1704.5080000000003,
+            "gamesELO": 2073.338,
+            "wins": 11948,
+            "losses": 5278
+        },
+        "BRONCO": {
+            "level": 111.0,
+            "killsELO": 1523.38,
+            "gamesELO": 1481.77,
+            "wins": 745,
+            "losses": 580
+        },
+        "BROS": {
+            "level": 163.0,
+            "killsELO": 1498.3,
+            "gamesELO": 1569.29,
+            "wins": 521,
+            "losses": 332
+        },
+        "BRRRRRT": {
+            "level": 55.0,
+            "killsELO": 1587.04,
+            "gamesELO": 1678.96,
+            "wins": 294,
+            "losses": 221
+        },
+        "BRguy": {
+            "level": 68.0,
+            "killsELO": 1621.0749999999998,
+            "gamesELO": 1548.1799999999998,
+            "wins": 270,
+            "losses": 180
+        },
+        "BTB": {
+            "level": 138.5,
+            "killsELO": 1631.6889999999999,
+            "gamesELO": 1707.4989999999998,
+            "wins": 7996,
+            "losses": 5139
+        },
+        "BUMS": {
+            "level": 1890.0,
+            "killsELO": 1748.3,
+            "gamesELO": 2335.07,
+            "wins": 10940,
+            "losses": 3210
+        },
+        "BUPP": {
+            "level": 50.0,
+            "killsELO": 1544.41,
+            "gamesELO": 1441.62,
+            "wins": 440,
+            "losses": 388
+        },
+        "Babayaga": {
+            "level": 181.0,
+            "killsELO": 1643.1,
+            "gamesELO": 1796.32,
+            "wins": 486,
+            "losses": 295
+        },
+        "BadBatch": {
+            "level": 71.0,
+            "killsELO": 1704.4,
+            "gamesELO": 1798.69,
+            "wins": 432,
+            "losses": 333
+        },
+        "Best": {
+            "level": 125.83333333333333,
+            "killsELO": 1613.9399999999998,
+            "gamesELO": 1734.05,
+            "wins": 3989,
+            "losses": 2471
+        },
+        "BoA": {
+            "level": 438.6666666666667,
+            "killsELO": 1768.12,
+            "gamesELO": 2356.09,
+            "wins": 7856,
+            "losses": 4295
+        },
+        "Bosniaks": {
+            "level": 106.0,
+            "killsELO": 1608.06,
+            "gamesELO": 1820.25,
+            "wins": 767,
+            "losses": 450
+        },
+        "Bot!!": {
+            "level": 50.0,
+            "killsELO": 1683.21,
+            "gamesELO": 1837.2,
+            "wins": 277,
+            "losses": 198
+        },
+        "Bully": {
+            "level": 65.8,
+            "killsELO": 1509.9099999999999,
+            "gamesELO": 1647.8579999999997,
+            "wins": 2353,
+            "losses": 1809
+        },
+        "Buster": {
+            "level": 64.5,
+            "killsELO": 1529.28,
+            "gamesELO": 1538.32,
+            "wins": 926,
+            "losses": 841
+        },
+        "CAESAR": {
+            "level": 194.53939393939393,
+            "killsELO": 1625.7608484848488,
+            "gamesELO": 1768.8187272727264,
+            "wins": 150071,
+            "losses": 89377
+        },
+        "CANADA": {
+            "level": 123.0,
+            "killsELO": 1611.5149999999999,
+            "gamesELO": 1712.12,
+            "wins": 1113,
+            "losses": 639
+        },
+        "CCS": {
+            "level": 257.0,
+            "killsELO": 1714.79,
+            "gamesELO": 1761.25,
+            "wins": 146,
+            "losses": 90
+        },
+        "CHEATING": {
+            "level": 51.0,
+            "killsELO": 1601.66,
+            "gamesELO": 1444.17,
+            "wins": 147,
+            "losses": 124
+        },
+        "COA": {
+            "level": 98.0,
+            "killsELO": 1693.6,
+            "gamesELO": 1760.99,
+            "wins": 574,
+            "losses": 417
+        },
+        "COBRA": {
+            "level": 63.0,
+            "killsELO": 1675.66,
+            "gamesELO": 1751.79,
+            "wins": 388,
+            "losses": 230
+        },
+        "CODENAME": {
+            "level": 77.5,
+            "killsELO": 1602.72,
+            "gamesELO": 1749.24,
+            "wins": 664,
+            "losses": 461
+        },
+        "COLD": {
+            "level": 56.0,
+            "killsELO": 1632.97,
+            "gamesELO": 1541.66,
+            "wins": 291,
+            "losses": 289
+        },
+        "COMMANDO": {
+            "level": 42.666666666666664,
+            "killsELO": 1495.6233333333337,
+            "gamesELO": 1531.9399999999998,
+            "wins": 725,
+            "losses": 745
+        },
+        "CRO": {
+            "level": 104.0,
+            "killsELO": 1607.4,
+            "gamesELO": 1879.53,
+            "wins": 261,
+            "losses": 183
+        },
+        "CZECH": {
+            "level": 87.0,
+            "killsELO": 1767.74,
+            "gamesELO": 1764.13,
+            "wins": 567,
+            "losses": 355
+        },
+        "Castilla": {
+            "level": 95.0,
+            "killsELO": 1675.49,
+            "gamesELO": 1991.34,
+            "wins": 466,
+            "losses": 187
+        },
+        "Charcoal": {
+            "level": 143.0,
+            "killsELO": 1664.1516666666666,
+            "gamesELO": 1868.628333333333,
+            "wins": 5543,
+            "losses": 2639
+        },
+        "Chicken": {
+            "level": 561.0,
+            "killsELO": 1572.26,
+            "gamesELO": 1466.8,
+            "wins": 117,
+            "losses": 82
+        },
+        "Cometer": {
+            "level": 104.83333333333333,
+            "killsELO": 1644.1033333333332,
+            "gamesELO": 1723.7666666666664,
+            "wins": 2062,
+            "losses": 1253
+        },
+        "Corgi": {
+            "level": 137.75,
+            "killsELO": 1649.8125000000002,
+            "gamesELO": 1595.615,
+            "wins": 2982,
+            "losses": 1779
+        },
+        "CraZy": {
+            "level": 65.0,
+            "killsELO": 1630.98,
+            "gamesELO": 1853.08,
+            "wins": 310,
+            "losses": 222
+        },
+        "Crown": {
+            "level": 39.0,
+            "killsELO": 1469.905,
+            "gamesELO": 1296.795,
+            "wins": 462,
+            "losses": 432
+        },
+        "D.J": {
+            "level": 85.05405405405405,
+            "killsELO": 1578.9270270270274,
+            "gamesELO": 1670.0370270270269,
+            "wins": 13102,
+            "losses": 8918
+        },
+        "DARKY": {
+            "level": 41.0,
+            "killsELO": 1510.84,
+            "gamesELO": 1394.92,
+            "wins": 152,
+            "losses": 126
+        },
+        "DEATH": {
+            "level": 227.57142857142858,
+            "killsELO": 1620.8799999999999,
+            "gamesELO": 1861.3857142857141,
+            "wins": 6871,
+            "losses": 3542
+        },
+        "DELTA_1": {
+            "level": 73.5,
+            "killsELO": 1582.3200000000002,
+            "gamesELO": 1739.97,
+            "wins": 1810,
+            "losses": 1325
+        },
+        "DEUS": {
+            "level": 162.0,
+            "killsELO": 1570.92,
+            "gamesELO": 1675.0,
+            "wins": 440,
+            "losses": 338
+        },
+        "DEV": {
+            "level": 81.0,
+            "killsELO": 1549.16,
+            "gamesELO": 1533.3233333333335,
+            "wins": 1031,
+            "losses": 835
+        },
+        "DEVIL": {
+            "level": 94.0,
+            "killsELO": 1616.54,
+            "gamesELO": 1775.38,
+            "wins": 566,
+            "losses": 240
+        },
+        "DEVILS": {
+            "level": 127.0,
+            "killsELO": 1727.18,
+            "gamesELO": 1879.99,
+            "wins": 821,
+            "losses": 519
+        },
+        "DIABLO": {
+            "level": 65.0,
+            "killsELO": 1485.8200000000002,
+            "gamesELO": 1519.06,
+            "wins": 313,
+            "losses": 235
+        },
+        "DOG": {
+            "level": 2246.0,
+            "killsELO": 1705.9,
+            "gamesELO": 1802.4,
+            "wins": 6327,
+            "losses": 4494
+        },
+        "DOOFIE": {
+            "level": 57.666666666666664,
+            "killsELO": 1563.6733333333334,
+            "gamesELO": 1612.2333333333333,
+            "wins": 691,
+            "losses": 501
+        },
+        "DRSN": {
+            "level": 73.0,
+            "killsELO": 1594.2,
+            "gamesELO": 1632.01,
+            "wins": 403,
+            "losses": 297
+        },
+        "DUBOS": {
+            "level": 117.0,
+            "killsELO": 1781.02,
+            "gamesELO": 2092.55,
+            "wins": 550,
+            "losses": 178
+        },
+        "DUCK": {
+            "level": 104.0,
+            "killsELO": 1601.15,
+            "gamesELO": 1638.09,
+            "wins": 432,
+            "losses": 351
+        },
+        "DUST": {
+            "level": 90.25,
+            "killsELO": 1576.8999999999999,
+            "gamesELO": 1682.0300000000002,
+            "wins": 1686,
+            "losses": 964
+        },
+        "DUTCH": {
+            "level": 64.0,
+            "killsELO": 1599.42,
+            "gamesELO": 1843.39,
+            "wins": 215,
+            "losses": 122
+        },
+        "Da_YNG's": {
+            "level": 78.0,
+            "killsELO": 1536.6025,
+            "gamesELO": 1487.6825,
+            "wins": 1814,
+            "losses": 1289
+        },
+        "Danger": {
+            "level": 128.0,
+            "killsELO": 1661.85,
+            "gamesELO": 1552.53,
+            "wins": 562,
+            "losses": 437
+        },
+        "Deadmen": {
+            "level": 152.0,
+            "killsELO": 1759.7,
+            "gamesELO": 1869.82,
+            "wins": 1129,
+            "losses": 525
+        },
+        "Delta": {
+            "level": 76.0,
+            "killsELO": 1660.87,
+            "gamesELO": 1734.32,
+            "wins": 487,
+            "losses": 358
+        },
+        "Dynamic": {
+            "level": 134.0,
+            "killsELO": 1628.7490000000003,
+            "gamesELO": 1741.0610000000001,
+            "wins": 7123,
+            "losses": 4403
+        },
+        "Dynamise": {
+            "level": 62.0,
+            "killsELO": 1420.27,
+            "gamesELO": 1414.36,
+            "wins": 215,
+            "losses": 206
+        },
+        "ECHO": {
+            "level": 92.5,
+            "killsELO": 1546.595,
+            "gamesELO": 1740.705,
+            "wins": 880,
+            "losses": 660
+        },
+        "EDF": {
+            "level": 114.0,
+            "killsELO": 1721.51,
+            "gamesELO": 2135.51,
+            "wins": 426,
+            "losses": 233
+        },
+        "EDG8": {
+            "level": 59.5,
+            "killsELO": 1614.035,
+            "gamesELO": 1604.5975,
+            "wins": 1183,
+            "losses": 809
+        },
+        "EK": {
+            "level": 83.41379310344827,
+            "killsELO": 1573.06275862069,
+            "gamesELO": 1614.4148275862074,
+            "wins": 13383,
+            "losses": 9411
+        },
+        "ELLAS": {
+            "level": 906.0,
+            "killsELO": 1728.42,
+            "gamesELO": 1970.14,
+            "wins": 5280,
+            "losses": 2935
+        },
+        "ENFORCE": {
+            "level": 51.583333333333336,
+            "killsELO": 1580.3108333333332,
+            "gamesELO": 1634.4675,
+            "wins": 3272,
+            "losses": 2092
+        },
+        "EP3R": {
+            "level": 137.8,
+            "killsELO": 1684.154,
+            "gamesELO": 1978.3020000000001,
+            "wins": 4268,
+            "losses": 2877
+        },
+        "EPIC": {
+            "level": 58.5,
+            "killsELO": 1675.0149999999999,
+            "gamesELO": 1886.94,
+            "wins": 655,
+            "losses": 353
+        },
+        "ERASE": {
+            "level": 83.0,
+            "killsELO": 1521.53,
+            "gamesELO": 1647.92,
+            "wins": 570,
+            "losses": 491
+        },
+        "ESP": {
+            "level": 78.5,
+            "killsELO": 1578.525,
+            "gamesELO": 1688.87,
+            "wins": 470,
+            "losses": 324
+        },
+        "EVIL": {
+            "level": 80.0,
+            "killsELO": 1568.42,
+            "gamesELO": 1599.49,
+            "wins": 623,
+            "losses": 555
+        },
+        "Eagles": {
+            "level": 130.5,
+            "killsELO": 1605.42,
+            "gamesELO": 1517.5349999999999,
+            "wins": 31,
+            "losses": 14
+        },
+        "Eclipse": {
+            "level": 50.0,
+            "killsELO": 1571.8450000000003,
+            "gamesELO": 1542.75,
+            "wins": 1208,
+            "losses": 837
+        },
+        "Error": {
+            "level": 111.0,
+            "killsELO": 1586.54,
+            "gamesELO": 1649.78,
+            "wins": 340,
+            "losses": 160
+        },
+        "ExMilVet": {
+            "level": 145.0,
+            "killsELO": 1564.34,
+            "gamesELO": 1756.71,
+            "wins": 819,
+            "losses": 590
+        },
+        "Exile": {
+            "level": 308.2857142857143,
+            "killsELO": 1792.1285714285714,
+            "gamesELO": 1994.7571428571428,
+            "wins": 9502,
+            "losses": 3718
+        },
+        "F.B.I": {
+            "level": 52.0,
+            "killsELO": 1584.34,
+            "gamesELO": 1445.51,
+            "wins": 189,
+            "losses": 112
+        },
+        "F.C.": {
+            "level": 95.75,
+            "killsELO": 1586.9499999999998,
+            "gamesELO": 1644.7975,
+            "wins": 2361,
+            "losses": 1675
+        },
+        "FA": {
+            "level": 45.4,
+            "killsELO": 1584.442,
+            "gamesELO": 1679.2340000000004,
+            "wins": 1199,
+            "losses": 917
+        },
+        "FAITH": {
+            "level": 141.0,
+            "killsELO": 1520.99,
+            "gamesELO": 1884.34,
+            "wins": 1047,
+            "losses": 819
+        },
+        "FAM": {
+            "level": 63.0,
+            "killsELO": 1644.88,
+            "gamesELO": 1845.7,
+            "wins": 743,
+            "losses": 467
+        },
+        "FEM": {
+            "level": 53.0,
+            "killsELO": 1535.37,
+            "gamesELO": 1453.97,
+            "wins": 337,
+            "losses": 284
+        },
+        "FIGHTER": {
+            "level": 100.75,
+            "killsELO": 1564.3625,
+            "gamesELO": 1689.25125,
+            "wins": 4568,
+            "losses": 3299
+        },
+        "FIGHTERS": {
+            "level": 81.0,
+            "killsELO": 1599.794285714286,
+            "gamesELO": 1611.0214285714285,
+            "wins": 4148,
+            "losses": 2789
+        },
+        "FINESSE": {
+            "level": 68.0,
+            "killsELO": 1606.22,
+            "gamesELO": 1822.29,
+            "wins": 277,
+            "losses": 124
+        },
+        "FINF": {
+            "level": 14.0,
+            "killsELO": 1769.26,
+            "gamesELO": 1673.33,
+            "wins": 20,
+            "losses": 7
+        },
+        "FISH": {
+            "level": 393.9032258064516,
+            "killsELO": 1695.5693548387094,
+            "gamesELO": 1836.0493548387094,
+            "wins": 51806,
+            "losses": 30806
+        },
+        "FLAMES": {
+            "level": 61.0,
+            "killsELO": 1624.59,
+            "gamesELO": 1909.08,
+            "wins": 352,
+            "losses": 199
+        },
+        "FORCE": {
+            "level": 57.333333333333336,
+            "killsELO": 1410.36,
+            "gamesELO": 1442.9933333333336,
+            "wins": 1487,
+            "losses": 1381
+        },
+        "FORZA": {
+            "level": 52.0,
+            "killsELO": 1581.8600000000001,
+            "gamesELO": 1729.67,
+            "wins": 630,
+            "losses": 420
+        },
+        "FROZEN": {
+            "level": 82.8125,
+            "killsELO": 1632.5731250000001,
+            "gamesELO": 1718.1875,
+            "wins": 7769,
+            "losses": 4385
+        },
+        "FSB": {
+            "level": 62.25,
+            "killsELO": 1542.7275,
+            "gamesELO": 1516.4675,
+            "wins": 1310,
+            "losses": 865
+        },
+        "FTW": {
+            "level": 1468.0,
+            "killsELO": 1688.24,
+            "gamesELO": 2355.43,
+            "wins": 6498,
+            "losses": 2350
+        },
+        "FUMBLE": {
+            "level": 137.63636363636363,
+            "killsELO": 1659.5836363636363,
+            "gamesELO": 1643.6463636363637,
+            "wins": 6423,
+            "losses": 4698
+        },
+        "FUNCTION": {
+            "level": 104.6875,
+            "killsELO": 1645.74625,
+            "gamesELO": 1731.848125,
+            "wins": 7750,
+            "losses": 4980
+        },
+        "FUNSTERS": {
+            "level": 49.5,
+            "killsELO": 1620.065,
+            "gamesELO": 1763.6100000000001,
+            "wins": 459,
+            "losses": 359
+        },
+        "Falcon": {
+            "level": 58.0,
+            "killsELO": 1528.72,
+            "gamesELO": 1497.65,
+            "wins": 409,
+            "losses": 361
+        },
+        "Falcons": {
+            "level": 69.0,
+            "killsELO": 1631.13,
+            "gamesELO": 1833.32,
+            "wins": 318,
+            "losses": 104
+        },
+        "Fear": {
+            "level": 44.2,
+            "killsELO": 1681.578,
+            "gamesELO": 1751.4920000000002,
+            "wins": 1266,
+            "losses": 809
+        },
+        "Fire": {
+            "level": 62.0,
+            "killsELO": 1603.4,
+            "gamesELO": 1587.8,
+            "wins": 369,
+            "losses": 275
+        },
+        "Friends": {
+            "level": 97.0,
+            "killsELO": 1700.08,
+            "gamesELO": 2051.49,
+            "wins": 486,
+            "losses": 299
+        },
+        "Fuse": {
+            "level": 189.2,
+            "killsELO": 1623.3685000000003,
+            "gamesELO": 1738.7419999999997,
+            "wins": 19354,
+            "losses": 11371
+        },
+        "Fussel": {
+            "level": 78.0,
+            "killsELO": 1607.97,
+            "gamesELO": 1773.295,
+            "wins": 951,
+            "losses": 612
+        },
+        "G.O.A.T.": {
+            "level": 93.0,
+            "killsELO": 1648.58,
+            "gamesELO": 1753.3,
+            "wins": 696,
+            "losses": 271
+        },
+        "GBR": {
+            "level": 59.0,
+            "killsELO": 1555.05,
+            "gamesELO": 1504.46,
+            "wins": 503,
+            "losses": 410
+        },
+        "GBros": {
+            "level": 67.0,
+            "killsELO": 1746.43,
+            "gamesELO": 2049.71,
+            "wins": 385,
+            "losses": 201
+        },
+        "GER": {
+            "level": 169.0,
+            "killsELO": 1784.53,
+            "gamesELO": 1497.15,
+            "wins": 33,
+            "losses": 21
+        },
+        "GFBF": {
+            "level": 63.0,
+            "killsELO": 1581.77,
+            "gamesELO": 1702.15,
+            "wins": 354,
+            "losses": 287
+        },
+        "GGG": {
+            "level": 78.0,
+            "killsELO": 1638.885,
+            "gamesELO": 1652.8249999999998,
+            "wins": 887,
+            "losses": 551
+        },
+        "GHF": {
+            "level": 76.0,
+            "killsELO": 1552.59,
+            "gamesELO": 1764.82,
+            "wins": 496,
+            "losses": 297
+        },
+        "GIGN": {
+            "level": 91.0,
+            "killsELO": 1520.23,
+            "gamesELO": 1584.845,
+            "wins": 721,
+            "losses": 538
+        },
+        "GINGER": {
+            "level": 53.666666666666664,
+            "killsELO": 1577.0171428571425,
+            "gamesELO": 1597.8257142857142,
+            "wins": 5103,
+            "losses": 3640
+        },
+        "GLORY": {
+            "level": 82.6923076923077,
+            "killsELO": 1570.8015384615387,
+            "gamesELO": 1623.056923076923,
+            "wins": 4328,
+            "losses": 3359
+        },
+        "GOAT": {
+            "level": 95.0,
+            "killsELO": 1647.3,
+            "gamesELO": 1848.55,
+            "wins": 484,
+            "losses": 206
+        },
+        "GOC": {
+            "level": 158.0,
+            "killsELO": 1663.81,
+            "gamesELO": 1843.11,
+            "wins": 1206,
+            "losses": 669
+        },
+        "GOD": {
+            "level": 390.4,
+            "killsELO": 1867.5169999999998,
+            "gamesELO": 2288.0419999999995,
+            "wins": 14951,
+            "losses": 5279
+        },
+        "GO_SBKN!": {
+            "level": 354.0,
+            "killsELO": 1652.05,
+            "gamesELO": 2043.94,
+            "wins": 2518,
+            "losses": 1561
+        },
+        "GSG-9": {
+            "level": 58.0,
+            "killsELO": 1638.34,
+            "gamesELO": 1879.33,
+            "wins": 216,
+            "losses": 119
+        },
+        "GUEST": {
+            "level": 119.0,
+            "killsELO": 1613.09,
+            "gamesELO": 1828.67,
+            "wins": 96,
+            "losses": 33
+        },
+        "GZX": {
+            "level": 281.0,
+            "killsELO": 1822.42,
+            "gamesELO": 2119.4,
+            "wins": 1207,
+            "losses": 549
+        },
+        "Ghost": {
+            "level": 102.5,
+            "killsELO": 1433.4650000000001,
+            "gamesELO": 1435.0149999999999,
+            "wins": 1266,
+            "losses": 1233
+        },
+        "Ghosts": {
+            "level": 64.0,
+            "killsELO": 1660.55,
+            "gamesELO": 1911.55,
+            "wins": 330,
+            "losses": 142
+        },
+        "Glitch": {
+            "level": 124.0,
+            "killsELO": 1578.69,
+            "gamesELO": 1757.46,
+            "wins": 696,
+            "losses": 602
+        },
+        "GreenSTO": {
+            "level": 51.0,
+            "killsELO": 1649.3899999999999,
+            "gamesELO": 1720.8899999999999,
+            "wins": 272,
+            "losses": 130
+        },
+        "Guests": {
+            "level": 119.0,
+            "killsELO": 1558.72,
+            "gamesELO": 1561.0149999999999,
+            "wins": 839,
+            "losses": 591
+        },
+        "H.M.S": {
+            "level": 38.2,
+            "killsELO": 1429.19,
+            "gamesELO": 1391.016,
+            "wins": 132,
+            "losses": 169
+        },
+        "HAKER": {
+            "level": 79.0,
+            "killsELO": 1594.56,
+            "gamesELO": 1823.45,
+            "wins": 184,
+            "losses": 141
+        },
+        "HAMMER": {
+            "level": 48.0,
+            "killsELO": 1607.99,
+            "gamesELO": 1707.86,
+            "wins": 311,
+            "losses": 252
+        },
+        "HAZARD": {
+            "level": 109.16666666666667,
+            "killsELO": 1593.7516666666668,
+            "gamesELO": 1708.6049999999998,
+            "wins": 2917,
+            "losses": 1789
+        },
+        "HCM": {
+            "level": 66.0,
+            "killsELO": 1563.17,
+            "gamesELO": 1560.83,
+            "wins": 116,
+            "losses": 78
+        },
+        "HDSHT": {
+            "level": 65.0,
+            "killsELO": 1618.79,
+            "gamesELO": 1945.39,
+            "wins": 293,
+            "losses": 152
+        },
+        "HF": {
+            "level": 287.2,
+            "killsELO": 1704.0793333333336,
+            "gamesELO": 1829.4579999999999,
+            "wins": 21856,
+            "losses": 11337
+        },
+        "HFF": {
+            "level": 133.0,
+            "killsELO": 1660.28,
+            "gamesELO": 1439.01,
+            "wins": 935,
+            "losses": 571
+        },
+        "HKC0D3": {
+            "level": 72.0,
+            "killsELO": 1524.57,
+            "gamesELO": 1474.55,
+            "wins": 39,
+            "losses": 48
+        },
+        "HOHO": {
+            "level": 69.0,
+            "killsELO": 1633.69,
+            "gamesELO": 1476.71,
+            "wins": 457,
+            "losses": 400
+        },
+        "HOPE": {
+            "level": 59.0,
+            "killsELO": 1506.42,
+            "gamesELO": 1492.665,
+            "wins": 414,
+            "losses": 372
+        },
+        "HOT": {
+            "level": 110.0,
+            "killsELO": 1607.21,
+            "gamesELO": 1764.0,
+            "wins": 627,
+            "losses": 353
+        },
+        "HP": {
+            "level": 190.57142857142858,
+            "killsELO": 1687.7628571428572,
+            "gamesELO": 1920.7371428571428,
+            "wins": 8248,
+            "losses": 4396
+        },
+        "HRD": {
+            "level": 51.5,
+            "killsELO": 1621.335,
+            "gamesELO": 1623.665,
+            "wins": 608,
+            "losses": 407
+        },
+        "HRT": {
+            "level": 340.0,
+            "killsELO": 1811.565,
+            "gamesELO": 2262.615,
+            "wins": 3522,
+            "losses": 1395
+        },
+        "HSG": {
+            "level": 87.0,
+            "killsELO": 1593.74,
+            "gamesELO": 1792.9366666666665,
+            "wins": 1374,
+            "losses": 759
+        },
+        "HVK": {
+            "level": 222.0,
+            "killsELO": 1631.03,
+            "gamesELO": 1907.9,
+            "wins": 1363,
+            "losses": 857
+        },
+        "HYDRA": {
+            "level": 50.0,
+            "killsELO": 1527.795,
+            "gamesELO": 1622.565,
+            "wins": 394,
+            "losses": 336
+        },
+        "Havoc": {
+            "level": 75.0,
+            "killsELO": 1694.57,
+            "gamesELO": 1945.59,
+            "wins": 815,
+            "losses": 485
+        },
+        "HellWall": {
+            "level": 79.0,
+            "killsELO": 1639.06,
+            "gamesELO": 1794.2,
+            "wins": 325,
+            "losses": 219
+        },
+        "Homies": {
+            "level": 50.0,
+            "killsELO": 1540.38,
+            "gamesELO": 1713.28,
+            "wins": 280,
+            "losses": 177
+        },
+        "Hunter": {
+            "level": 171.0,
+            "killsELO": 1674.9099999999999,
+            "gamesELO": 1831.035,
+            "wins": 1360,
+            "losses": 459
+        },
+        "ICE": {
+            "level": 149.42857142857142,
+            "killsELO": 1576.7414285714283,
+            "gamesELO": 1766.9214285714286,
+            "wins": 6031,
+            "losses": 3014
+        },
+        "ICED": {
+            "level": 114.2,
+            "killsELO": 1695.3039999999996,
+            "gamesELO": 1847.5120000000002,
+            "wins": 3308,
+            "losses": 1998
+        },
+        "IHS": {
+            "level": 53.333333333333336,
+            "killsELO": 1663.6066666666666,
+            "gamesELO": 1565.7766666666666,
+            "wins": 699,
+            "losses": 423
+        },
+        "IMMORTAL": {
+            "level": 74.0,
+            "killsELO": 1637.3133333333335,
+            "gamesELO": 1681.9466666666667,
+            "wins": 394,
+            "losses": 249
+        },
+        "INJ": {
+            "level": 152.0,
+            "killsELO": 1513.95,
+            "gamesELO": 1530.18,
+            "wins": 838,
+            "losses": 806
+        },
+        "INJ.": {
+            "level": 236.375,
+            "killsELO": 1750.5443750000002,
+            "gamesELO": 1844.725,
+            "wins": 18664,
+            "losses": 9938
+        },
+        "INSANE": {
+            "level": 60.125,
+            "killsELO": 1647.15625,
+            "gamesELO": 1710.7562500000001,
+            "wins": 2712,
+            "losses": 1713
+        },
+        "ISR": {
+            "level": 61.0,
+            "killsELO": 1450.36,
+            "gamesELO": 1498.3,
+            "wins": 1206,
+            "losses": 1313
+        },
+        "IX-": {
+            "level": 113.0,
+            "killsELO": 1607.18,
+            "gamesELO": 1435.22,
+            "wins": 425,
+            "losses": 328
+        },
+        "Initial": {
+            "level": 126.0,
+            "killsELO": 1705.38,
+            "gamesELO": 1513.91,
+            "wins": 800,
+            "losses": 598
+        },
+        "JDM": {
+            "level": 94.0,
+            "killsELO": 1607.4099999999999,
+            "gamesELO": 1651.195,
+            "wins": 2241,
+            "losses": 1755
+        },
+        "JOJO": {
+            "level": 55.0,
+            "killsELO": 1646.81,
+            "gamesELO": 1754.6,
+            "wins": 365,
+            "losses": 320
+        },
+        "JOKER": {
+            "level": 52.0,
+            "killsELO": 1660.13,
+            "gamesELO": 1373.22,
+            "wins": 442,
+            "losses": 310
+        },
+        "JPMAN": {
+            "level": 55.0,
+            "killsELO": 1527.26,
+            "gamesELO": 1572.65,
+            "wins": 62,
+            "losses": 33
+        },
+        "JTF2": {
+            "level": 30.0,
+            "killsELO": 1477.21,
+            "gamesELO": 1399.76,
+            "wins": 161,
+            "losses": 120
+        },
+        "JUSTICE": {
+            "level": 27.0,
+            "killsELO": 1382.51,
+            "gamesELO": 1290.02,
+            "wins": 149,
+            "losses": 160
+        },
+        "Japan": {
+            "level": 110.53333333333333,
+            "killsELO": 1607.9473333333335,
+            "gamesELO": 1691.624,
+            "wins": 9462,
+            "losses": 6156
+        },
+        "K!LLS": {
+            "level": 43.0,
+            "killsELO": 1590.19,
+            "gamesELO": 1641.15,
+            "wins": 345,
+            "losses": 238
+        },
+        "K-12": {
+            "level": 51.0,
+            "killsELO": 1619.065,
+            "gamesELO": 1474.9299999999998,
+            "wins": 736,
+            "losses": 447
+        },
+        "K.B.9": {
+            "level": 81.125,
+            "killsELO": 1582.66875,
+            "gamesELO": 1696.3649999999998,
+            "wins": 3411,
+            "losses": 2276
+        },
+        "K.I.A.": {
+            "level": 108.0,
+            "killsELO": 1716.41,
+            "gamesELO": 1768.71,
+            "wins": 756,
+            "losses": 513
+        },
+        "K11NGS": {
+            "level": 81.0,
+            "killsELO": 1693.16,
+            "gamesELO": 1691.21,
+            "wins": 576,
+            "losses": 312
+        },
+        "KDR": {
+            "level": 58.2,
+            "killsELO": 1559.656,
+            "gamesELO": 1576.048,
+            "wins": 1653,
+            "losses": 1209
+        },
+        "KGB": {
+            "level": 42.0,
+            "killsELO": 1548.31,
+            "gamesELO": 1574.34,
+            "wins": 147,
+            "losses": 135
+        },
+        "KILLERS": {
+            "level": 115.0,
+            "killsELO": 1730.7,
+            "gamesELO": 2096.41,
+            "wins": 816,
+            "losses": 507
+        },
+        "KING": {
+            "level": 73.0,
+            "killsELO": 1584.56,
+            "gamesELO": 1644.925,
+            "wins": 834,
+            "losses": 568
+        },
+        "KNIFE": {
+            "level": 37.0,
+            "killsELO": 1665.71,
+            "gamesELO": 1640.53,
+            "wins": 338,
+            "losses": 213
+        },
+        "KR": {
+            "level": 239.4,
+            "killsELO": 1678.848,
+            "gamesELO": 1766.1799999999998,
+            "wins": 5423,
+            "losses": 2616
+        },
+        "KRAKEN": {
+            "level": 55.0,
+            "killsELO": 1633.0,
+            "gamesELO": 1809.9,
+            "wins": 347,
+            "losses": 252
+        },
+        "KRL": {
+            "level": 83.0,
+            "killsELO": 1565.195,
+            "gamesELO": 1597.805,
+            "wins": 817,
+            "losses": 572
+        },
+        "KSK": {
+            "level": 330.6666666666667,
+            "killsELO": 1632.76,
+            "gamesELO": 1800.5833333333333,
+            "wins": 4737,
+            "losses": 2560
+        },
+        "KVLT": {
+            "level": 98.0,
+            "killsELO": 1585.71,
+            "gamesELO": 1547.5900000000001,
+            "wins": 225,
+            "losses": 147
+        },
+        "Kinetic": {
+            "level": 116.0,
+            "killsELO": 1494.3,
+            "gamesELO": 1610.91,
+            "wins": 1043,
+            "losses": 824
+        },
+        "Kings": {
+            "level": 70.0,
+            "killsELO": 1575.52,
+            "gamesELO": 1613.27,
+            "wins": 327,
+            "losses": 303
+        },
+        "Korea_": {
+            "level": 175.5,
+            "killsELO": 1694.435,
+            "gamesELO": 1931.495,
+            "wins": 2047,
+            "losses": 1126
+        },
+        "L2P": {
+            "level": 57.0,
+            "killsELO": 1601.97,
+            "gamesELO": 1911.16,
+            "wins": 255,
+            "losses": 131
+        },
+        "LEADERS": {
+            "level": 68.0,
+            "killsELO": 1781.99,
+            "gamesELO": 2143.14,
+            "wins": 304,
+            "losses": 125
+        },
+        "LEG1ON": {
+            "level": 48.5,
+            "killsELO": 1537.6950000000002,
+            "gamesELO": 1635.2,
+            "wins": 527,
+            "losses": 424
+        },
+        "LEGENDRY": {
+            "level": 159.0,
+            "killsELO": 1534.455,
+            "gamesELO": 1471.325,
+            "wins": 2530,
+            "losses": 1950
+        },
+        "LEGENDS": {
+            "level": 43.375,
+            "killsELO": 1554.0587500000001,
+            "gamesELO": 1645.6437499999997,
+            "wins": 1908,
+            "losses": 1258
+        },
+        "LEGIO": {
+            "level": 57.5,
+            "killsELO": 1560.58,
+            "gamesELO": 1648.4499999999998,
+            "wins": 619,
+            "losses": 490
+        },
+        "LEGION": {
+            "level": 130.85416666666666,
+            "killsELO": 1604.9270833333337,
+            "gamesELO": 1731.8893750000004,
+            "wins": 26472,
+            "losses": 15948
+        },
+        "LEO": {
+            "level": 52.0,
+            "killsELO": 1565.4799999999998,
+            "gamesELO": 1646.0466666666669,
+            "wins": 556,
+            "losses": 402
+        },
+        "LONGSHOT": {
+            "level": 160.0,
+            "killsELO": 1657.3,
+            "gamesELO": 1615.65,
+            "wins": 53,
+            "losses": 33
+        },
+        "LOR'D": {
+            "level": 188.16666666666666,
+            "killsELO": 1657.9177777777777,
+            "gamesELO": 1834.3083333333334,
+            "wins": 10897,
+            "losses": 5054
+        },
+        "LOST": {
+            "level": 197.0,
+            "killsELO": 1615.03,
+            "gamesELO": 1869.78,
+            "wins": 272,
+            "losses": 184
+        },
+        "LP": {
+            "level": 274.2857142857143,
+            "killsELO": 1827.1485714285716,
+            "gamesELO": 1900.6742857142858,
+            "wins": 10268,
+            "losses": 5038
+        },
+        "Lambda!": {
+            "level": 146.0,
+            "killsELO": 1706.47,
+            "gamesELO": 2101.08,
+            "wins": 949,
+            "losses": 557
+        },
+        "Lokivile": {
+            "level": 89.0,
+            "killsELO": 1488.32,
+            "gamesELO": 1483.22,
+            "wins": 443,
+            "losses": 371
+        },
+        "Lotus": {
+            "level": 319.25,
+            "killsELO": 1746.8925,
+            "gamesELO": 1943.125,
+            "wins": 4776,
+            "losses": 2291
+        },
+        "Love": {
+            "level": 61.0,
+            "killsELO": 1500.87,
+            "gamesELO": 1482.27,
+            "wins": 13,
+            "losses": 16
+        },
+        "Lunar": {
+            "level": 55.5,
+            "killsELO": 1620.4650000000001,
+            "gamesELO": 1388.665,
+            "wins": 148,
+            "losses": 128
+        },
+        "M.E.G": {
+            "level": 160.0,
+            "killsELO": 1674.0233333333333,
+            "gamesELO": 1799.7533333333333,
+            "wins": 1504,
+            "losses": 648
+        },
+        "M.I.5": {
+            "level": 58.0,
+            "killsELO": 1487.66,
+            "gamesELO": 1631.85,
+            "wins": 411,
+            "losses": 322
+        },
+        "M0rt@ls": {
+            "level": 112.5,
+            "killsELO": 1649.27,
+            "gamesELO": 1564.075,
+            "wins": 1177,
+            "losses": 525
+        },
+        "MAF1A": {
+            "level": 202.0,
+            "killsELO": 1764.56,
+            "gamesELO": 2405.63,
+            "wins": 1098,
+            "losses": 616
+        },
+        "MAFIA": {
+            "level": 210.0,
+            "killsELO": 1683.22,
+            "gamesELO": 2031.71,
+            "wins": 1313,
+            "losses": 655
+        },
+        "MAG": {
+            "level": 52.0,
+            "killsELO": 1364.31,
+            "gamesELO": 1343.52,
+            "wins": 492,
+            "losses": 476
+        },
+        "MAVERIC": {
+            "level": 81.0,
+            "killsELO": 1604.01,
+            "gamesELO": 1722.3,
+            "wins": 375,
+            "losses": 201
+        },
+        "MAVERICK": {
+            "level": 69.5,
+            "killsELO": 1601.21,
+            "gamesELO": 1663.145,
+            "wins": 406,
+            "losses": 252
+        },
+        "MAYAN": {
+            "level": 61.0,
+            "killsELO": 1553.4,
+            "gamesELO": 1410.22,
+            "wins": 425,
+            "losses": 415
+        },
+        "MED": {
+            "level": 64.75,
+            "killsELO": 1572.16,
+            "gamesELO": 1600.2775000000001,
+            "wins": 255,
+            "losses": 186
+        },
+        "MEDIC": {
+            "level": 281.0,
+            "killsELO": 1651.59,
+            "gamesELO": 1799.39,
+            "wins": 2763,
+            "losses": 1937
+        },
+        "MEME": {
+            "level": 64.5,
+            "killsELO": 1616.615,
+            "gamesELO": 1768.34,
+            "wins": 657,
+            "losses": 346
+        },
+        "MIB": {
+            "level": 54.0,
+            "killsELO": 1495.855,
+            "gamesELO": 1587.6100000000001,
+            "wins": 359,
+            "losses": 303
+        },
+        "MKVI": {
+            "level": 173.0,
+            "killsELO": 1637.2712499999998,
+            "gamesELO": 1889.6074999999998,
+            "wins": 8671,
+            "losses": 3991
+        },
+        "MLJ.": {
+            "level": 694.0,
+            "killsELO": 1647.41,
+            "gamesELO": 1756.97,
+            "wins": 683,
+            "losses": 279
+        },
+        "MONKAAA": {
+            "level": 56.0,
+            "killsELO": 1604.2150000000001,
+            "gamesELO": 1848.295,
+            "wins": 643,
+            "losses": 408
+        },
+        "MORTIMER": {
+            "level": 58.0,
+            "killsELO": 1561.18,
+            "gamesELO": 1501.96,
+            "wins": 352,
+            "losses": 267
+        },
+        "MPP": {
+            "level": 50.0,
+            "killsELO": 1481.455,
+            "gamesELO": 1560.895,
+            "wins": 203,
+            "losses": 134
+        },
+        "MURICA": {
+            "level": 103.5,
+            "killsELO": 1542.79,
+            "gamesELO": 1601.005,
+            "wins": 833,
+            "losses": 723
+        },
+        "MZR": {
+            "level": 131.0,
+            "killsELO": 1627.82,
+            "gamesELO": 1561.36,
+            "wins": 77,
+            "losses": 29
+        },
+        "Major": {
+            "level": 53.0,
+            "killsELO": 1447.67,
+            "gamesELO": 1542.37,
+            "wins": 219,
+            "losses": 228
+        },
+        "Maun": {
+            "level": 170.84615384615384,
+            "killsELO": 1625.7753846153848,
+            "gamesELO": 1671.1330769230767,
+            "wins": 10759,
+            "losses": 7509
+        },
+        "MoW": {
+            "level": 100.0,
+            "killsELO": 1554.34,
+            "gamesELO": 1516.43,
+            "wins": 661,
+            "losses": 604
+        },
+        "N0W@R": {
+            "level": 67.0,
+            "killsELO": 1589.08,
+            "gamesELO": 1626.6,
+            "wins": 647,
+            "losses": 574
+        },
+        "NANDOS": {
+            "level": 187.33333333333334,
+            "killsELO": 1583.8633333333335,
+            "gamesELO": 1704.67,
+            "wins": 1278,
+            "losses": 995
+        },
+        "NASA": {
+            "level": 113.0,
+            "killsELO": 1839.61,
+            "gamesELO": 2107.57,
+            "wins": 498,
+            "losses": 206
+        },
+        "NERDS": {
+            "level": 506.42857142857144,
+            "killsELO": 1740.0228571428572,
+            "gamesELO": 2002.8357142857144,
+            "wins": 14164,
+            "losses": 8157
+        },
+        "NERDS2": {
+            "level": 63.0,
+            "killsELO": 1517.97,
+            "gamesELO": 1483.96,
+            "wins": 492,
+            "losses": 412
+        },
+        "NEURO": {
+            "level": 47.333333333333336,
+            "killsELO": 1574.5433333333333,
+            "gamesELO": 1608.8166666666668,
+            "wins": 676,
+            "losses": 574
+        },
+        "NK-Zone": {
+            "level": 119.0,
+            "killsELO": 1690.92,
+            "gamesELO": 1531.76,
+            "wins": 111,
+            "losses": 63
+        },
+        "NRA": {
+            "level": 135.83333333333334,
+            "killsELO": 1647.4466666666667,
+            "gamesELO": 1805.41,
+            "wins": 4110,
+            "losses": 2216
+        },
+        "NRG": {
+            "level": 61.875,
+            "killsELO": 1583.46,
+            "gamesELO": 1621.73,
+            "wins": 3225,
+            "losses": 2345
+        },
+        "NX-01": {
+            "level": 103.0,
+            "killsELO": 1609.35,
+            "gamesELO": 1770.64,
+            "wins": 289,
+            "losses": 266
+        },
+        "Nucleus": {
+            "level": 86.33333333333333,
+            "killsELO": 1720.4666666666665,
+            "gamesELO": 1874.92,
+            "wins": 1307,
+            "losses": 668
+        },
+        "OBJECT": {
+            "level": 391.0,
+            "killsELO": 1810.62,
+            "gamesELO": 2487.5,
+            "wins": 1262,
+            "losses": 498
+        },
+        "OMEGA": {
+            "level": 77.0,
+            "killsELO": 1708.81,
+            "gamesELO": 1497.69,
+            "wins": 91,
+            "losses": 38
+        },
+        "ORANGE": {
+            "level": 239.0,
+            "killsELO": 1690.68,
+            "gamesELO": 1985.02,
+            "wins": 1220,
+            "losses": 736
+        },
+        "OTSG": {
+            "level": 103.0,
+            "killsELO": 1698.53,
+            "gamesELO": 2028.565,
+            "wins": 844,
+            "losses": 442
+        },
+        "OUTLAW": {
+            "level": 159.0,
+            "killsELO": 1652.76,
+            "gamesELO": 1907.52,
+            "wins": 429,
+            "losses": 190
+        },
+        "Officers": {
+            "level": 74.0,
+            "killsELO": 1603.53,
+            "gamesELO": 1789.75,
+            "wins": 412,
+            "losses": 248
+        },
+        "Omni": {
+            "level": 55.0,
+            "killsELO": 1553.61,
+            "gamesELO": 1522.29,
+            "wins": 422,
+            "losses": 314
+        },
+        "P.T.S.D": {
+            "level": 145.0,
+            "killsELO": 1622.88,
+            "gamesELO": 1783.28,
+            "wins": 547,
+            "losses": 475
+        },
+        "P0L!C3": {
+            "level": 283.0,
+            "killsELO": 1642.08,
+            "gamesELO": 1991.48,
+            "wins": 1785,
+            "losses": 974
+        },
+        "PAIN": {
+            "level": 230.83673469387756,
+            "killsELO": 1644.2673469387753,
+            "gamesELO": 1827.1853061224492,
+            "wins": 54540,
+            "losses": 31140
+        },
+        "PANDA": {
+            "level": 53.5,
+            "killsELO": 1539.095,
+            "gamesELO": 1526.205,
+            "wins": 632,
+            "losses": 516
+        },
+        "PANZER": {
+            "level": 62.333333333333336,
+            "killsELO": 1557.6266666666668,
+            "gamesELO": 1641.6599999999999,
+            "wins": 873,
+            "losses": 800
+        },
+        "PCN": {
+            "level": 131.0,
+            "killsELO": 1628.92,
+            "gamesELO": 1500.17,
+            "wins": 989,
+            "losses": 729
+        },
+        "PCrewAUS": {
+            "level": 218.77777777777777,
+            "killsELO": 1617.4511111111105,
+            "gamesELO": 1780.831851851852,
+            "wins": 35142,
+            "losses": 17112
+        },
+        "PDI": {
+            "level": 60.0,
+            "killsELO": 1596.69,
+            "gamesELO": 1689.7,
+            "wins": 368,
+            "losses": 276
+        },
+        "PENTEST": {
+            "level": 56.0,
+            "killsELO": 1851.505,
+            "gamesELO": 1903.6999999999998,
+            "wins": 331,
+            "losses": 131
+        },
+        "PFJ": {
+            "level": 35.0,
+            "killsELO": 1496.1599999999999,
+            "gamesELO": 1502.5533333333333,
+            "wins": 392,
+            "losses": 315
+        },
+        "PH-Pinoy": {
+            "level": 87.0,
+            "killsELO": 1835.58,
+            "gamesELO": 2481.74,
+            "wins": 399,
+            "losses": 115
+        },
+        "PHP": {
+            "level": 89.6,
+            "killsELO": 1692.538,
+            "gamesELO": 1964.566,
+            "wins": 1540,
+            "losses": 892
+        },
+        "PLG": {
+            "level": 73.16666666666667,
+            "killsELO": 1647.7616666666665,
+            "gamesELO": 1822.6633333333332,
+            "wins": 1974,
+            "losses": 1412
+        },
+        "PMC": {
+            "level": 82.0,
+            "killsELO": 1703.965,
+            "gamesELO": 1812.99,
+            "wins": 961,
+            "losses": 526
+        },
+        "POG": {
+            "level": 146.0,
+            "killsELO": 1826.995,
+            "gamesELO": 1707.95,
+            "wins": 947,
+            "losses": 70
+        },
+        "POKE": {
+            "level": 126.0,
+            "killsELO": 1655.99,
+            "gamesELO": 1772.9,
+            "wins": 1370,
+            "losses": 1102
+        },
+        "POV": {
+            "level": 92.0,
+            "killsELO": 1619.74,
+            "gamesELO": 1578.61,
+            "wins": 267,
+            "losses": 177
+        },
+        "POW": {
+            "level": 100.33333333333333,
+            "killsELO": 1513.5866666666668,
+            "gamesELO": 1532.6533333333334,
+            "wins": 2166,
+            "losses": 1548
+        },
+        "PPAP": {
+            "level": 112.5,
+            "killsELO": 1635.98,
+            "gamesELO": 1697.48,
+            "wins": 1044,
+            "losses": 876
+        },
+        "PRCD": {
+            "level": 94.0,
+            "killsELO": 1604.67,
+            "gamesELO": 1860.43,
+            "wins": 741,
+            "losses": 463
+        },
+        "PROBOIZ": {
+            "level": 84.0,
+            "killsELO": 1552.605,
+            "gamesELO": 1631.455,
+            "wins": 386,
+            "losses": 267
+        },
+        "PROTOGEN": {
+            "level": 56.5,
+            "killsELO": 1559.47,
+            "gamesELO": 1471.87,
+            "wins": 781,
+            "losses": 587
+        },
+        "PSE": {
+            "level": 242.6,
+            "killsELO": 1773.966,
+            "gamesELO": 2002.6979999999999,
+            "wins": 6215,
+            "losses": 3257
+        },
+        "PVM...": {
+            "level": 111.0,
+            "killsELO": 1526.05,
+            "gamesELO": 1434.34,
+            "wins": 492,
+            "losses": 497
+        },
+        "Patate": {
+            "level": 109.5,
+            "killsELO": 1678.1999999999998,
+            "gamesELO": 1865.735,
+            "wins": 1212,
+            "losses": 757
+        },
+        "Phantom": {
+            "level": 129.5,
+            "killsELO": 1655.1175,
+            "gamesELO": 1755.4275000000002,
+            "wins": 2188,
+            "losses": 964
+        },
+        "Pingu": {
+            "level": 75.3157894736842,
+            "killsELO": 1564.4773684210525,
+            "gamesELO": 1631.3373684210526,
+            "wins": 8992,
+            "losses": 6048
+        },
+        "Pixle": {
+            "level": 111.0,
+            "killsELO": 1685.24,
+            "gamesELO": 1132.81,
+            "wins": 632,
+            "losses": 492
+        },
+        "PoIar": {
+            "level": 206.0,
+            "killsELO": 1675.96,
+            "gamesELO": 1944.62,
+            "wins": 446,
+            "losses": 174
+        },
+        "Polar": {
+            "level": 639.7142857142857,
+            "killsELO": 1852.3514285714284,
+            "gamesELO": 2158.719285714286,
+            "wins": 42903,
+            "losses": 16285
+        },
+        "Predator": {
+            "level": 47.833333333333336,
+            "killsELO": 1558.2,
+            "gamesELO": 1606.743333333333,
+            "wins": 1544,
+            "losses": 1315
+        },
+        "Psalm": {
+            "level": 55.0,
+            "killsELO": 1681.25,
+            "gamesELO": 1867.22,
+            "wins": 313,
+            "losses": 186
+        },
+        "Q_Q": {
+            "level": 274.5,
+            "killsELO": 1683.23,
+            "gamesELO": 1738.155,
+            "wins": 1659,
+            "losses": 894
+        },
+        "RADAR": {
+            "level": 56.0,
+            "killsELO": 1708.31,
+            "gamesELO": 1905.51,
+            "wins": 320,
+            "losses": 144
+        },
+        "RANGER": {
+            "level": 54.0,
+            "killsELO": 1473.78,
+            "gamesELO": 1426.21,
+            "wins": 268,
+            "losses": 291
+        },
+        "RAT": {
+            "level": 205.0,
+            "killsELO": 1578.43,
+            "gamesELO": 1731.01,
+            "wins": 810,
+            "losses": 597
+        },
+        "RATS": {
+            "level": 219.0,
+            "killsELO": 1671.39,
+            "gamesELO": 1816.67,
+            "wins": 403,
+            "losses": 140
+        },
+        "RDR2": {
+            "level": 52.0,
+            "killsELO": 1558.83,
+            "gamesELO": 1354.2849999999999,
+            "wins": 528,
+            "losses": 425
+        },
+        "REAL": {
+            "level": 145.33333333333334,
+            "killsELO": 1593.7333333333333,
+            "gamesELO": 1780.1866666666667,
+            "wins": 8525,
+            "losses": 5026
+        },
+        "RED": {
+            "level": 161.0,
+            "killsELO": 1689.92,
+            "gamesELO": 1970.8,
+            "wins": 655,
+            "losses": 242
+        },
+        "RESPECT": {
+            "level": 130.0,
+            "killsELO": 1568.31,
+            "gamesELO": 1629.38,
+            "wins": 797,
+            "losses": 537
+        },
+        "REX": {
+            "level": 87.88888888888889,
+            "killsELO": 1618.19,
+            "gamesELO": 1722.7533333333333,
+            "wins": 4975,
+            "losses": 3193
+        },
+        "RG4L": {
+            "level": 107.33333333333333,
+            "killsELO": 1606.4811111111112,
+            "gamesELO": 1812.3977777777777,
+            "wins": 6112,
+            "losses": 3857
+        },
+        "RHO": {
+            "level": 80.0,
+            "killsELO": 1632.77,
+            "gamesELO": 1589.83,
+            "wins": 77,
+            "losses": 36
+        },
+        "RISK": {
+            "level": 83.0,
+            "killsELO": 1558.0866666666668,
+            "gamesELO": 1560.8933333333334,
+            "wins": 1151,
+            "losses": 903
+        },
+        "ROGUE": {
+            "level": 168.0,
+            "killsELO": 1654.8044444444445,
+            "gamesELO": 1833.7105555555556,
+            "wins": 19350,
+            "losses": 11375
+        },
+        "ROT": {
+            "level": 87.0,
+            "killsELO": 1488.93,
+            "gamesELO": 1485.32,
+            "wins": 684,
+            "losses": 636
+        },
+        "RPG": {
+            "level": 73.0,
+            "killsELO": 1563.22,
+            "gamesELO": 1630.51,
+            "wins": 492,
+            "losses": 306
+        },
+        "RU$": {
+            "level": 151.66666666666666,
+            "killsELO": 1637.293333333333,
+            "gamesELO": 1732.9266666666665,
+            "wins": 2080,
+            "losses": 1021
+        },
+        "RUS": {
+            "level": 176.0,
+            "killsELO": 1724.91,
+            "gamesELO": 2355.14,
+            "wins": 1290,
+            "losses": 583
+        },
+        "RUSSIA": {
+            "level": 194.0,
+            "killsELO": 1722.95,
+            "gamesELO": 2092.98,
+            "wins": 1322,
+            "losses": 623
+        },
+        "RWS": {
+            "level": 78.0,
+            "killsELO": 1761.78,
+            "gamesELO": 1912.33,
+            "wins": 1388,
+            "losses": 807
+        },
+        "RaB": {
+            "level": 148.08333333333334,
+            "killsELO": 1653.1925,
+            "gamesELO": 1724.6033333333337,
+            "wins": 8423,
+            "losses": 6480
+        },
+        "Rawleak": {
+            "level": 108.0,
+            "killsELO": 1683.34,
+            "gamesELO": 1861.78,
+            "wins": 106,
+            "losses": 48
+        },
+        "Reaper": {
+            "level": 46.333333333333336,
+            "killsELO": 1584.4966666666667,
+            "gamesELO": 1670.0733333333335,
+            "wins": 516,
+            "losses": 396
+        },
+        "Reapers": {
+            "level": 70.0,
+            "killsELO": 1513.585,
+            "gamesELO": 1532.56,
+            "wins": 970,
+            "losses": 873
+        },
+        "RedFlys": {
+            "level": 145.0,
+            "killsELO": 1624.42,
+            "gamesELO": 1762.78,
+            "wins": 521,
+            "losses": 474
+        },
+        "Revive": {
+            "level": 81.0,
+            "killsELO": 1699.6,
+            "gamesELO": 1923.96,
+            "wins": 570,
+            "losses": 290
+        },
+        "RoX": {
+            "level": 261.7142857142857,
+            "killsELO": 1685.6364285714285,
+            "gamesELO": 1794.7707142857146,
+            "wins": 15170,
+            "losses": 11174
+        },
+        "S.T": {
+            "level": 213.71428571428572,
+            "killsELO": 1738.4571428571428,
+            "gamesELO": 2036.1214285714284,
+            "wins": 9728,
+            "losses": 5475
+        },
+        "S41": {
+            "level": 118.0,
+            "killsELO": 1685.82,
+            "gamesELO": 1999.78,
+            "wins": 347,
+            "losses": 218
+        },
+        "SAS": {
+            "level": 46.5,
+            "killsELO": 1496.0749999999998,
+            "gamesELO": 1460.9450000000002,
+            "wins": 658,
+            "losses": 611
+        },
+        "SASR": {
+            "level": 29.0,
+            "killsELO": 1605.87,
+            "gamesELO": 1539.95,
+            "wins": 125,
+            "losses": 78
+        },
+        "SAVIOR": {
+            "level": 77.66666666666667,
+            "killsELO": 1598.786,
+            "gamesELO": 1639.6653333333331,
+            "wins": 7586,
+            "losses": 4862
+        },
+        "SCREAM": {
+            "level": 44.75,
+            "killsELO": 1533.5825,
+            "gamesELO": 1618.0275000000001,
+            "wins": 836,
+            "losses": 589
+        },
+        "SEAL": {
+            "level": 71.72727272727273,
+            "killsELO": 1576.9145454545453,
+            "gamesELO": 1581.62,
+            "wins": 4841,
+            "losses": 3606
+        },
+        "SEN": {
+            "level": 119.0,
+            "killsELO": 1920.85,
+            "gamesELO": 2060.83,
+            "wins": 622,
+            "losses": 209
+        },
+        "SFMF": {
+            "level": 86.0,
+            "killsELO": 1522.02,
+            "gamesELO": 1593.06,
+            "wins": 124,
+            "losses": 75
+        },
+        "SGNT": {
+            "level": 75.0,
+            "killsELO": 1584.15,
+            "gamesELO": 1509.24,
+            "wins": 181,
+            "losses": 117
+        },
+        "SHD": {
+            "level": 301.5625,
+            "killsELO": 1752.7993750000005,
+            "gamesELO": 1858.096875,
+            "wins": 18879,
+            "losses": 10294
+        },
+        "SHERB": {
+            "level": 80.0,
+            "killsELO": 1495.12,
+            "gamesELO": 1441.13,
+            "wins": 854,
+            "losses": 845
+        },
+        "SHFT": {
+            "level": 46.5,
+            "killsELO": 1634.455,
+            "gamesELO": 1711.96,
+            "wins": 107,
+            "losses": 70
+        },
+        "SICKOS": {
+            "level": 53.0,
+            "killsELO": 1705.11,
+            "gamesELO": 1674.36,
+            "wins": 159,
+            "losses": 81
+        },
+        "SIGMA": {
+            "level": 60.0,
+            "killsELO": 1535.676,
+            "gamesELO": 1604.882,
+            "wins": 1105,
+            "losses": 682
+        },
+        "SK": {
+            "level": 134.1818181818182,
+            "killsELO": 1655.0481818181818,
+            "gamesELO": 1673.9999999999998,
+            "wins": 8518,
+            "losses": 5077
+        },
+        "SKS": {
+            "level": 71.0,
+            "killsELO": 1409.78,
+            "gamesELO": 1487.44,
+            "wins": 195,
+            "losses": 207
+        },
+        "SKU": {
+            "level": 69.0,
+            "killsELO": 1664.2,
+            "gamesELO": 1793.82,
+            "wins": 297,
+            "losses": 115
+        },
+        "SLIME": {
+            "level": 117.0,
+            "killsELO": 1711.0,
+            "gamesELO": 2352.19,
+            "wins": 693,
+            "losses": 273
+        },
+        "SNPR": {
+            "level": 158.0,
+            "killsELO": 1539.08,
+            "gamesELO": 1629.67,
+            "wins": 1322,
+            "losses": 723
+        },
+        "SOAR": {
+            "level": 41.0,
+            "killsELO": 1562.835,
+            "gamesELO": 1451.715,
+            "wins": 327,
+            "losses": 320
+        },
+        "SOF": {
+            "level": 91.75,
+            "killsELO": 1592.51,
+            "gamesELO": 1615.0875,
+            "wins": 1995,
+            "losses": 1442
+        },
+        "SOLDERS": {
+            "level": 74.5,
+            "killsELO": 1559.115,
+            "gamesELO": 1591.18,
+            "wins": 134,
+            "losses": 94
+        },
+        "SOSI": {
+            "level": 71.0,
+            "killsELO": 1613.98,
+            "gamesELO": 1733.94,
+            "wins": 339,
+            "losses": 178
+        },
+        "SPED": {
+            "level": 106.0,
+            "killsELO": 1566.32,
+            "gamesELO": 1829.95,
+            "wins": 439,
+            "losses": 307
+        },
+        "SQUID": {
+            "level": 51.0,
+            "killsELO": 1321.4,
+            "gamesELO": 1634.52,
+            "wins": 231,
+            "losses": 192
+        },
+        "SSR": {
+            "level": 96.75,
+            "killsELO": 1641.9325,
+            "gamesELO": 1756.42375,
+            "wins": 4343,
+            "losses": 2438
+        },
+        "STAR": {
+            "level": 97.0,
+            "killsELO": 1622.245,
+            "gamesELO": 1768.865,
+            "wins": 1301,
+            "losses": 994
+        },
+        "STRIKE": {
+            "level": 229.16666666666666,
+            "killsELO": 1701.495,
+            "gamesELO": 1997.155,
+            "wins": 6870,
+            "losses": 2984
+        },
+        "STRIKER": {
+            "level": 82.0,
+            "killsELO": 1584.29,
+            "gamesELO": 1599.3449999999998,
+            "wins": 2297,
+            "losses": 1867
+        },
+        "SVEN": {
+            "level": 91.5,
+            "killsELO": 1610.71,
+            "gamesELO": 1627.26,
+            "wins": 196,
+            "losses": 154
+        },
+        "SWAT": {
+            "level": 58.0,
+            "killsELO": 1658.18,
+            "gamesELO": 1810.99,
+            "wins": 399,
+            "losses": 359
+        },
+        "SaIns": {
+            "level": 40.0,
+            "killsELO": 1588.0,
+            "gamesELO": 1721.35,
+            "wins": 220,
+            "losses": 158
+        },
+        "Saikyo": {
+            "level": 115.0,
+            "killsELO": 1751.71,
+            "gamesELO": 1604.64,
+            "wins": 742,
+            "losses": 363
+        },
+        "Scorpio": {
+            "level": 96.0,
+            "killsELO": 1674.74,
+            "gamesELO": 1811.46,
+            "wins": 381,
+            "losses": 269
+        },
+        "Scythe": {
+            "level": 66.25,
+            "killsELO": 1589.925,
+            "gamesELO": 1629.7075,
+            "wins": 1089,
+            "losses": 865
+        },
+        "Shadow": {
+            "level": 68.66666666666667,
+            "killsELO": 1473.0466666666664,
+            "gamesELO": 1553.0466666666664,
+            "wins": 218,
+            "losses": 207
+        },
+        "Sine": {
+            "level": 117.0,
+            "killsELO": 1541.05,
+            "gamesELO": 1436.45,
+            "wins": 832,
+            "losses": 753
+        },
+        "Skittles": {
+            "level": 52.75,
+            "killsELO": 1574.5825,
+            "gamesELO": 1657.3174999999999,
+            "wins": 922,
+            "losses": 706
+        },
+        "Skynet": {
+            "level": 80.16666666666667,
+            "killsELO": 1567.2616666666665,
+            "gamesELO": 1521.9016666666669,
+            "wins": 1489,
+            "losses": 1242
+        },
+        "Slavs": {
+            "level": 72.0,
+            "killsELO": 1677.47,
+            "gamesELO": 1858.36,
+            "wins": 471,
+            "losses": 216
+        },
+        "Smell": {
+            "level": 128.0,
+            "killsELO": 1646.52,
+            "gamesELO": 1921.39,
+            "wins": 804,
+            "losses": 515
+        },
+        "Snipers": {
+            "level": 54.5,
+            "killsELO": 1505.025,
+            "gamesELO": 1646.1100000000001,
+            "wins": 626,
+            "losses": 562
+        },
+        "SoH": {
+            "level": 183.0,
+            "killsELO": 1784.93,
+            "gamesELO": 1938.03,
+            "wins": 1525,
+            "losses": 961
+        },
+        "SpecOps": {
+            "level": 70.0,
+            "killsELO": 1571.895,
+            "gamesELO": 1608.795,
+            "wins": 627,
+            "losses": 402
+        },
+        "Spetsnaz": {
+            "level": 55.0,
+            "killsELO": 1579.32,
+            "gamesELO": 1854.46,
+            "wins": 341,
+            "losses": 307
+        },
+        "Squad": {
+            "level": 64.0,
+            "killsELO": 1651.67,
+            "gamesELO": 1966.88,
+            "wins": 272,
+            "losses": 129
+        },
+        "Squadles": {
+            "level": 57.0,
+            "killsELO": 1648.37,
+            "gamesELO": 1801.11,
+            "wins": 304,
+            "losses": 266
+        },
+        "Sr.": {
+            "level": 75.0,
+            "killsELO": 1583.74,
+            "gamesELO": 1488.505,
+            "wins": 1207,
+            "losses": 726
+        },
+        "State": {
+            "level": 159.0,
+            "killsELO": 1636.86,
+            "gamesELO": 1926.33,
+            "wins": 904,
+            "losses": 796
+        },
+        "Summer": {
+            "level": 91.5,
+            "killsELO": 1590.2350000000001,
+            "gamesELO": 1625.13,
+            "wins": 682,
+            "losses": 482
+        },
+        "SupR": {
+            "level": 197.25,
+            "killsELO": 1617.760833333333,
+            "gamesELO": 1695.88,
+            "wins": 12201,
+            "losses": 6828
+        },
+        "TACOS": {
+            "level": 50.2,
+            "killsELO": 1556.6100000000001,
+            "gamesELO": 1548.472,
+            "wins": 944,
+            "losses": 847
+        },
+        "TAIWAN": {
+            "level": 46.0,
+            "killsELO": 1547.77,
+            "gamesELO": 1502.635,
+            "wins": 419,
+            "losses": 374
+        },
+        "TBLF": {
+            "level": 198.0,
+            "killsELO": 1674.49,
+            "gamesELO": 1814.74,
+            "wins": 969,
+            "losses": 674
+        },
+        "TEA": {
+            "level": 189.0,
+            "killsELO": 1387.57,
+            "gamesELO": 1612.85,
+            "wins": 2189,
+            "losses": 1975
+        },
+        "TEK": {
+            "level": 136.5,
+            "killsELO": 1558.4899999999998,
+            "gamesELO": 1608.3600000000001,
+            "wins": 409,
+            "losses": 293
+        },
+        "TGK": {
+            "level": 73.0,
+            "killsELO": 1663.49,
+            "gamesELO": 1934.54,
+            "wins": 482,
+            "losses": 376
+        },
+        "THAI": {
+            "level": 101.0,
+            "killsELO": 1615.6,
+            "gamesELO": 1713.18,
+            "wins": 369,
+            "losses": 260
+        },
+        "THEBOYZ": {
+            "level": 113.0,
+            "killsELO": 1648.58,
+            "gamesELO": 1958.05,
+            "wins": 645,
+            "losses": 279
+        },
+        "TLN": {
+            "level": 789.0,
+            "killsELO": 1650.955,
+            "gamesELO": 1921.115,
+            "wins": 9230,
+            "losses": 3828
+        },
+        "TRUCK": {
+            "level": 72.0,
+            "killsELO": 1669.5,
+            "gamesELO": 2186.0,
+            "wins": 423,
+            "losses": 184
+        },
+        "TURKEY": {
+            "level": 78.0,
+            "killsELO": 1442.34,
+            "gamesELO": 1547.16,
+            "wins": 423,
+            "losses": 395
+        },
+        "TXV-47": {
+            "level": 92.0,
+            "killsELO": 1600.82,
+            "gamesELO": 1930.83,
+            "wins": 669,
+            "losses": 474
+        },
+        "Tank": {
+            "level": 87.5,
+            "killsELO": 1683.47,
+            "gamesELO": 1794.125,
+            "wins": 857,
+            "losses": 417
+        },
+        "Temu": {
+            "level": 161.0,
+            "killsELO": 1793.74,
+            "gamesELO": 1866.47,
+            "wins": 1162,
+            "losses": 593
+        },
+        "Terror": {
+            "level": 63.0,
+            "killsELO": 1660.84,
+            "gamesELO": 1672.35,
+            "wins": 156,
+            "losses": 147
+        },
+        "The197th": {
+            "level": 64.0,
+            "killsELO": 1590.18,
+            "gamesELO": 1836.35,
+            "wins": 280,
+            "losses": 212
+        },
+        "TheEnd": {
+            "level": 293.75,
+            "killsELO": 1720.395,
+            "gamesELO": 1898.7675,
+            "wins": 6112,
+            "losses": 3897
+        },
+        "Thunder": {
+            "level": 90.0,
+            "killsELO": 1673.5633333333335,
+            "gamesELO": 1731.2966666666669,
+            "wins": 1354,
+            "losses": 890
+        },
+        "TopGun": {
+            "level": 68.0,
+            "killsELO": 1545.33,
+            "gamesELO": 1498.01,
+            "wins": 323,
+            "losses": 284
+        },
+        "TopHat": {
+            "level": 281.0,
+            "killsELO": 1566.0200000000002,
+            "gamesELO": 1682.2833333333335,
+            "wins": 6551,
+            "losses": 4709
+        },
+        "TotNA": {
+            "level": 354.75,
+            "killsELO": 1799.675,
+            "gamesELO": 2300.825,
+            "wins": 7027,
+            "losses": 2203
+        },
+        "Tradie": {
+            "level": 108.2,
+            "killsELO": 1626.3719999999998,
+            "gamesELO": 1663.8260000000002,
+            "wins": 2935,
+            "losses": 2221
+        },
+        "U.S.A": {
+            "level": 58.42857142857143,
+            "killsELO": 1528.8428571428572,
+            "gamesELO": 1594.787142857143,
+            "wins": 1355,
+            "losses": 1091
+        },
+        "U.S.S": {
+            "level": 35.0,
+            "killsELO": 1447.49,
+            "gamesELO": 1350.79,
+            "wins": 225,
+            "losses": 227
+        },
+        "UMS": {
+            "level": 337.96875,
+            "killsELO": 1713.4459375,
+            "gamesELO": 1901.0762499999996,
+            "wins": 44852,
+            "losses": 26114
+        },
+        "UNSC": {
+            "level": 69.0,
+            "killsELO": 1494.1,
+            "gamesELO": 1482.63,
+            "wins": 581,
+            "losses": 563
+        },
+        "USA": {
+            "level": 115.0,
+            "killsELO": 1753.95,
+            "gamesELO": 1879.27,
+            "wins": 307,
+            "losses": 153
+        },
+        "USEC": {
+            "level": 93.0,
+            "killsELO": 1638.01,
+            "gamesELO": 1693.73,
+            "wins": 396,
+            "losses": 282
+        },
+        "USS": {
+            "level": 51.666666666666664,
+            "killsELO": 1562.0433333333333,
+            "gamesELO": 1578.2,
+            "wins": 1127,
+            "losses": 1020
+        },
+        "USSR": {
+            "level": 54.0,
+            "killsELO": 1587.36,
+            "gamesELO": 1833.26,
+            "wins": 344,
+            "losses": 193
+        },
+        "Utubers": {
+            "level": 88.0,
+            "killsELO": 1637.28,
+            "gamesELO": 1681.61,
+            "wins": 373,
+            "losses": 278
+        },
+        "UwU": {
+            "level": 120.0,
+            "killsELO": 1691.44,
+            "gamesELO": 2103.14,
+            "wins": 494,
+            "losses": 234
+        },
+        "V4Y.hu": {
+            "level": 87.0,
+            "killsELO": 1688.44,
+            "gamesELO": 1869.9,
+            "wins": 354,
+            "losses": 97
+        },
+        "VANGAURD": {
+            "level": 45.75,
+            "killsELO": 1473.395,
+            "gamesELO": 1506.455,
+            "wins": 196,
+            "losses": 181
+        },
+        "VEX": {
+            "level": 155.0,
+            "killsELO": 1618.37,
+            "gamesELO": 1563.08,
+            "wins": 655,
+            "losses": 566
+        },
+        "VSU": {
+            "level": 117.0,
+            "killsELO": 1852.12,
+            "gamesELO": 1859.2300000000002,
+            "wins": 2140,
+            "losses": 674
+        },
+        "VVV": {
+            "level": 74.0,
+            "killsELO": 1596.71,
+            "gamesELO": 1762.575,
+            "wins": 752,
+            "losses": 409
+        },
+        "Vertex": {
+            "level": 298.94444444444446,
+            "killsELO": 1721.2111111111108,
+            "gamesELO": 2040.1872222222223,
+            "wins": 32323,
+            "losses": 12382
+        },
+        "Vortex": {
+            "level": 84.55555555555556,
+            "killsELO": 1591.0055555555557,
+            "gamesELO": 1559.0822222222223,
+            "wins": 3566,
+            "losses": 2496
+        },
+        "W.B.G": {
+            "level": 121.5,
+            "killsELO": 1595.405,
+            "gamesELO": 1595.455,
+            "wins": 1633,
+            "losses": 1317
+        },
+        "W.S": {
+            "level": 80.0,
+            "killsELO": 1595.96,
+            "gamesELO": 1754.51,
+            "wins": 517,
+            "losses": 414
+        },
+        "WBAF": {
+            "level": 59.0,
+            "killsELO": 1531.36,
+            "gamesELO": 1565.48,
+            "wins": 238,
+            "losses": 218
+        },
+        "WBTeam": {
+            "level": 81.0,
+            "killsELO": 1628.58,
+            "gamesELO": 1830.47,
+            "wins": 195,
+            "losses": 67
+        },
+        "WCS": {
+            "level": 27.0,
+            "killsELO": 1687.93,
+            "gamesELO": 1685.49,
+            "wins": 85,
+            "losses": 71
+        },
+        "WOLF": {
+            "level": 114.0,
+            "killsELO": 1657.8249999999998,
+            "gamesELO": 1758.52,
+            "wins": 1270,
+            "losses": 915
+        },
+        "WPN": {
+            "level": 101.42857142857143,
+            "killsELO": 1618.5142857142857,
+            "gamesELO": 1735.9614285714288,
+            "wins": 4207,
+            "losses": 2511
+        },
+        "WTW": {
+            "level": 307.0,
+            "killsELO": 1771.8000000000002,
+            "gamesELO": 2544.895,
+            "wins": 2341,
+            "losses": 997
+        },
+        "WYS": {
+            "level": 248.0,
+            "killsELO": 1658.09,
+            "gamesELO": 1926.27,
+            "wins": 1451,
+            "losses": 900
+        },
+        "Waffles": {
+            "level": 58.0,
+            "killsELO": 1544.33,
+            "gamesELO": 1537.34,
+            "wins": 287,
+            "losses": 211
+        },
+        "WarBroke": {
+            "level": 930.0,
+            "killsELO": 1809.9,
+            "gamesELO": 3194.33,
+            "wins": 4440,
+            "losses": 1304
+        },
+        "Warzone": {
+            "level": 87.0,
+            "killsELO": 1547.2869230769231,
+            "gamesELO": 1634.134615384615,
+            "wins": 5719,
+            "losses": 4145
+        },
+        "Weranda": {
+            "level": 60.5,
+            "killsELO": 1604.655,
+            "gamesELO": 1793.3449999999998,
+            "wins": 357,
+            "losses": 210
+        },
+        "WoH": {
+            "level": 120.0,
+            "killsELO": 1780.3066666666666,
+            "gamesELO": 1964.0033333333333,
+            "wins": 1917,
+            "losses": 898
+        },
+        "WolfPack": {
+            "level": 223.0,
+            "killsELO": 1597.17,
+            "gamesELO": 1604.335,
+            "wins": 3129,
+            "losses": 1949
+        },
+        "Wolves": {
+            "level": 62.0,
+            "killsELO": 1668.85,
+            "gamesELO": 1803.14,
+            "wins": 440,
+            "losses": 371
+        },
+        "Y-not": {
+            "level": 59.0,
+            "killsELO": 1531.87,
+            "gamesELO": 1701.52,
+            "wins": 219,
+            "losses": 221
+        },
+        "YOS": {
+            "level": 221.5,
+            "killsELO": 1716.7350000000001,
+            "gamesELO": 1997.435,
+            "wins": 638,
+            "losses": 394
+        },
+        "YSQ": {
+            "level": 67.0,
+            "killsELO": 1587.27,
+            "gamesELO": 1730.91,
+            "wins": 414,
+            "losses": 304
+        },
+        "ZER": {
+            "level": 210.0,
+            "killsELO": 1450.26,
+            "gamesELO": 1612.78,
+            "wins": 145,
+            "losses": 114
+        },
+        "^_^AURA": {
+            "level": 84.66666666666667,
+            "killsELO": 1601.3106666666665,
+            "gamesELO": 1740.3266666666664,
+            "wins": 18376,
+            "losses": 11486
+        },
+        "_0_": {
+            "level": 381.0,
+            "killsELO": 1890.41,
+            "gamesELO": 3030.27,
+            "wins": 1689,
+            "losses": 424
+        },
+        "___": {
+            "level": 182.83333333333334,
+            "killsELO": 1701.1000000000001,
+            "gamesELO": 2000.2983333333334,
+            "wins": 4879,
+            "losses": 1950
+        },
+        "a-10s": {
+            "level": 143.5,
+            "killsELO": 1525.29,
+            "gamesELO": 1577.98,
+            "wins": 2780,
+            "losses": 2496
+        },
+        "allgoods": {
+            "level": 70.0,
+            "killsELO": 1569.98,
+            "gamesELO": 1380.25,
+            "wins": 341,
+            "losses": 305
+        },
+        "besteod": {
+            "level": 150.0,
+            "killsELO": 1750.64,
+            "gamesELO": 2213.02,
+            "wins": 794,
+            "losses": 295
+        },
+        "birds": {
+            "level": 87.0,
+            "killsELO": 1560.59,
+            "gamesELO": 1651.81,
+            "wins": 548,
+            "losses": 462
+        },
+        "brokers": {
+            "level": 25.0,
+            "killsELO": 1489.82,
+            "gamesELO": 1440.52,
+            "wins": 100,
+            "losses": 68
+        },
+        "cool": {
+            "level": 55.0,
+            "killsELO": 1552.89,
+            "gamesELO": 1804.42,
+            "wins": 391,
+            "losses": 305
+        },
+        "dragons": {
+            "level": 52.0,
+            "killsELO": 1496.86,
+            "gamesELO": 1463.91,
+            "wins": 157,
+            "losses": 158
+        },
+        "french": {
+            "level": 108.0,
+            "killsELO": 1454.08,
+            "gamesELO": 1483.75,
+            "wins": 837,
+            "losses": 731
+        },
+        "gGRu": {
+            "level": 53.0,
+            "killsELO": 1546.105,
+            "gamesELO": 1432.975,
+            "wins": 840,
+            "losses": 821
+        },
+        "generals": {
+            "level": 42.0,
+            "killsELO": 1507.3,
+            "gamesELO": 1436.36,
+            "wins": 342,
+            "losses": 309
+        },
+        "ghosts_": {
+            "level": 62.0,
+            "killsELO": 1588.54,
+            "gamesELO": 1586.61,
+            "wins": 388,
+            "losses": 313
+        },
+        "issam": {
+            "level": 242.0,
+            "killsELO": 1610.6,
+            "gamesELO": 1970.52,
+            "wins": 562,
+            "losses": 385
+        },
+        "kILLER": {
+            "level": 52.0,
+            "killsELO": 1505.61,
+            "gamesELO": 1589.57,
+            "wins": 261,
+            "losses": 226
+        },
+        "keksquad": {
+            "level": 60.0,
+            "killsELO": 1500.45,
+            "gamesELO": 1591.29,
+            "wins": 351,
+            "losses": 256
+        },
+        "killeres": {
+            "level": 88.5,
+            "killsELO": 1598.4250000000002,
+            "gamesELO": 1624.04,
+            "wins": 969,
+            "losses": 871
+        },
+        "korea": {
+            "level": 172.0,
+            "killsELO": 1680.105,
+            "gamesELO": 1661.08,
+            "wins": 1940,
+            "losses": 959
+        },
+        "latam": {
+            "level": 87.0,
+            "killsELO": 1626.08,
+            "gamesELO": 1701.24,
+            "wins": 817,
+            "losses": 607
+        },
+        "mexicans": {
+            "level": 82.0,
+            "killsELO": 1593.47,
+            "gamesELO": 1953.83,
+            "wins": 385,
+            "losses": 290
+        },
+        "musters": {
+            "level": 44.0,
+            "killsELO": 1644.585,
+            "gamesELO": 1771.69,
+            "wins": 410,
+            "losses": 337
+        },
+        "nachos": {
+            "level": 108.0,
+            "killsELO": 1481.775,
+            "gamesELO": 1535.7350000000001,
+            "wins": 610,
+            "losses": 564
+        },
+        "peace": {
+            "level": 112.0,
+            "killsELO": 1669.35,
+            "gamesELO": 1671.52,
+            "wins": 606,
+            "losses": 458
+        },
+        "puckle": {
+            "level": 74.0,
+            "killsELO": 1574.88,
+            "gamesELO": 1684.96,
+            "wins": 296,
+            "losses": 194
+        },
+        "saveTF2": {
+            "level": 142.0,
+            "killsELO": 1623.0,
+            "gamesELO": 1938.59,
+            "wins": 580,
+            "losses": 235
+        },
+        "shameless": {
+            "level": 90.33333333333333,
+            "killsELO": 1642.9066666666668,
+            "gamesELO": 1647.6833333333334,
+            "wins": 1677,
+            "losses": 1159
+        },
+        "sorpox": {
+            "level": 1284.0,
+            "killsELO": 1752.32,
+            "gamesELO": 2112.39,
+            "wins": 7859,
+            "losses": 2410
+        },
+        "sq21961": {
+            "level": 1.0,
+            "killsELO": 1498.9,
+            "gamesELO": 1500.0,
+            "wins": 1,
+            "losses": 0
+        },
+        "sq33427": {
+            "level": 124.0,
+            "killsELO": 1604.98,
+            "gamesELO": 1915.52,
+            "wins": 587,
+            "losses": 349
+        },
+        "sq83014": {
+            "level": 54.333333333333336,
+            "killsELO": 1622.3500000000001,
+            "gamesELO": 1522.0433333333333,
+            "wins": 952,
+            "losses": 677
+        },
+        "strength": {
+            "level": 111.625,
+            "killsELO": 1611.33125,
+            "gamesELO": 1629.6512500000013,
+            "wins": 4388,
+            "losses": 3051
+        },
+        "t_and_co": {
+            "level": 60.5,
+            "killsELO": 1541.645,
+            "gamesELO": 1568.225,
+            "wins": 445,
+            "losses": 335
+        },
+        "tff": {
+            "level": 97.92857142857143,
+            "killsELO": 1571.0564285714288,
+            "gamesELO": 1614.8778571428572,
+            "wins": 7086,
+            "losses": 5587
+        },
+        "tg05": {
+            "level": 118.0,
+            "killsELO": 1588.04,
+            "gamesELO": 1439.91,
+            "wins": 166,
+            "losses": 152
+        },
+        "the_c.f.": {
+            "level": 141.0909090909091,
+            "killsELO": 1604.0127272727273,
+            "gamesELO": 1642.1745454545453,
+            "wins": 8280,
+            "losses": 6112
+        },
+        "totati": {
+            "level": 63.0,
+            "killsELO": 1606.76,
+            "gamesELO": 1794.915,
+            "wins": 734,
+            "losses": 488
+        },
+        "tsNT": {
+            "level": 60.0,
+            "killsELO": 1766.6,
+            "gamesELO": 1725.96,
+            "wins": 208,
+            "losses": 79
+        },
+        "uwu<3": {
+            "level": 145.0,
+            "killsELO": 1746.5,
+            "gamesELO": 2402.04,
+            "wins": 740,
+            "losses": 244
+        },
+        "vortexs": {
+            "level": 95.16666666666667,
+            "killsELO": 1592.0566666666666,
+            "gamesELO": 1720.415,
+            "wins": 3583,
+            "losses": 2072
+        },
+        "w!ch": {
+            "level": 28.0,
+            "killsELO": 1492.8,
+            "gamesELO": 1462.64,
+            "wins": 43,
+            "losses": 48
+        },
+        "what": {
+            "level": 65.0,
+            "killsELO": 1620.78,
+            "gamesELO": 1788.4,
+            "wins": 265,
+            "losses": 188
+        },
+        "world.jp": {
+            "level": 134.0,
+            "killsELO": 1608.96,
+            "gamesELO": 1784.89,
+            "wins": 1043,
+            "losses": 688
+        },
+        "yups": {
+            "level": 81.0,
+            "killsELO": 1671.96,
+            "gamesELO": 1428.88,
+            "wins": 379,
+            "losses": 267
+        }
+    }
+}
