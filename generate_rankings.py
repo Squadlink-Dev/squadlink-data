@@ -43,7 +43,7 @@ def generate_ranking_data():
             print(f"    - Failed to fetch members for {squad_name}. Skipping.")
             continue
         
-        if not member_data:
+        if not member_data or not isinstance(member_data, list):
             print(f"    - No members found for {squad_name}. Skipping.")
             continue
 
@@ -67,15 +67,28 @@ def generate_ranking_data():
                 squad_kills_elo.append(player_stats.get("killsELO", 0))
                 squad_games_elo.append(player_stats.get("gamesELO", 0))
                 
-                wins_m00 = player_stats.get("wins", {}).get("m00", 0)
-                losses_m00 = player_stats.get("losses", {}).get("m00", 0)
+                # FIX: Robustly handle wins/losses data type
+                player_wins_data = player_stats.get("wins")
+                if isinstance(player_wins_data, dict):
+                    wins_m00 = player_wins_data.get("m00", 0)
+                else:
+                    wins_m00 = 0 # Default to 0 if not a dict
+                    print(f"    - Warning: 'wins' data for player {uid} is not a dict. Defaulting to 0 wins.")
+
+                player_losses_data = player_stats.get("losses")
+                if isinstance(player_losses_data, dict):
+                    losses_m00 = player_losses_data.get("m00", 0)
+                else:
+                    losses_m00 = 0 # Default to 0 if not a dict
+                    print(f"    - Warning: 'losses' data for player {uid} is not a dict. Defaulting to 0 losses.")
+
                 total_wins += wins_m00
                 total_losses += losses_m00
             except requests.exceptions.RequestException:
                 print(f"    - Failed to fetch stats for player {uid}. Skipping.")
                 continue
 
-        if squad_levels:
+        if squad_levels: # Check if there's any valid player data to average
             squad_stats_all[squad_name] = {
                 "level": sum(squad_levels) / len(squad_levels),
                 "killsELO": sum(squad_kills_elo) / len(squad_kills_elo),
@@ -83,10 +96,18 @@ def generate_ranking_data():
                 "wins": total_wins,
                 "losses": total_losses
             }
+        else: # If no valid member data for stats, set averages to 0
+             squad_stats_all[squad_name] = {
+                "level": 0,
+                "killsELO": 0,
+                "gamesELO": 0,
+                "wins": 0,
+                "losses": 0
+            }
         
         total_processed_squads += 1
         print(f"  > Done processing {squad_name}. Total squads processed: {total_processed_squads}.")
-        time.sleep(1) # Delay between squads to prevent API rate limiting
+        time.sleep(0.1) # Reduced delay to 0.1s; 1s might be too slow for 500+ squads
 
     # Final data structure for JSON
     final_data = {
