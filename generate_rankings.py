@@ -27,7 +27,7 @@ def generate_ranking_data():
         return
 
     squad_stats_all = {}
-    total_api_calls_made = 0 # Track API calls
+    total_api_calls_made = 0
 
     print("Starting detailed data collection for each squad...")
 
@@ -50,12 +50,11 @@ def generate_ranking_data():
             print(f"    - No members found for {squad_name}. Skipping.")
             continue
 
-        # Initialize lists/totals for aggregation
         squad_levels = []
         squad_kills_elo = []
         squad_games_elo = []
-        total_wins_m00 = 0
-        total_losses_m00 = 0
+        total_wins = 0
+        total_losses = 0
         total_kills_per_vehicle = 0
         total_kills_per_weapon = 0
         total_deaths = 0
@@ -72,25 +71,28 @@ def generate_ranking_data():
                 player_stats = response.json()
                 total_api_calls_made += 1
                 
-                # Collect stats for averaging
                 squad_levels.append(player_stats.get("level", 0))
                 squad_kills_elo.append(player_stats.get("killsELO", 0))
                 squad_games_elo.append(player_stats.get("gamesELO", 0))
                 
-                # Collect stats for summing (wins, losses, kills_per_vehicle, kills_per_weapon, deaths, coins)
-                # Ensure data is a dict before summing values
-                total_wins_m00 += player_stats.get("wins", {}).get("m00", 0)
-                total_losses_m00 += player_stats.get("losses", {}).get("m00", 0)
+                # FIX: Explicitly check if data is a dictionary before trying to sum it.
+                player_wins_data = player_stats.get("wins")
+                if isinstance(player_wins_data, dict):
+                    total_wins += player_wins_data.get("m00", 0)
+
+                player_losses_data = player_stats.get("losses")
+                if isinstance(player_losses_data, dict):
+                    total_losses += player_losses_data.get("m00", 0)
                 
-                kills_per_vehicle_data = player_stats.get("kills_per_vehicle", {})
+                kills_per_vehicle_data = player_stats.get("kills_per_vehicle")
                 if isinstance(kills_per_vehicle_data, dict):
                     total_kills_per_vehicle += sum(kills_per_vehicle_data.values())
                 
-                kills_per_weapon_data = player_stats.get("kills_per_weapon", {})
+                kills_per_weapon_data = player_stats.get("kills_per_weapon")
                 if isinstance(kills_per_weapon_data, dict):
                     total_kills_per_weapon += sum(kills_per_weapon_data.values())
                 
-                deaths_data = player_stats.get("deaths", {})
+                deaths_data = player_stats.get("deaths")
                 if isinstance(deaths_data, dict):
                     total_deaths += sum(deaths_data.values())
                 
@@ -103,22 +105,21 @@ def generate_ranking_data():
                 print(f"    - Error parsing player stats for {uid}: {e}. Skipping.")
                 continue
 
-            time.sleep(0.05) # Small delay between player API calls
+            time.sleep(0.05)
 
-        # Aggregate squad averages/totals
-        if squad_levels: # Check if there's any valid player data to average
+        if squad_levels:
             squad_stats_all[squad_name] = {
                 "level": sum(squad_levels) / len(squad_levels),
                 "killsELO": sum(squad_kills_elo) / len(squad_kills_elo),
                 "gamesELO": sum(squad_games_elo) / len(squad_games_elo),
-                "wins": total_wins_m00,
-                "losses": total_losses_m00,
+                "wins": total_wins,
+                "losses": total_losses,
                 "kills_per_vehicle": total_kills_per_vehicle,
                 "kills_per_weapon": total_kills_per_weapon,
                 "deaths": total_deaths,
                 "coins": total_coins
             }
-        else: # If no valid member data for stats, set all to 0
+        else:
              squad_stats_all[squad_name] = {
                 "level": 0, "killsELO": 0, "gamesELO": 0,
                 "wins": 0, "losses": 0,
@@ -126,15 +127,13 @@ def generate_ranking_data():
             }
         
         print(f"  > Done processing {squad_name}. Total squads processed: {len(squad_stats_all)}.")
-        time.sleep(0.5) # Delay between squads to prevent API rate limiting
+        time.sleep(0.5)
 
-    # Final data structure for JSON
     final_data = {
         "last_updated": datetime.datetime.now(datetime.timezone.utc).timestamp(),
         "squad_stats": squad_stats_all
     }
 
-    # Save the data
     with open(RANKING_DATA_FILE, 'w') as f:
         json.dump(final_data, f, indent=4)
     
