@@ -1,5 +1,5 @@
 {
-    "last_updated": 1754516468.125334,
+    "last_updated": 1754522098.81188,
     "squad_stats": {
         "$$$": {
             "level": 73.2,
@@ -7,7 +7,7 @@
             "gamesELO": 1588.438,
             "wins": 2621,
             "losses": 1807,
-            "kills_per_vehicle": 51125,
+            "kills_per_vehicle": 2643,
             "kills_per_weapon": 50661,
             "deaths": 33242,
             "coins": 955
@@ -18,7 +18,7 @@
             "gamesELO": 1362.09,
             "wins": 179,
             "losses": 179,
-            "kills_per_vehicle": 2875,
+            "kills_per_vehicle": 249,
             "kills_per_weapon": 2849,
             "deaths": 2889,
             "coins": 133
@@ -29,7 +29,7 @@
             "gamesELO": 1636.08,
             "wins": 828,
             "losses": 615,
-            "kills_per_vehicle": 19433,
+            "kills_per_vehicle": 662,
             "kills_per_weapon": 19111,
             "deaths": 9841,
             "coins": 958
@@ -40,7 +40,7 @@
             "gamesELO": 1392.73,
             "wins": 31,
             "losses": 28,
-            "kills_per_vehicle": 546,
+            "kills_per_vehicle": 30,
             "kills_per_weapon": 539,
             "deaths": 598,
             "coins": 240
@@ -51,7 +51,7 @@
             "gamesELO": 1583.845,
             "wins": 358,
             "losses": 215,
-            "kills_per_vehicle": 21026,
+            "kills_per_vehicle": 585,
             "kills_per_weapon": 20576,
             "deaths": 4602,
             "coins": 2606
@@ -62,7 +62,7 @@
             "gamesELO": 2069.98,
             "wins": 273,
             "losses": 153,
-            "kills_per_vehicle": 11198,
+            "kills_per_vehicle": 802,
             "kills_per_weapon": 10845,
             "deaths": 2978,
             "coins": 702
@@ -73,7 +73,7 @@
             "gamesELO": 1508.0966666666666,
             "wins": 1180,
             "losses": 778,
-            "kills_per_vehicle": 33564,
+            "kills_per_vehicle": 851,
             "kills_per_weapon": 33261,
             "deaths": 15676,
             "coins": 1494
@@ -84,7 +84,7 @@
             "gamesELO": 1778.25,
             "wins": 506,
             "losses": 126,
-            "kills_per_vehicle": 36507,
+            "kills_per_vehicle": 835,
             "kills_per_weapon": 36307,
             "deaths": 4488,
             "coins": 170
@@ -95,7 +95,7 @@
             "gamesELO": 1722.46,
             "wins": 701,
             "losses": 500,
-            "kills_per_vehicle": 16260,
+            "kills_per_vehicle": 220,
             "kills_per_weapon": 16172,
             "deaths": 8089,
             "coins": 1290
@@ -106,7 +106,7 @@
             "gamesELO": 1435.625,
             "wins": 1463,
             "losses": 1278,
-            "kills_per_vehicle": 24040,
+            "kills_per_vehicle": 726,
             "kills_per_weapon": 23780,
             "deaths": 20328,
             "coins": 217
@@ -117,7 +117,7 @@
             "gamesELO": 1667.47,
             "wins": 89,
             "losses": 81,
-            "kills_per_vehicle": 2684,
+            "kills_per_vehicle": 106,
             "kills_per_weapon": 2629,
             "deaths": 1563,
             "coins": 3812
@@ -128,7 +128,7 @@
             "gamesELO": 1675.245,
             "wins": 815,
             "losses": 579,
-            "kills_per_vehicle": 18831,
+            "kills_per_vehicle": 533,
             "kills_per_weapon": 18486,
             "deaths": 10106,
             "coins": 979
@@ -139,7 +139,7 @@
             "gamesELO": 2212.44,
             "wins": 1070,
             "losses": 561,
-            "kills_per_vehicle": 44188,
+            "kills_per_vehicle": 2795,
             "kills_per_weapon": 42581,
             "deaths": 11792,
             "coins": 275
@@ -150,7 +150,7 @@
             "gamesELO": 1611.93,
             "wins": 389,
             "losses": 332,
-            "kills_per_vehicle": 7060,
+            "kills_per_vehicle": 583,
             "kills_per_weapon": 6965,
             "deaths": 5743,
             "coins": 2722
@@ -161,7 +161,7 @@
             "gamesELO": 2050.645,
             "wins": 388,
             "losses": 178,
-            "kills_per_vehicle": 13513,
+            "kills_per_vehicle": 291,
             "kills_per_weapon": 13508,
             "deaths": 3288,
             "coins": 1760
@@ -172,7 +172,7 @@
             "gamesELO": 1889.27,
             "wins": 1775,
             "losses": 702,
-            "kills_per_vehicle": 37870,
+            "kills_per_vehicle": 1279,
             "kills_per_weapon": 37201,
             "deaths": 11752,
             "coins": 1540
@@ -183,7 +183,7 @@
             "gamesELO": 1733.41,
             "wins": 376,
             "losses": 253,
-            "kills_per_vehicle": 9400,
+            "kills_per_vehicle": 480,
             "kills_per_weapon": 9289,
             "deaths": 4372,
             "coins": 881
@@ -194,7 +194,7 @@
             "gamesELO": 1562.07,
             "wins": 474,
             "losses": 236,
-            "kills_per_vehicle": 12279,
+            "kills_per_vehicle": 253,
             "kills_per_weapon": 12259,
             "deaths": 5055,
             "coins": 411
@@ -205,7 +205,7 @@
             "gamesELO": 1556.67,
             "wins": 360,
             "losses": 317,
-            "kills_per_vehicle": 6565,
+            "kills_per_vehicle": 552,
             "kills_per_weapon": 6369,
             "deaths": 7085,
             "coins": 190
@@ -216,7 +216,7 @@
             "gamesELO": 1691.538,
             "wins": 3151,
             "losses": 2270,
-            "kills_per_vehicle": 58000,
+            "kills_per_vehicle": 3111,
             "kills_per_weapon": 57474,
             "deaths": 32147,
             "coins": 1040
@@ -227,7 +227,7 @@
             "gamesELO": 1725.46,
             "wins": 1244,
             "losses": 626,
-            "kills_per_vehicle": 28904,
+            "kills_per_vehicle": 257,
             "kills_per_weapon": 28871,
             "deaths": 15842,
             "coins": 1045
@@ -238,7 +238,7 @@
             "gamesELO": 1721.79,
             "wins": 254,
             "losses": 110,
-            "kills_per_vehicle": 6658,
+            "kills_per_vehicle": 214,
             "kills_per_weapon": 6640,
             "deaths": 2058,
             "coins": 80
@@ -249,7 +249,7 @@
             "gamesELO": 1409.48,
             "wins": 437,
             "losses": 341,
-            "kills_per_vehicle": 7970,
+            "kills_per_vehicle": 132,
             "kills_per_weapon": 7961,
             "deaths": 4857,
             "coins": 163
@@ -260,7 +260,7 @@
             "gamesELO": 1701.955,
             "wins": 500,
             "losses": 305,
-            "kills_per_vehicle": 13252,
+            "kills_per_vehicle": 168,
             "kills_per_weapon": 13241,
             "deaths": 6842,
             "coins": 167
@@ -271,7 +271,7 @@
             "gamesELO": 2037.4766666666667,
             "wins": 2245,
             "losses": 1272,
-            "kills_per_vehicle": 70147,
+            "kills_per_vehicle": 837,
             "kills_per_weapon": 69836,
             "deaths": 25741,
             "coins": 5622
@@ -282,20 +282,20 @@
             "gamesELO": 2221.2,
             "wins": 179,
             "losses": 65,
-            "kills_per_vehicle": 8912,
+            "kills_per_vehicle": 1,
             "kills_per_weapon": 8586,
             "deaths": 1723,
             "coins": 714
         },
         "ACE": {
             "level": 124.5,
-            "killsELO": 1663.0875,
-            "gamesELO": 1817.6650000000002,
-            "wins": 2843,
-            "losses": 1443,
-            "kills_per_vehicle": 75966,
-            "kills_per_weapon": 74221,
-            "deaths": 29951,
+            "killsELO": 1663.7525,
+            "gamesELO": 1818.5300000000002,
+            "wins": 2845,
+            "losses": 1444,
+            "kills_per_vehicle": 2720,
+            "kills_per_weapon": 74274,
+            "deaths": 29977,
             "coins": 4782
         },
         "ACES": {
@@ -304,7 +304,7 @@
             "gamesELO": 1678.605,
             "wins": 530,
             "losses": 362,
-            "kills_per_vehicle": 9455,
+            "kills_per_vehicle": 709,
             "kills_per_weapon": 9342,
             "deaths": 6818,
             "coins": 827
@@ -315,7 +315,7 @@
             "gamesELO": 1822.4299999999998,
             "wins": 1926,
             "losses": 1021,
-            "kills_per_vehicle": 46150,
+            "kills_per_vehicle": 845,
             "kills_per_weapon": 46056,
             "deaths": 15132,
             "coins": 5565
@@ -326,20 +326,20 @@
             "gamesELO": 1691.2195454545456,
             "wins": 11128,
             "losses": 6275,
-            "kills_per_vehicle": 272039,
+            "kills_per_vehicle": 6812,
             "kills_per_weapon": 270415,
             "deaths": 108926,
             "coins": 24984
         },
         "AI": {
-            "level": 600.7391304347826,
-            "killsELO": 1804.4417391304346,
-            "gamesELO": 2129.4095652173914,
-            "wins": 60026,
+            "level": 600.7826086956521,
+            "killsELO": 1804.5021739130432,
+            "gamesELO": 2129.409565217392,
+            "wins": 60027,
             "losses": 29117,
-            "kills_per_vehicle": 1886187,
-            "kills_per_weapon": 1881398,
-            "deaths": 512554,
+            "kills_per_vehicle": 11187,
+            "kills_per_weapon": 1881418,
+            "deaths": 512562,
             "coins": 6377
         },
         "AKR": {
@@ -348,7 +348,7 @@
             "gamesELO": 1825.4,
             "wins": 1134,
             "losses": 708,
-            "kills_per_vehicle": 30408,
+            "kills_per_vehicle": 629,
             "kills_per_weapon": 30233,
             "deaths": 17928,
             "coins": 0
@@ -359,7 +359,7 @@
             "gamesELO": 1715.4485714285718,
             "wins": 4154,
             "losses": 2880,
-            "kills_per_vehicle": 89906,
+            "kills_per_vehicle": 4013,
             "kills_per_weapon": 89054,
             "deaths": 51744,
             "coins": 8600
@@ -370,7 +370,7 @@
             "gamesELO": 1745.930909090909,
             "wins": 3611,
             "losses": 2251,
-            "kills_per_vehicle": 89279,
+            "kills_per_vehicle": 2646,
             "kills_per_weapon": 88295,
             "deaths": 38839,
             "coins": 5096
@@ -381,7 +381,7 @@
             "gamesELO": 1601.25,
             "wins": 553,
             "losses": 439,
-            "kills_per_vehicle": 11731,
+            "kills_per_vehicle": 310,
             "kills_per_weapon": 11661,
             "deaths": 8176,
             "coins": 20
@@ -392,7 +392,7 @@
             "gamesELO": 1450.74,
             "wins": 549,
             "losses": 406,
-            "kills_per_vehicle": 12757,
+            "kills_per_vehicle": 614,
             "kills_per_weapon": 12675,
             "deaths": 5868,
             "coins": 166
@@ -403,7 +403,7 @@
             "gamesELO": 1815.1922222222222,
             "wins": 7076,
             "losses": 3969,
-            "kills_per_vehicle": 198713,
+            "kills_per_vehicle": 5457,
             "kills_per_weapon": 197853,
             "deaths": 80064,
             "coins": 3150
@@ -414,20 +414,20 @@
             "gamesELO": 1983.1075,
             "wins": 3539,
             "losses": 1531,
-            "kills_per_vehicle": 110192,
+            "kills_per_vehicle": 3411,
             "kills_per_weapon": 109635,
             "deaths": 32395,
             "coins": 1936
         },
         "APG": {
             "level": 157.27272727272728,
-            "killsELO": 1667.427727272727,
-            "gamesELO": 1731.9795454545456,
-            "wins": 17955,
-            "losses": 11410,
-            "kills_per_vehicle": 386022,
-            "kills_per_weapon": 381545,
-            "deaths": 141904,
+            "killsELO": 1668.6790909090907,
+            "gamesELO": 1732.855909090909,
+            "wins": 17963,
+            "losses": 11413,
+            "kills_per_vehicle": 21085,
+            "kills_per_weapon": 381666,
+            "deaths": 141966,
             "coins": 13116
         },
         "APG-JR": {
@@ -436,7 +436,7 @@
             "gamesELO": 1514.1,
             "wins": 16,
             "losses": 31,
-            "kills_per_vehicle": 231,
+            "kills_per_vehicle": 12,
             "kills_per_weapon": 228,
             "deaths": 291,
             "coins": 106
@@ -447,7 +447,7 @@
             "gamesELO": 1463.95,
             "wins": 62,
             "losses": 57,
-            "kills_per_vehicle": 1191,
+            "kills_per_vehicle": 89,
             "kills_per_weapon": 1170,
             "deaths": 907,
             "coins": 22
@@ -458,7 +458,7 @@
             "gamesELO": 1700.99,
             "wins": 425,
             "losses": 86,
-            "kills_per_vehicle": 12100,
+            "kills_per_vehicle": 141,
             "kills_per_weapon": 12058,
             "deaths": 2769,
             "coins": 871
@@ -469,7 +469,7 @@
             "gamesELO": 1867.11,
             "wins": 472,
             "losses": 341,
-            "kills_per_vehicle": 8491,
+            "kills_per_vehicle": 819,
             "kills_per_weapon": 8366,
             "deaths": 5718,
             "coins": 510
@@ -480,7 +480,7 @@
             "gamesELO": 1722.3242857142857,
             "wins": 3530,
             "losses": 2539,
-            "kills_per_vehicle": 81203,
+            "kills_per_vehicle": 1822,
             "kills_per_weapon": 80812,
             "deaths": 44182,
             "coins": 7812
@@ -491,7 +491,7 @@
             "gamesELO": 1524.25,
             "wins": 15,
             "losses": 17,
-            "kills_per_vehicle": 213,
+            "kills_per_vehicle": 3,
             "kills_per_weapon": 213,
             "deaths": 245,
             "coins": 150
@@ -502,7 +502,7 @@
             "gamesELO": 1476.83,
             "wins": 70,
             "losses": 58,
-            "kills_per_vehicle": 1471,
+            "kills_per_vehicle": 52,
             "kills_per_weapon": 1467,
             "deaths": 1090,
             "coins": 173
@@ -513,7 +513,7 @@
             "gamesELO": 1600.76,
             "wins": 550,
             "losses": 487,
-            "kills_per_vehicle": 12767,
+            "kills_per_vehicle": 75,
             "kills_per_weapon": 12754,
             "deaths": 9060,
             "coins": 100
@@ -524,7 +524,7 @@
             "gamesELO": 1591.685,
             "wins": 956,
             "losses": 635,
-            "kills_per_vehicle": 17358,
+            "kills_per_vehicle": 767,
             "kills_per_weapon": 17212,
             "deaths": 8269,
             "coins": 717
@@ -535,7 +535,7 @@
             "gamesELO": 1921.75,
             "wins": 380,
             "losses": 222,
-            "kills_per_vehicle": 9983,
+            "kills_per_vehicle": 137,
             "kills_per_weapon": 9948,
             "deaths": 2182,
             "coins": 391
@@ -546,7 +546,7 @@
             "gamesELO": 2303.665,
             "wins": 1272,
             "losses": 337,
-            "kills_per_vehicle": 39821,
+            "kills_per_vehicle": 685,
             "kills_per_weapon": 39683,
             "deaths": 5857,
             "coins": 1623
@@ -557,7 +557,7 @@
             "gamesELO": 1610.4650000000001,
             "wins": 1014,
             "losses": 771,
-            "kills_per_vehicle": 24945,
+            "kills_per_vehicle": 2046,
             "kills_per_weapon": 24591,
             "deaths": 16194,
             "coins": 789
@@ -568,7 +568,7 @@
             "gamesELO": 1734.93,
             "wins": 260,
             "losses": 153,
-            "kills_per_vehicle": 7715,
+            "kills_per_vehicle": 32,
             "kills_per_weapon": 7704,
             "deaths": 3293,
             "coins": 300
@@ -579,7 +579,7 @@
             "gamesELO": 1856.96,
             "wins": 828,
             "losses": 411,
-            "kills_per_vehicle": 21725,
+            "kills_per_vehicle": 1000,
             "kills_per_weapon": 21605,
             "deaths": 8385,
             "coins": 656
@@ -590,7 +590,7 @@
             "gamesELO": 1253.48,
             "wins": 537,
             "losses": 442,
-            "kills_per_vehicle": 13273,
+            "kills_per_vehicle": 471,
             "kills_per_weapon": 13094,
             "deaths": 9814,
             "coins": 1183
@@ -601,7 +601,7 @@
             "gamesELO": 1481.42,
             "wins": 605,
             "losses": 439,
-            "kills_per_vehicle": 14446,
+            "kills_per_vehicle": 165,
             "kills_per_weapon": 14419,
             "deaths": 8847,
             "coins": 3373
@@ -612,7 +612,7 @@
             "gamesELO": 1701.04,
             "wins": 765,
             "losses": 426,
-            "kills_per_vehicle": 10580,
+            "kills_per_vehicle": 1055,
             "kills_per_weapon": 10390,
             "deaths": 4444,
             "coins": 195
@@ -623,7 +623,7 @@
             "gamesELO": 1895.81,
             "wins": 1770,
             "losses": 773,
-            "kills_per_vehicle": 39919,
+            "kills_per_vehicle": 2363,
             "kills_per_weapon": 39722,
             "deaths": 15115,
             "coins": 3893
@@ -634,7 +634,7 @@
             "gamesELO": 1572.96,
             "wins": 47,
             "losses": 32,
-            "kills_per_vehicle": 1989,
+            "kills_per_vehicle": 82,
             "kills_per_weapon": 1922,
             "deaths": 1215,
             "coins": 515
@@ -645,7 +645,7 @@
             "gamesELO": 1301.86,
             "wins": 178,
             "losses": 152,
-            "kills_per_vehicle": 2556,
+            "kills_per_vehicle": 71,
             "kills_per_weapon": 2549,
             "deaths": 2193,
             "coins": 1334
@@ -656,7 +656,7 @@
             "gamesELO": 1818.93,
             "wins": 493,
             "losses": 309,
-            "kills_per_vehicle": 8141,
+            "kills_per_vehicle": 199,
             "kills_per_weapon": 8138,
             "deaths": 5004,
             "coins": 1181
@@ -667,7 +667,7 @@
             "gamesELO": 1375.19,
             "wins": 64,
             "losses": 56,
-            "kills_per_vehicle": 10270,
+            "kills_per_vehicle": 45,
             "kills_per_weapon": 10262,
             "deaths": 1359,
             "coins": 243
@@ -678,7 +678,7 @@
             "gamesELO": 1573.16,
             "wins": 735,
             "losses": 340,
-            "kills_per_vehicle": 26308,
+            "kills_per_vehicle": 300,
             "kills_per_weapon": 26017,
             "deaths": 7908,
             "coins": 50
@@ -689,7 +689,7 @@
             "gamesELO": 2292.5333333333333,
             "wins": 1192,
             "losses": 238,
-            "kills_per_vehicle": 37101,
+            "kills_per_vehicle": 218,
             "kills_per_weapon": 37079,
             "deaths": 6092,
             "coins": 2263
@@ -700,7 +700,7 @@
             "gamesELO": 1639.9714285714288,
             "wins": 5394,
             "losses": 3545,
-            "kills_per_vehicle": 116128,
+            "kills_per_vehicle": 4647,
             "kills_per_weapon": 115020,
             "deaths": 41642,
             "coins": 2700
@@ -711,7 +711,7 @@
             "gamesELO": 2092.2,
             "wins": 481,
             "losses": 146,
-            "kills_per_vehicle": 22877,
+            "kills_per_vehicle": 1005,
             "kills_per_weapon": 22714,
             "deaths": 3590,
             "coins": 7
@@ -722,7 +722,7 @@
             "gamesELO": 2059.42,
             "wins": 691,
             "losses": 265,
-            "kills_per_vehicle": 13645,
+            "kills_per_vehicle": 235,
             "kills_per_weapon": 13619,
             "deaths": 7219,
             "coins": 588
@@ -733,20 +733,20 @@
             "gamesELO": 1565.51,
             "wins": 608,
             "losses": 493,
-            "kills_per_vehicle": 10493,
+            "kills_per_vehicle": 322,
             "kills_per_weapon": 10471,
             "deaths": 8546,
             "coins": 1188
         },
         "BLAST": {
-            "level": 145.125,
+            "level": 145.175,
             "killsELO": 1639.7452500000004,
             "gamesELO": 1836.5629999999994,
             "wins": 33383,
             "losses": 19209,
-            "kills_per_vehicle": 875408,
-            "kills_per_weapon": 866999,
-            "deaths": 352767,
+            "kills_per_vehicle": 33477,
+            "kills_per_weapon": 867162,
+            "deaths": 352770,
             "coins": 19651
         },
         "BLOON": {
@@ -755,7 +755,7 @@
             "gamesELO": 1754.33,
             "wins": 384,
             "losses": 312,
-            "kills_per_vehicle": 12549,
+            "kills_per_vehicle": 931,
             "kills_per_weapon": 12401,
             "deaths": 5996,
             "coins": 1120
@@ -766,7 +766,7 @@
             "gamesELO": 2073.338,
             "wins": 11948,
             "losses": 5278,
-            "kills_per_vehicle": 310587,
+            "kills_per_vehicle": 23403,
             "kills_per_weapon": 308043,
             "deaths": 85378,
             "coins": 10248
@@ -777,7 +777,7 @@
             "gamesELO": 1481.77,
             "wins": 745,
             "losses": 580,
-            "kills_per_vehicle": 11346,
+            "kills_per_vehicle": 904,
             "kills_per_weapon": 11182,
             "deaths": 10321,
             "coins": 271
@@ -788,7 +788,7 @@
             "gamesELO": 1569.29,
             "wins": 521,
             "losses": 332,
-            "kills_per_vehicle": 10590,
+            "kills_per_vehicle": 492,
             "kills_per_weapon": 10482,
             "deaths": 7314,
             "coins": 12
@@ -799,7 +799,7 @@
             "gamesELO": 1678.96,
             "wins": 294,
             "losses": 221,
-            "kills_per_vehicle": 4698,
+            "kills_per_vehicle": 1007,
             "kills_per_weapon": 4412,
             "deaths": 3115,
             "coins": 333
@@ -810,7 +810,7 @@
             "gamesELO": 1548.1799999999998,
             "wins": 270,
             "losses": 180,
-            "kills_per_vehicle": 14774,
+            "kills_per_vehicle": 388,
             "kills_per_weapon": 14653,
             "deaths": 3549,
             "coins": 722
@@ -821,7 +821,7 @@
             "gamesELO": 1707.4989999999998,
             "wins": 7996,
             "losses": 5139,
-            "kills_per_vehicle": 196591,
+            "kills_per_vehicle": 16831,
             "kills_per_weapon": 194371,
             "deaths": 84834,
             "coins": 5199
@@ -832,7 +832,7 @@
             "gamesELO": 2325.81,
             "wins": 10951,
             "losses": 3214,
-            "kills_per_vehicle": 318426,
+            "kills_per_vehicle": 21854,
             "kills_per_weapon": 317687,
             "deaths": 65526,
             "coins": 252
@@ -843,7 +843,7 @@
             "gamesELO": 1441.62,
             "wins": 440,
             "losses": 388,
-            "kills_per_vehicle": 5395,
+            "kills_per_vehicle": 112,
             "kills_per_weapon": 5358,
             "deaths": 4735,
             "coins": 140
@@ -854,7 +854,7 @@
             "gamesELO": 1796.32,
             "wins": 486,
             "losses": 295,
-            "kills_per_vehicle": 28162,
+            "kills_per_vehicle": 546,
             "kills_per_weapon": 27583,
             "deaths": 6379,
             "coins": 5730
@@ -865,7 +865,7 @@
             "gamesELO": 1798.69,
             "wins": 432,
             "losses": 333,
-            "kills_per_vehicle": 7786,
+            "kills_per_vehicle": 686,
             "kills_per_weapon": 7710,
             "deaths": 4547,
             "coins": 50
@@ -876,7 +876,7 @@
             "gamesELO": 1734.05,
             "wins": 3989,
             "losses": 2471,
-            "kills_per_vehicle": 82373,
+            "kills_per_vehicle": 5952,
             "kills_per_weapon": 80461,
             "deaths": 42005,
             "coins": 1591
@@ -887,7 +887,7 @@
             "gamesELO": 2356.09,
             "wins": 7856,
             "losses": 4295,
-            "kills_per_vehicle": 229665,
+            "kills_per_vehicle": 5224,
             "kills_per_weapon": 229093,
             "deaths": 90639,
             "coins": 1095
@@ -898,7 +898,7 @@
             "gamesELO": 1820.25,
             "wins": 767,
             "losses": 450,
-            "kills_per_vehicle": 16707,
+            "kills_per_vehicle": 547,
             "kills_per_weapon": 16316,
             "deaths": 6665,
             "coins": 721
@@ -909,7 +909,7 @@
             "gamesELO": 1837.2,
             "wins": 277,
             "losses": 198,
-            "kills_per_vehicle": 6324,
+            "kills_per_vehicle": 76,
             "kills_per_weapon": 6261,
             "deaths": 3291,
             "coins": 951
@@ -920,7 +920,7 @@
             "gamesELO": 1647.8579999999997,
             "wins": 2353,
             "losses": 1809,
-            "kills_per_vehicle": 41621,
+            "kills_per_vehicle": 3250,
             "kills_per_weapon": 40859,
             "deaths": 30238,
             "coins": 4800
@@ -931,20 +931,20 @@
             "gamesELO": 1538.32,
             "wins": 926,
             "losses": 841,
-            "kills_per_vehicle": 16513,
+            "kills_per_vehicle": 304,
             "kills_per_weapon": 16475,
             "deaths": 12007,
             "coins": 930
         },
         "CAESAR": {
-            "level": 194.63030303030303,
-            "killsELO": 1625.4691515151517,
-            "gamesELO": 1768.6463030303023,
-            "wins": 150154,
-            "losses": 89425,
-            "kills_per_vehicle": 3945774,
-            "kills_per_weapon": 3908898,
-            "deaths": 1625812,
+            "level": 194.64242424242425,
+            "killsELO": 1625.7109696969696,
+            "gamesELO": 1768.7970909090902,
+            "wins": 150163,
+            "losses": 89427,
+            "kills_per_vehicle": 103942,
+            "kills_per_weapon": 3909133,
+            "deaths": 1625937,
             "coins": 134070
         },
         "CANADA": {
@@ -953,7 +953,7 @@
             "gamesELO": 1712.12,
             "wins": 1113,
             "losses": 639,
-            "kills_per_vehicle": 31148,
+            "kills_per_vehicle": 1258,
             "kills_per_weapon": 30618,
             "deaths": 14541,
             "coins": 1153
@@ -964,7 +964,7 @@
             "gamesELO": 1761.25,
             "wins": 146,
             "losses": 90,
-            "kills_per_vehicle": 12507,
+            "kills_per_vehicle": 135,
             "kills_per_weapon": 12383,
             "deaths": 2276,
             "coins": 486
@@ -975,7 +975,7 @@
             "gamesELO": 1444.17,
             "wins": 147,
             "losses": 124,
-            "kills_per_vehicle": 2537,
+            "kills_per_vehicle": 240,
             "kills_per_weapon": 2331,
             "deaths": 1504,
             "coins": 666
@@ -986,7 +986,7 @@
             "gamesELO": 1760.99,
             "wins": 574,
             "losses": 417,
-            "kills_per_vehicle": 15962,
+            "kills_per_vehicle": 1390,
             "kills_per_weapon": 15609,
             "deaths": 8146,
             "coins": 820
@@ -997,7 +997,7 @@
             "gamesELO": 1751.79,
             "wins": 388,
             "losses": 230,
-            "kills_per_vehicle": 10493,
+            "kills_per_vehicle": 178,
             "kills_per_weapon": 10409,
             "deaths": 5252,
             "coins": 1070
@@ -1008,7 +1008,7 @@
             "gamesELO": 1749.24,
             "wins": 664,
             "losses": 461,
-            "kills_per_vehicle": 16219,
+            "kills_per_vehicle": 297,
             "kills_per_weapon": 16171,
             "deaths": 8221,
             "coins": 192
@@ -1019,7 +1019,7 @@
             "gamesELO": 1541.66,
             "wins": 291,
             "losses": 289,
-            "kills_per_vehicle": 7991,
+            "kills_per_vehicle": 189,
             "kills_per_weapon": 7955,
             "deaths": 6443,
             "coins": 64
@@ -1030,7 +1030,7 @@
             "gamesELO": 1531.9399999999998,
             "wins": 725,
             "losses": 745,
-            "kills_per_vehicle": 12288,
+            "kills_per_vehicle": 370,
             "kills_per_weapon": 12202,
             "deaths": 12303,
             "coins": 749
@@ -1041,7 +1041,7 @@
             "gamesELO": 1879.53,
             "wins": 261,
             "losses": 183,
-            "kills_per_vehicle": 11785,
+            "kills_per_vehicle": 165,
             "kills_per_weapon": 11493,
             "deaths": 4720,
             "coins": 802
@@ -1052,7 +1052,7 @@
             "gamesELO": 1764.13,
             "wins": 567,
             "losses": 355,
-            "kills_per_vehicle": 12017,
+            "kills_per_vehicle": 913,
             "kills_per_weapon": 11964,
             "deaths": 3522,
             "coins": 471
@@ -1063,7 +1063,7 @@
             "gamesELO": 1991.34,
             "wins": 466,
             "losses": 187,
-            "kills_per_vehicle": 15565,
+            "kills_per_vehicle": 124,
             "kills_per_weapon": 15553,
             "deaths": 4553,
             "coins": 837
@@ -1074,7 +1074,7 @@
             "gamesELO": 1868.628333333333,
             "wins": 5543,
             "losses": 2639,
-            "kills_per_vehicle": 119384,
+            "kills_per_vehicle": 6541,
             "kills_per_weapon": 118262,
             "deaths": 44527,
             "coins": 6246
@@ -1085,7 +1085,7 @@
             "gamesELO": 1466.8,
             "wins": 117,
             "losses": 82,
-            "kills_per_vehicle": 65106,
+            "kills_per_vehicle": 54,
             "kills_per_weapon": 63229,
             "deaths": 9071,
             "coins": 26
@@ -1096,7 +1096,7 @@
             "gamesELO": 1723.7666666666664,
             "wins": 2062,
             "losses": 1253,
-            "kills_per_vehicle": 56912,
+            "kills_per_vehicle": 433,
             "kills_per_weapon": 56686,
             "deaths": 26087,
             "coins": 2277
@@ -1107,7 +1107,7 @@
             "gamesELO": 1595.615,
             "wins": 2982,
             "losses": 1779,
-            "kills_per_vehicle": 87757,
+            "kills_per_vehicle": 2805,
             "kills_per_weapon": 85436,
             "deaths": 28247,
             "coins": 4225
@@ -1118,7 +1118,7 @@
             "gamesELO": 1853.08,
             "wins": 310,
             "losses": 222,
-            "kills_per_vehicle": 6507,
+            "kills_per_vehicle": 553,
             "kills_per_weapon": 6460,
             "deaths": 4422,
             "coins": 170
@@ -1129,20 +1129,20 @@
             "gamesELO": 1296.795,
             "wins": 462,
             "losses": 432,
-            "kills_per_vehicle": 7746,
+            "kills_per_vehicle": 344,
             "kills_per_weapon": 7661,
             "deaths": 7474,
             "coins": 53
         },
         "D.J": {
             "level": 84.13157894736842,
-            "killsELO": 1577.7215789473685,
-            "gamesELO": 1667.4847368421053,
+            "killsELO": 1578.0676315789474,
+            "gamesELO": 1667.375263157895,
             "wins": 13341,
-            "losses": 9098,
-            "kills_per_vehicle": 313682,
-            "kills_per_weapon": 311241,
-            "deaths": 165816,
+            "losses": 9099,
+            "kills_per_vehicle": 7883,
+            "kills_per_weapon": 311252,
+            "deaths": 165837,
             "coins": 13021
         },
         "DARKY": {
@@ -1151,7 +1151,7 @@
             "gamesELO": 1394.92,
             "wins": 152,
             "losses": 126,
-            "kills_per_vehicle": 5048,
+            "kills_per_vehicle": 123,
             "kills_per_weapon": 4989,
             "deaths": 3382,
             "coins": 275
@@ -1162,7 +1162,7 @@
             "gamesELO": 1861.3857142857141,
             "wins": 6871,
             "losses": 3542,
-            "kills_per_vehicle": 227101,
+            "kills_per_vehicle": 6529,
             "kills_per_weapon": 225767,
             "deaths": 69747,
             "coins": 6583
@@ -1173,7 +1173,7 @@
             "gamesELO": 1739.97,
             "wins": 1810,
             "losses": 1325,
-            "kills_per_vehicle": 36319,
+            "kills_per_vehicle": 2566,
             "kills_per_weapon": 35986,
             "deaths": 22334,
             "coins": 2308
@@ -1184,7 +1184,7 @@
             "gamesELO": 1675.0,
             "wins": 440,
             "losses": 338,
-            "kills_per_vehicle": 16799,
+            "kills_per_vehicle": 101,
             "kills_per_weapon": 16519,
             "deaths": 7475,
             "coins": 107
@@ -1195,9 +1195,9 @@
             "gamesELO": 1533.3233333333335,
             "wins": 1031,
             "losses": 835,
-            "kills_per_vehicle": 26342,
+            "kills_per_vehicle": 1125,
             "kills_per_weapon": 25769,
-            "deaths": 315352,
+            "deaths": 315361,
             "coins": 366249
         },
         "DEVIL": {
@@ -1206,7 +1206,7 @@
             "gamesELO": 1775.38,
             "wins": 566,
             "losses": 240,
-            "kills_per_vehicle": 17232,
+            "kills_per_vehicle": 205,
             "kills_per_weapon": 17220,
             "deaths": 8298,
             "coins": 150
@@ -1217,7 +1217,7 @@
             "gamesELO": 1879.99,
             "wins": 821,
             "losses": 519,
-            "kills_per_vehicle": 21102,
+            "kills_per_vehicle": 195,
             "kills_per_weapon": 20614,
             "deaths": 9475,
             "coins": 68
@@ -1228,7 +1228,7 @@
             "gamesELO": 1519.06,
             "wins": 313,
             "losses": 235,
-            "kills_per_vehicle": 5962,
+            "kills_per_vehicle": 526,
             "kills_per_weapon": 5639,
             "deaths": 4086,
             "coins": 1432
@@ -1239,7 +1239,7 @@
             "gamesELO": 1802.4,
             "wins": 6327,
             "losses": 4494,
-            "kills_per_vehicle": 265770,
+            "kills_per_vehicle": 5854,
             "kills_per_weapon": 263645,
             "deaths": 87380,
             "coins": 887
@@ -1250,7 +1250,7 @@
             "gamesELO": 1612.2333333333333,
             "wins": 691,
             "losses": 501,
-            "kills_per_vehicle": 19023,
+            "kills_per_vehicle": 258,
             "kills_per_weapon": 18650,
             "deaths": 11218,
             "coins": 853
@@ -1261,7 +1261,7 @@
             "gamesELO": 1632.01,
             "wins": 403,
             "losses": 297,
-            "kills_per_vehicle": 10298,
+            "kills_per_vehicle": 145,
             "kills_per_weapon": 10274,
             "deaths": 6140,
             "coins": 333
@@ -1272,7 +1272,7 @@
             "gamesELO": 2092.55,
             "wins": 550,
             "losses": 178,
-            "kills_per_vehicle": 17007,
+            "kills_per_vehicle": 118,
             "kills_per_weapon": 16951,
             "deaths": 2933,
             "coins": 3780
@@ -1283,7 +1283,7 @@
             "gamesELO": 1638.09,
             "wins": 432,
             "losses": 351,
-            "kills_per_vehicle": 11096,
+            "kills_per_vehicle": 75,
             "kills_per_weapon": 11083,
             "deaths": 7349,
             "coins": 413
@@ -1294,7 +1294,7 @@
             "gamesELO": 1684.94,
             "wins": 1686,
             "losses": 965,
-            "kills_per_vehicle": 46430,
+            "kills_per_vehicle": 1947,
             "kills_per_weapon": 45616,
             "deaths": 21719,
             "coins": 2164
@@ -1305,7 +1305,7 @@
             "gamesELO": 1843.39,
             "wins": 215,
             "losses": 122,
-            "kills_per_vehicle": 4990,
+            "kills_per_vehicle": 169,
             "kills_per_weapon": 4973,
             "deaths": 2778,
             "coins": 2361
@@ -1316,7 +1316,7 @@
             "gamesELO": 1487.6825,
             "wins": 1814,
             "losses": 1289,
-            "kills_per_vehicle": 36495,
+            "kills_per_vehicle": 1159,
             "kills_per_weapon": 35194,
             "deaths": 22002,
             "coins": 1464
@@ -1327,7 +1327,7 @@
             "gamesELO": 1552.53,
             "wins": 562,
             "losses": 437,
-            "kills_per_vehicle": 15329,
+            "kills_per_vehicle": 111,
             "kills_per_weapon": 15300,
             "deaths": 7586,
             "coins": 90
@@ -1338,7 +1338,7 @@
             "gamesELO": 1869.82,
             "wins": 1129,
             "losses": 525,
-            "kills_per_vehicle": 21097,
+            "kills_per_vehicle": 523,
             "kills_per_weapon": 20921,
             "deaths": 4531,
             "coins": 133
@@ -1349,7 +1349,7 @@
             "gamesELO": 1734.32,
             "wins": 487,
             "losses": 358,
-            "kills_per_vehicle": 11464,
+            "kills_per_vehicle": 144,
             "kills_per_weapon": 11345,
             "deaths": 6632,
             "coins": 477
@@ -1360,7 +1360,7 @@
             "gamesELO": 1738.21,
             "wins": 8119,
             "losses": 5156,
-            "kills_per_vehicle": 196651,
+            "kills_per_vehicle": 5537,
             "kills_per_weapon": 194841,
             "deaths": 89796,
             "coins": 3147
@@ -1371,7 +1371,7 @@
             "gamesELO": 1414.36,
             "wins": 215,
             "losses": 206,
-            "kills_per_vehicle": 2753,
+            "kills_per_vehicle": 290,
             "kills_per_weapon": 2656,
             "deaths": 3251,
             "coins": 176
@@ -1382,7 +1382,7 @@
             "gamesELO": 1740.705,
             "wins": 880,
             "losses": 660,
-            "kills_per_vehicle": 15820,
+            "kills_per_vehicle": 466,
             "kills_per_weapon": 15708,
             "deaths": 12258,
             "coins": 597
@@ -1393,7 +1393,7 @@
             "gamesELO": 2135.51,
             "wins": 426,
             "losses": 233,
-            "kills_per_vehicle": 13452,
+            "kills_per_vehicle": 773,
             "kills_per_weapon": 13395,
             "deaths": 4664,
             "coins": 1580
@@ -1404,20 +1404,20 @@
             "gamesELO": 1604.5975,
             "wins": 1183,
             "losses": 809,
-            "kills_per_vehicle": 26324,
+            "kills_per_vehicle": 1000,
             "kills_per_weapon": 25741,
             "deaths": 11836,
             "coins": 1160
         },
         "EK": {
             "level": 83.41379310344827,
-            "killsELO": 1572.691034482759,
+            "killsELO": 1572.7203448275866,
             "gamesELO": 1614.7603448275868,
             "wins": 13387,
-            "losses": 9413,
-            "kills_per_vehicle": 315208,
-            "kills_per_weapon": 312132,
-            "deaths": 182064,
+            "losses": 9414,
+            "kills_per_vehicle": 11800,
+            "kills_per_weapon": 312137,
+            "deaths": 182069,
             "coins": 12582
         },
         "ELLAS": {
@@ -1426,7 +1426,7 @@
             "gamesELO": 1970.14,
             "wins": 5280,
             "losses": 2935,
-            "kills_per_vehicle": 161513,
+            "kills_per_vehicle": 1227,
             "kills_per_weapon": 160878,
             "deaths": 48569,
             "coins": 150
@@ -1437,7 +1437,7 @@
             "gamesELO": 1634.4675,
             "wins": 3272,
             "losses": 2092,
-            "kills_per_vehicle": 74440,
+            "kills_per_vehicle": 2701,
             "kills_per_weapon": 73467,
             "deaths": 39289,
             "coins": 5874
@@ -1448,7 +1448,7 @@
             "gamesELO": 1978.3020000000001,
             "wins": 4268,
             "losses": 2877,
-            "kills_per_vehicle": 127702,
+            "kills_per_vehicle": 614,
             "kills_per_weapon": 127472,
             "deaths": 63599,
             "coins": 19491
@@ -1459,7 +1459,7 @@
             "gamesELO": 1886.94,
             "wins": 655,
             "losses": 353,
-            "kills_per_vehicle": 19290,
+            "kills_per_vehicle": 718,
             "kills_per_weapon": 19167,
             "deaths": 8853,
             "coins": 5425
@@ -1470,7 +1470,7 @@
             "gamesELO": 1647.92,
             "wins": 570,
             "losses": 491,
-            "kills_per_vehicle": 10457,
+            "kills_per_vehicle": 897,
             "kills_per_weapon": 10279,
             "deaths": 9648,
             "coins": 11
@@ -1481,7 +1481,7 @@
             "gamesELO": 1688.87,
             "wins": 470,
             "losses": 324,
-            "kills_per_vehicle": 19785,
+            "kills_per_vehicle": 421,
             "kills_per_weapon": 19437,
             "deaths": 5514,
             "coins": 4898
@@ -1492,7 +1492,7 @@
             "gamesELO": 1599.49,
             "wins": 623,
             "losses": 555,
-            "kills_per_vehicle": 10010,
+            "kills_per_vehicle": 226,
             "kills_per_weapon": 9996,
             "deaths": 10116,
             "coins": 50
@@ -1503,7 +1503,7 @@
             "gamesELO": 1517.5349999999999,
             "wins": 31,
             "losses": 14,
-            "kills_per_vehicle": 16423,
+            "kills_per_vehicle": 373,
             "kills_per_weapon": 16116,
             "deaths": 1443,
             "coins": 578
@@ -1514,7 +1514,7 @@
             "gamesELO": 1542.75,
             "wins": 1208,
             "losses": 837,
-            "kills_per_vehicle": 21775,
+            "kills_per_vehicle": 1816,
             "kills_per_weapon": 21536,
             "deaths": 13222,
             "coins": 1092
@@ -1525,7 +1525,7 @@
             "gamesELO": 1649.78,
             "wins": 340,
             "losses": 160,
-            "kills_per_vehicle": 11056,
+            "kills_per_vehicle": 354,
             "kills_per_weapon": 10946,
             "deaths": 4538,
             "coins": 135
@@ -1536,7 +1536,7 @@
             "gamesELO": 1756.71,
             "wins": 819,
             "losses": 590,
-            "kills_per_vehicle": 18368,
+            "kills_per_vehicle": 538,
             "kills_per_weapon": 16775,
             "deaths": 7300,
             "coins": 1527
@@ -1547,7 +1547,7 @@
             "gamesELO": 1992.0814285714284,
             "wins": 9503,
             "losses": 3720,
-            "kills_per_vehicle": 318298,
+            "kills_per_vehicle": 7065,
             "kills_per_weapon": 317561,
             "deaths": 62751,
             "coins": 1807
@@ -1558,7 +1558,7 @@
             "gamesELO": 1445.51,
             "wins": 189,
             "losses": 112,
-            "kills_per_vehicle": 5492,
+            "kills_per_vehicle": 132,
             "kills_per_weapon": 5459,
             "deaths": 2497,
             "coins": 55
@@ -1569,7 +1569,7 @@
             "gamesELO": 1644.7975,
             "wins": 2361,
             "losses": 1675,
-            "kills_per_vehicle": 49664,
+            "kills_per_vehicle": 1427,
             "kills_per_weapon": 49482,
             "deaths": 31583,
             "coins": 739
@@ -1580,7 +1580,7 @@
             "gamesELO": 1679.2340000000004,
             "wins": 1199,
             "losses": 917,
-            "kills_per_vehicle": 24490,
+            "kills_per_vehicle": 555,
             "kills_per_weapon": 24392,
             "deaths": 17743,
             "coins": 2307
@@ -1591,7 +1591,7 @@
             "gamesELO": 1884.34,
             "wins": 1047,
             "losses": 819,
-            "kills_per_vehicle": 19542,
+            "kills_per_vehicle": 480,
             "kills_per_weapon": 19310,
             "deaths": 11724,
             "coins": 225
@@ -1602,7 +1602,7 @@
             "gamesELO": 1845.7,
             "wins": 743,
             "losses": 467,
-            "kills_per_vehicle": 18015,
+            "kills_per_vehicle": 123,
             "kills_per_weapon": 17986,
             "deaths": 7199,
             "coins": 5690
@@ -1613,7 +1613,7 @@
             "gamesELO": 1453.97,
             "wins": 337,
             "losses": 284,
-            "kills_per_vehicle": 5800,
+            "kills_per_vehicle": 503,
             "kills_per_weapon": 5653,
             "deaths": 4254,
             "coins": 60
@@ -1624,7 +1624,7 @@
             "gamesELO": 1689.25125,
             "wins": 4568,
             "losses": 3299,
-            "kills_per_vehicle": 83082,
+            "kills_per_vehicle": 4626,
             "kills_per_weapon": 82560,
             "deaths": 49070,
             "coins": 5581
@@ -1635,7 +1635,7 @@
             "gamesELO": 1611.0214285714285,
             "wins": 4148,
             "losses": 2789,
-            "kills_per_vehicle": 78080,
+            "kills_per_vehicle": 4956,
             "kills_per_weapon": 75924,
             "deaths": 41039,
             "coins": 2509
@@ -1646,7 +1646,7 @@
             "gamesELO": 1822.29,
             "wins": 277,
             "losses": 124,
-            "kills_per_vehicle": 6986,
+            "kills_per_vehicle": 0,
             "kills_per_weapon": 6981,
             "deaths": 3261,
             "coins": 41
@@ -1657,7 +1657,7 @@
             "gamesELO": 1673.33,
             "wins": 20,
             "losses": 7,
-            "kills_per_vehicle": 766,
+            "kills_per_vehicle": 2,
             "kills_per_weapon": 766,
             "deaths": 269,
             "coins": 430
@@ -1668,7 +1668,7 @@
             "gamesELO": 1834.1412903225803,
             "wins": 51833,
             "losses": 30823,
-            "kills_per_vehicle": 1520967,
+            "kills_per_vehicle": 73715,
             "kills_per_weapon": 1512348,
             "deaths": 489580,
             "coins": 22620
@@ -1679,7 +1679,7 @@
             "gamesELO": 1909.08,
             "wins": 352,
             "losses": 199,
-            "kills_per_vehicle": 9317,
+            "kills_per_vehicle": 333,
             "kills_per_weapon": 9245,
             "deaths": 4502,
             "coins": 228
@@ -1690,7 +1690,7 @@
             "gamesELO": 1442.9933333333336,
             "wins": 1487,
             "losses": 1381,
-            "kills_per_vehicle": 20700,
+            "kills_per_vehicle": 990,
             "kills_per_weapon": 20526,
             "deaths": 20496,
             "coins": 1158
@@ -1701,7 +1701,7 @@
             "gamesELO": 1729.67,
             "wins": 630,
             "losses": 420,
-            "kills_per_vehicle": 15407,
+            "kills_per_vehicle": 829,
             "kills_per_weapon": 15285,
             "deaths": 8202,
             "coins": 541
@@ -1712,7 +1712,7 @@
             "gamesELO": 1718.1875,
             "wins": 7769,
             "losses": 4385,
-            "kills_per_vehicle": 187094,
+            "kills_per_vehicle": 4154,
             "kills_per_weapon": 186734,
             "deaths": 78693,
             "coins": 12354
@@ -1723,7 +1723,7 @@
             "gamesELO": 1516.4675,
             "wins": 1310,
             "losses": 865,
-            "kills_per_vehicle": 31677,
+            "kills_per_vehicle": 1355,
             "kills_per_weapon": 30966,
             "deaths": 17934,
             "coins": 1031
@@ -1734,7 +1734,7 @@
             "gamesELO": 2347.68,
             "wins": 6509,
             "losses": 2352,
-            "kills_per_vehicle": 188078,
+            "kills_per_vehicle": 1811,
             "kills_per_weapon": 186460,
             "deaths": 46357,
             "coins": 641
@@ -1745,7 +1745,7 @@
             "gamesELO": 1646.6654545454546,
             "wins": 6433,
             "losses": 4702,
-            "kills_per_vehicle": 144425,
+            "kills_per_vehicle": 3403,
             "kills_per_weapon": 142932,
             "deaths": 68236,
             "coins": 3710
@@ -1756,7 +1756,7 @@
             "gamesELO": 1733.07625,
             "wins": 7751,
             "losses": 4981,
-            "kills_per_vehicle": 204508,
+            "kills_per_vehicle": 5902,
             "kills_per_weapon": 202637,
             "deaths": 80249,
             "coins": 12991
@@ -1767,7 +1767,7 @@
             "gamesELO": 1763.6100000000001,
             "wins": 459,
             "losses": 359,
-            "kills_per_vehicle": 13063,
+            "kills_per_vehicle": 563,
             "kills_per_weapon": 12920,
             "deaths": 8550,
             "coins": 1810
@@ -1778,7 +1778,7 @@
             "gamesELO": 1497.65,
             "wins": 409,
             "losses": 361,
-            "kills_per_vehicle": 7918,
+            "kills_per_vehicle": 96,
             "kills_per_weapon": 7915,
             "deaths": 7397,
             "coins": 132
@@ -1789,7 +1789,7 @@
             "gamesELO": 1833.32,
             "wins": 318,
             "losses": 104,
-            "kills_per_vehicle": 8439,
+            "kills_per_vehicle": 283,
             "kills_per_weapon": 8417,
             "deaths": 3152,
             "coins": 293
@@ -1800,7 +1800,7 @@
             "gamesELO": 1751.4920000000002,
             "wins": 1266,
             "losses": 809,
-            "kills_per_vehicle": 32579,
+            "kills_per_vehicle": 473,
             "kills_per_weapon": 32377,
             "deaths": 18691,
             "coins": 3381
@@ -1811,7 +1811,7 @@
             "gamesELO": 1587.8,
             "wins": 369,
             "losses": 275,
-            "kills_per_vehicle": 8521,
+            "kills_per_vehicle": 240,
             "kills_per_weapon": 8501,
             "deaths": 5739,
             "coins": 130
@@ -1822,7 +1822,7 @@
             "gamesELO": 2051.49,
             "wins": 486,
             "losses": 299,
-            "kills_per_vehicle": 10624,
+            "kills_per_vehicle": 377,
             "kills_per_weapon": 10458,
             "deaths": 3825,
             "coins": 213
@@ -1833,7 +1833,7 @@
             "gamesELO": 1738.1689999999999,
             "wins": 19355,
             "losses": 11371,
-            "kills_per_vehicle": 533453,
+            "kills_per_vehicle": 8481,
             "kills_per_weapon": 530349,
             "deaths": 221197,
             "coins": 4967
@@ -1844,7 +1844,7 @@
             "gamesELO": 1775.5700000000002,
             "wins": 954,
             "losses": 612,
-            "kills_per_vehicle": 22068,
+            "kills_per_vehicle": 636,
             "kills_per_weapon": 21916,
             "deaths": 10226,
             "coins": 456
@@ -1855,7 +1855,7 @@
             "gamesELO": 1753.3,
             "wins": 696,
             "losses": 271,
-            "kills_per_vehicle": 13613,
+            "kills_per_vehicle": 614,
             "kills_per_weapon": 13560,
             "deaths": 3253,
             "coins": 3657
@@ -1866,7 +1866,7 @@
             "gamesELO": 1504.46,
             "wins": 503,
             "losses": 410,
-            "kills_per_vehicle": 6959,
+            "kills_per_vehicle": 735,
             "kills_per_weapon": 6777,
             "deaths": 6719,
             "coins": 184
@@ -1877,7 +1877,7 @@
             "gamesELO": 2049.71,
             "wins": 385,
             "losses": 201,
-            "kills_per_vehicle": 10930,
+            "kills_per_vehicle": 218,
             "kills_per_weapon": 10921,
             "deaths": 4654,
             "coins": 2380
@@ -1888,7 +1888,7 @@
             "gamesELO": 1497.15,
             "wins": 33,
             "losses": 21,
-            "kills_per_vehicle": 20479,
+            "kills_per_vehicle": 96,
             "kills_per_weapon": 20396,
             "deaths": 850,
             "coins": 2020
@@ -1899,7 +1899,7 @@
             "gamesELO": 1702.15,
             "wins": 354,
             "losses": 287,
-            "kills_per_vehicle": 8475,
+            "kills_per_vehicle": 180,
             "kills_per_weapon": 8093,
             "deaths": 4559,
             "coins": 634
@@ -1910,7 +1910,7 @@
             "gamesELO": 1652.8249999999998,
             "wins": 887,
             "losses": 551,
-            "kills_per_vehicle": 25829,
+            "kills_per_vehicle": 579,
             "kills_per_weapon": 25700,
             "deaths": 12158,
             "coins": 450
@@ -1921,7 +1921,7 @@
             "gamesELO": 1764.82,
             "wins": 496,
             "losses": 297,
-            "kills_per_vehicle": 12341,
+            "kills_per_vehicle": 720,
             "kills_per_weapon": 12272,
             "deaths": 6767,
             "coins": 634
@@ -1932,7 +1932,7 @@
             "gamesELO": 1584.845,
             "wins": 721,
             "losses": 538,
-            "kills_per_vehicle": 15615,
+            "kills_per_vehicle": 738,
             "kills_per_weapon": 15262,
             "deaths": 11831,
             "coins": 1386
@@ -1943,7 +1943,7 @@
             "gamesELO": 1597.8257142857142,
             "wins": 5103,
             "losses": 3640,
-            "kills_per_vehicle": 98809,
+            "kills_per_vehicle": 4262,
             "kills_per_weapon": 97660,
             "deaths": 63202,
             "coins": 11493
@@ -1954,9 +1954,9 @@
             "gamesELO": 1623.056923076923,
             "wins": 4328,
             "losses": 3359,
-            "kills_per_vehicle": 99641,
-            "kills_per_weapon": 94644,
-            "deaths": 57859,
+            "kills_per_vehicle": 3017,
+            "kills_per_weapon": 94687,
+            "deaths": 57860,
             "coins": 8202
         },
         "GOAT": {
@@ -1965,7 +1965,7 @@
             "gamesELO": 1848.55,
             "wins": 484,
             "losses": 206,
-            "kills_per_vehicle": 14583,
+            "kills_per_vehicle": 221,
             "kills_per_weapon": 14547,
             "deaths": 5640,
             "coins": 62
@@ -1976,7 +1976,7 @@
             "gamesELO": 1843.11,
             "wins": 1206,
             "losses": 669,
-            "kills_per_vehicle": 21932,
+            "kills_per_vehicle": 1068,
             "kills_per_weapon": 21786,
             "deaths": 9682,
             "coins": 110
@@ -1987,7 +1987,7 @@
             "gamesELO": 2288.0419999999995,
             "wins": 14951,
             "losses": 5279,
-            "kills_per_vehicle": 602926,
+            "kills_per_vehicle": 9188,
             "kills_per_weapon": 601580,
             "deaths": 94409,
             "coins": 28666
@@ -1998,7 +1998,7 @@
             "gamesELO": 2043.94,
             "wins": 2518,
             "losses": 1561,
-            "kills_per_vehicle": 63087,
+            "kills_per_vehicle": 502,
             "kills_per_weapon": 62923,
             "deaths": 22536,
             "coins": 370
@@ -2009,7 +2009,7 @@
             "gamesELO": 1879.33,
             "wins": 216,
             "losses": 119,
-            "kills_per_vehicle": 6862,
+            "kills_per_vehicle": 88,
             "kills_per_weapon": 6843,
             "deaths": 2779,
             "coins": 34
@@ -2020,7 +2020,7 @@
             "gamesELO": 1828.67,
             "wins": 96,
             "losses": 33,
-            "kills_per_vehicle": 12098,
+            "kills_per_vehicle": 273,
             "kills_per_weapon": 11684,
             "deaths": 1459,
             "coins": 86
@@ -2031,7 +2031,7 @@
             "gamesELO": 2119.4,
             "wins": 1207,
             "losses": 549,
-            "kills_per_vehicle": 36352,
+            "kills_per_vehicle": 54,
             "kills_per_weapon": 36329,
             "deaths": 10826,
             "coins": 363
@@ -2042,7 +2042,7 @@
             "gamesELO": 1435.0149999999999,
             "wins": 1266,
             "losses": 1233,
-            "kills_per_vehicle": 17935,
+            "kills_per_vehicle": 856,
             "kills_per_weapon": 17683,
             "deaths": 20645,
             "coins": 1752
@@ -2053,7 +2053,7 @@
             "gamesELO": 1911.55,
             "wins": 330,
             "losses": 142,
-            "kills_per_vehicle": 9687,
+            "kills_per_vehicle": 915,
             "kills_per_weapon": 9636,
             "deaths": 3403,
             "coins": 290
@@ -2064,7 +2064,7 @@
             "gamesELO": 1757.46,
             "wins": 696,
             "losses": 602,
-            "kills_per_vehicle": 13246,
+            "kills_per_vehicle": 509,
             "kills_per_weapon": 12967,
             "deaths": 9249,
             "coins": 607
@@ -2075,7 +2075,7 @@
             "gamesELO": 1720.8899999999999,
             "wins": 272,
             "losses": 130,
-            "kills_per_vehicle": 7065,
+            "kills_per_vehicle": 345,
             "kills_per_weapon": 6976,
             "deaths": 2521,
             "coins": 168
@@ -2086,7 +2086,7 @@
             "gamesELO": 1561.0149999999999,
             "wins": 839,
             "losses": 591,
-            "kills_per_vehicle": 23360,
+            "kills_per_vehicle": 104,
             "kills_per_weapon": 23343,
             "deaths": 12228,
             "coins": 574
@@ -2097,7 +2097,7 @@
             "gamesELO": 1391.016,
             "wins": 132,
             "losses": 169,
-            "kills_per_vehicle": 2304,
+            "kills_per_vehicle": 42,
             "kills_per_weapon": 2287,
             "deaths": 2685,
             "coins": 3692
@@ -2108,7 +2108,7 @@
             "gamesELO": 1823.45,
             "wins": 184,
             "losses": 141,
-            "kills_per_vehicle": 4572,
+            "kills_per_vehicle": 64,
             "kills_per_weapon": 4493,
             "deaths": 3319,
             "coins": 275
@@ -2119,7 +2119,7 @@
             "gamesELO": 1707.86,
             "wins": 311,
             "losses": 252,
-            "kills_per_vehicle": 5899,
+            "kills_per_vehicle": 415,
             "kills_per_weapon": 5811,
             "deaths": 2833,
             "coins": 342
@@ -2130,7 +2130,7 @@
             "gamesELO": 1708.6049999999998,
             "wins": 2917,
             "losses": 1789,
-            "kills_per_vehicle": 81251,
+            "kills_per_vehicle": 2702,
             "kills_per_weapon": 80496,
             "deaths": 37771,
             "coins": 2640
@@ -2141,7 +2141,7 @@
             "gamesELO": 1560.83,
             "wins": 116,
             "losses": 78,
-            "kills_per_vehicle": 2445,
+            "kills_per_vehicle": 107,
             "kills_per_weapon": 2433,
             "deaths": 1270,
             "coins": 490
@@ -2152,7 +2152,7 @@
             "gamesELO": 1981.17,
             "wins": 298,
             "losses": 153,
-            "kills_per_vehicle": 8071,
+            "kills_per_vehicle": 331,
             "kills_per_weapon": 8032,
             "deaths": 2524,
             "coins": 503
@@ -2163,7 +2163,7 @@
             "gamesELO": 1830.0513333333333,
             "wins": 21859,
             "losses": 11340,
-            "kills_per_vehicle": 610211,
+            "kills_per_vehicle": 12141,
             "kills_per_weapon": 608623,
             "deaths": 188604,
             "coins": 9640
@@ -2174,7 +2174,7 @@
             "gamesELO": 1439.01,
             "wins": 935,
             "losses": 571,
-            "kills_per_vehicle": 22315,
+            "kills_per_vehicle": 246,
             "kills_per_weapon": 22301,
             "deaths": 10461,
             "coins": 302
@@ -2185,7 +2185,7 @@
             "gamesELO": 1474.55,
             "wins": 39,
             "losses": 48,
-            "kills_per_vehicle": 946,
+            "kills_per_vehicle": 52,
             "kills_per_weapon": 918,
             "deaths": 832,
             "coins": 2340
@@ -2196,7 +2196,7 @@
             "gamesELO": 1476.71,
             "wins": 457,
             "losses": 400,
-            "kills_per_vehicle": 6225,
+            "kills_per_vehicle": 214,
             "kills_per_weapon": 6189,
             "deaths": 6377,
             "coins": 110
@@ -2207,7 +2207,7 @@
             "gamesELO": 1492.665,
             "wins": 414,
             "losses": 372,
-            "kills_per_vehicle": 7403,
+            "kills_per_vehicle": 1127,
             "kills_per_weapon": 6237,
             "deaths": 6929,
             "coins": 2231
@@ -2218,7 +2218,7 @@
             "gamesELO": 1764.0,
             "wins": 627,
             "losses": 353,
-            "kills_per_vehicle": 18430,
+            "kills_per_vehicle": 400,
             "kills_per_weapon": 18284,
             "deaths": 7688,
             "coins": 133
@@ -2229,7 +2229,7 @@
             "gamesELO": 1920.7371428571428,
             "wins": 8248,
             "losses": 4396,
-            "kills_per_vehicle": 206805,
+            "kills_per_vehicle": 11395,
             "kills_per_weapon": 205437,
             "deaths": 63914,
             "coins": 5487
@@ -2240,7 +2240,7 @@
             "gamesELO": 1623.665,
             "wins": 608,
             "losses": 407,
-            "kills_per_vehicle": 11974,
+            "kills_per_vehicle": 287,
             "kills_per_weapon": 11799,
             "deaths": 5509,
             "coins": 492
@@ -2251,7 +2251,7 @@
             "gamesELO": 2262.615,
             "wins": 3522,
             "losses": 1395,
-            "kills_per_vehicle": 100487,
+            "kills_per_vehicle": 2731,
             "kills_per_weapon": 100217,
             "deaths": 25957,
             "coins": 765
@@ -2262,7 +2262,7 @@
             "gamesELO": 1792.9366666666665,
             "wins": 1374,
             "losses": 759,
-            "kills_per_vehicle": 36696,
+            "kills_per_vehicle": 63,
             "kills_per_weapon": 36686,
             "deaths": 15133,
             "coins": 2941
@@ -2273,7 +2273,7 @@
             "gamesELO": 1907.9,
             "wins": 1363,
             "losses": 857,
-            "kills_per_vehicle": 38273,
+            "kills_per_vehicle": 943,
             "kills_per_weapon": 38099,
             "deaths": 14005,
             "coins": 1565
@@ -2284,7 +2284,7 @@
             "gamesELO": 1622.565,
             "wins": 394,
             "losses": 336,
-            "kills_per_vehicle": 7093,
+            "kills_per_vehicle": 911,
             "kills_per_weapon": 6897,
             "deaths": 7108,
             "coins": 505
@@ -2295,7 +2295,7 @@
             "gamesELO": 1945.59,
             "wins": 815,
             "losses": 485,
-            "kills_per_vehicle": 19671,
+            "kills_per_vehicle": 670,
             "kills_per_weapon": 19612,
             "deaths": 6948,
             "coins": 1325
@@ -2306,7 +2306,7 @@
             "gamesELO": 1794.2,
             "wins": 325,
             "losses": 219,
-            "kills_per_vehicle": 9796,
+            "kills_per_vehicle": 147,
             "kills_per_weapon": 9622,
             "deaths": 4914,
             "coins": 481
@@ -2317,7 +2317,7 @@
             "gamesELO": 1713.28,
             "wins": 280,
             "losses": 177,
-            "kills_per_vehicle": 6146,
+            "kills_per_vehicle": 130,
             "kills_per_weapon": 6101,
             "deaths": 3881,
             "coins": 43
@@ -2328,7 +2328,7 @@
             "gamesELO": 1831.035,
             "wins": 1360,
             "losses": 459,
-            "kills_per_vehicle": 42179,
+            "kills_per_vehicle": 449,
             "kills_per_weapon": 42105,
             "deaths": 11253,
             "coins": 614
@@ -2339,7 +2339,7 @@
             "gamesELO": 1766.9214285714286,
             "wins": 6031,
             "losses": 3014,
-            "kills_per_vehicle": 154577,
+            "kills_per_vehicle": 7675,
             "kills_per_weapon": 153288,
             "deaths": 49473,
             "coins": 2117
@@ -2350,7 +2350,7 @@
             "gamesELO": 1847.5120000000002,
             "wins": 3308,
             "losses": 1998,
-            "kills_per_vehicle": 84344,
+            "kills_per_vehicle": 2076,
             "kills_per_weapon": 83977,
             "deaths": 36744,
             "coins": 1144
@@ -2361,7 +2361,7 @@
             "gamesELO": 1565.7766666666666,
             "wins": 699,
             "losses": 423,
-            "kills_per_vehicle": 16340,
+            "kills_per_vehicle": 213,
             "kills_per_weapon": 16287,
             "deaths": 6502,
             "coins": 3124
@@ -2372,7 +2372,7 @@
             "gamesELO": 1681.9466666666667,
             "wins": 394,
             "losses": 249,
-            "kills_per_vehicle": 13222,
+            "kills_per_vehicle": 515,
             "kills_per_weapon": 12982,
             "deaths": 5986,
             "coins": 2322
@@ -2383,7 +2383,7 @@
             "gamesELO": 1530.18,
             "wins": 838,
             "losses": 806,
-            "kills_per_vehicle": 17189,
+            "kills_per_vehicle": 162,
             "kills_per_weapon": 17138,
             "deaths": 14314,
             "coins": 0
@@ -2394,7 +2394,7 @@
             "gamesELO": 1844.725,
             "wins": 18664,
             "losses": 9938,
-            "kills_per_vehicle": 603118,
+            "kills_per_vehicle": 12022,
             "kills_per_weapon": 601015,
             "deaths": 191102,
             "coins": 23941
@@ -2405,7 +2405,7 @@
             "gamesELO": 1710.7562500000001,
             "wins": 2712,
             "losses": 1713,
-            "kills_per_vehicle": 63323,
+            "kills_per_vehicle": 1312,
             "kills_per_weapon": 62971,
             "deaths": 25642,
             "coins": 8034
@@ -2416,7 +2416,7 @@
             "gamesELO": 1498.3,
             "wins": 1206,
             "losses": 1313,
-            "kills_per_vehicle": 16081,
+            "kills_per_vehicle": 927,
             "kills_per_weapon": 15725,
             "deaths": 22673,
             "coins": 1611
@@ -2427,7 +2427,7 @@
             "gamesELO": 1435.22,
             "wins": 425,
             "losses": 328,
-            "kills_per_vehicle": 12462,
+            "kills_per_vehicle": 289,
             "kills_per_weapon": 12386,
             "deaths": 5984,
             "coins": 0
@@ -2438,7 +2438,7 @@
             "gamesELO": 1513.91,
             "wins": 800,
             "losses": 598,
-            "kills_per_vehicle": 22344,
+            "kills_per_vehicle": 221,
             "kills_per_weapon": 22320,
             "deaths": 10474,
             "coins": 53
@@ -2449,7 +2449,7 @@
             "gamesELO": 1651.195,
             "wins": 2241,
             "losses": 1755,
-            "kills_per_vehicle": 43050,
+            "kills_per_vehicle": 2542,
             "kills_per_weapon": 42383,
             "deaths": 32214,
             "coins": 1540
@@ -2460,7 +2460,7 @@
             "gamesELO": 1754.6,
             "wins": 365,
             "losses": 320,
-            "kills_per_vehicle": 6662,
+            "kills_per_vehicle": 133,
             "kills_per_weapon": 6511,
             "deaths": 3992,
             "coins": 391
@@ -2471,7 +2471,7 @@
             "gamesELO": 1373.22,
             "wins": 442,
             "losses": 310,
-            "kills_per_vehicle": 5664,
+            "kills_per_vehicle": 26,
             "kills_per_weapon": 5658,
             "deaths": 2660,
             "coins": 51
@@ -2482,7 +2482,7 @@
             "gamesELO": 1572.65,
             "wins": 62,
             "losses": 33,
-            "kills_per_vehicle": 2913,
+            "kills_per_vehicle": 92,
             "kills_per_weapon": 2809,
             "deaths": 797,
             "coins": 524
@@ -2493,7 +2493,7 @@
             "gamesELO": 1399.76,
             "wins": 161,
             "losses": 120,
-            "kills_per_vehicle": 2160,
+            "kills_per_vehicle": 225,
             "kills_per_weapon": 2087,
             "deaths": 2400,
             "coins": 383
@@ -2504,7 +2504,7 @@
             "gamesELO": 1290.02,
             "wins": 149,
             "losses": 160,
-            "kills_per_vehicle": 988,
+            "kills_per_vehicle": 84,
             "kills_per_weapon": 975,
             "deaths": 1911,
             "coins": 447
@@ -2515,7 +2515,7 @@
             "gamesELO": 1691.624,
             "wins": 9462,
             "losses": 6156,
-            "kills_per_vehicle": 212944,
+            "kills_per_vehicle": 11145,
             "kills_per_weapon": 208721,
             "deaths": 108120,
             "coins": 8403
@@ -2526,7 +2526,7 @@
             "gamesELO": 1641.15,
             "wins": 345,
             "losses": 238,
-            "kills_per_vehicle": 9477,
+            "kills_per_vehicle": 482,
             "kills_per_weapon": 9247,
             "deaths": 5342,
             "coins": 1392
@@ -2537,7 +2537,7 @@
             "gamesELO": 1474.9299999999998,
             "wins": 736,
             "losses": 447,
-            "kills_per_vehicle": 12822,
+            "kills_per_vehicle": 828,
             "kills_per_weapon": 12747,
             "deaths": 5087,
             "coins": 3009
@@ -2548,7 +2548,7 @@
             "gamesELO": 1682.935714285714,
             "wins": 2770,
             "losses": 1857,
-            "kills_per_vehicle": 61589,
+            "kills_per_vehicle": 2140,
             "kills_per_weapon": 61049,
             "deaths": 31169,
             "coins": 1849
@@ -2559,7 +2559,7 @@
             "gamesELO": 1768.71,
             "wins": 756,
             "losses": 513,
-            "kills_per_vehicle": 15105,
+            "kills_per_vehicle": 237,
             "kills_per_weapon": 15078,
             "deaths": 4092,
             "coins": 1504
@@ -2570,7 +2570,7 @@
             "gamesELO": 1691.21,
             "wins": 576,
             "losses": 312,
-            "kills_per_vehicle": 12925,
+            "kills_per_vehicle": 1176,
             "kills_per_weapon": 12678,
             "deaths": 6344,
             "coins": 280
@@ -2581,7 +2581,7 @@
             "gamesELO": 1564.89,
             "wins": 1658,
             "losses": 1215,
-            "kills_per_vehicle": 37673,
+            "kills_per_vehicle": 1042,
             "kills_per_weapon": 37435,
             "deaths": 22040,
             "coins": 728
@@ -2592,7 +2592,7 @@
             "gamesELO": 1574.34,
             "wins": 147,
             "losses": 135,
-            "kills_per_vehicle": 3156,
+            "kills_per_vehicle": 316,
             "kills_per_weapon": 2959,
             "deaths": 2633,
             "coins": 675
@@ -2603,7 +2603,7 @@
             "gamesELO": 2096.41,
             "wins": 816,
             "losses": 507,
-            "kills_per_vehicle": 19542,
+            "kills_per_vehicle": 420,
             "kills_per_weapon": 19481,
             "deaths": 9311,
             "coins": 13
@@ -2614,7 +2614,7 @@
             "gamesELO": 1644.925,
             "wins": 834,
             "losses": 568,
-            "kills_per_vehicle": 19712,
+            "kills_per_vehicle": 1339,
             "kills_per_weapon": 19560,
             "deaths": 11296,
             "coins": 351
@@ -2625,7 +2625,7 @@
             "gamesELO": 1640.53,
             "wins": 338,
             "losses": 213,
-            "kills_per_vehicle": 8159,
+            "kills_per_vehicle": 135,
             "kills_per_weapon": 8137,
             "deaths": 3744,
             "coins": 244
@@ -2636,7 +2636,7 @@
             "gamesELO": 1766.1799999999998,
             "wins": 5423,
             "losses": 2616,
-            "kills_per_vehicle": 177181,
+            "kills_per_vehicle": 5450,
             "kills_per_weapon": 176673,
             "deaths": 59114,
             "coins": 3072
@@ -2647,7 +2647,7 @@
             "gamesELO": 1809.9,
             "wins": 347,
             "losses": 252,
-            "kills_per_vehicle": 7629,
+            "kills_per_vehicle": 67,
             "kills_per_weapon": 7622,
             "deaths": 3955,
             "coins": 130
@@ -2658,7 +2658,7 @@
             "gamesELO": 1597.805,
             "wins": 817,
             "losses": 572,
-            "kills_per_vehicle": 15161,
+            "kills_per_vehicle": 961,
             "kills_per_weapon": 15082,
             "deaths": 8582,
             "coins": 270
@@ -2669,7 +2669,7 @@
             "gamesELO": 1799.6166666666668,
             "wins": 4755,
             "losses": 2564,
-            "kills_per_vehicle": 124865,
+            "kills_per_vehicle": 3831,
             "kills_per_weapon": 124138,
             "deaths": 52023,
             "coins": 115
@@ -2680,7 +2680,7 @@
             "gamesELO": 1547.5900000000001,
             "wins": 225,
             "losses": 147,
-            "kills_per_vehicle": 9392,
+            "kills_per_vehicle": 679,
             "kills_per_weapon": 9205,
             "deaths": 2564,
             "coins": 2589
@@ -2691,7 +2691,7 @@
             "gamesELO": 1610.91,
             "wins": 1043,
             "losses": 824,
-            "kills_per_vehicle": 13975,
+            "kills_per_vehicle": 994,
             "kills_per_weapon": 13821,
             "deaths": 11028,
             "coins": 315
@@ -2702,7 +2702,7 @@
             "gamesELO": 1613.27,
             "wins": 327,
             "losses": 303,
-            "kills_per_vehicle": 4643,
+            "kills_per_vehicle": 258,
             "kills_per_weapon": 4537,
             "deaths": 3534,
             "coins": 1533
@@ -2713,7 +2713,7 @@
             "gamesELO": 1931.495,
             "wins": 2047,
             "losses": 1126,
-            "kills_per_vehicle": 58447,
+            "kills_per_vehicle": 249,
             "kills_per_weapon": 58344,
             "deaths": 23315,
             "coins": 691
@@ -2724,7 +2724,7 @@
             "gamesELO": 1911.16,
             "wins": 255,
             "losses": 131,
-            "kills_per_vehicle": 7418,
+            "kills_per_vehicle": 644,
             "kills_per_weapon": 7365,
             "deaths": 2711,
             "coins": 430
@@ -2735,7 +2735,7 @@
             "gamesELO": 2143.14,
             "wins": 304,
             "losses": 125,
-            "kills_per_vehicle": 8657,
+            "kills_per_vehicle": 321,
             "kills_per_weapon": 8575,
             "deaths": 2070,
             "coins": 421
@@ -2746,7 +2746,7 @@
             "gamesELO": 1635.2,
             "wins": 527,
             "losses": 424,
-            "kills_per_vehicle": 11018,
+            "kills_per_vehicle": 282,
             "kills_per_weapon": 10862,
             "deaths": 9125,
             "coins": 294
@@ -2757,7 +2757,7 @@
             "gamesELO": 1471.325,
             "wins": 2530,
             "losses": 1950,
-            "kills_per_vehicle": 51086,
+            "kills_per_vehicle": 1529,
             "kills_per_weapon": 50712,
             "deaths": 41811,
             "coins": 970
@@ -2768,7 +2768,7 @@
             "gamesELO": 1645.6437499999997,
             "wins": 1908,
             "losses": 1258,
-            "kills_per_vehicle": 40694,
+            "kills_per_vehicle": 953,
             "kills_per_weapon": 40403,
             "deaths": 20616,
             "coins": 2466
@@ -2779,7 +2779,7 @@
             "gamesELO": 1648.4499999999998,
             "wins": 619,
             "losses": 490,
-            "kills_per_vehicle": 12409,
+            "kills_per_vehicle": 492,
             "kills_per_weapon": 12329,
             "deaths": 11090,
             "coins": 1933
@@ -2790,7 +2790,7 @@
             "gamesELO": 1731.9183333333337,
             "wins": 26477,
             "losses": 15951,
-            "kills_per_vehicle": 771128,
+            "kills_per_vehicle": 36746,
             "kills_per_weapon": 755066,
             "deaths": 307894,
             "coins": 25456
@@ -2801,7 +2801,7 @@
             "gamesELO": 1646.0466666666669,
             "wins": 556,
             "losses": 402,
-            "kills_per_vehicle": 12346,
+            "kills_per_vehicle": 638,
             "kills_per_weapon": 11647,
             "deaths": 5620,
             "coins": 1149
@@ -2812,7 +2812,7 @@
             "gamesELO": 1615.65,
             "wins": 53,
             "losses": 33,
-            "kills_per_vehicle": 16175,
+            "kills_per_vehicle": 132,
             "kills_per_weapon": 15773,
             "deaths": 1700,
             "coins": 270
@@ -2823,7 +2823,7 @@
             "gamesELO": 1834.3083333333334,
             "wins": 10897,
             "losses": 5054,
-            "kills_per_vehicle": 404408,
+            "kills_per_vehicle": 17768,
             "kills_per_weapon": 398726,
             "deaths": 104627,
             "coins": 12639
@@ -2834,7 +2834,7 @@
             "gamesELO": 1869.78,
             "wins": 272,
             "losses": 184,
-            "kills_per_vehicle": 10306,
+            "kills_per_vehicle": 34,
             "kills_per_weapon": 10291,
             "deaths": 4784,
             "coins": 1
@@ -2845,7 +2845,7 @@
             "gamesELO": 1900.6742857142858,
             "wins": 10268,
             "losses": 5038,
-            "kills_per_vehicle": 323416,
+            "kills_per_vehicle": 9247,
             "kills_per_weapon": 322174,
             "deaths": 77545,
             "coins": 9159
@@ -2856,7 +2856,7 @@
             "gamesELO": 2101.08,
             "wins": 949,
             "losses": 557,
-            "kills_per_vehicle": 22621,
+            "kills_per_vehicle": 373,
             "kills_per_weapon": 22606,
             "deaths": 5995,
             "coins": 530
@@ -2867,20 +2867,20 @@
             "gamesELO": 1483.22,
             "wins": 443,
             "losses": 371,
-            "kills_per_vehicle": 7445,
+            "kills_per_vehicle": 960,
             "kills_per_weapon": 6928,
             "deaths": 6036,
             "coins": 769
         },
         "Lotus": {
             "level": 319.25,
-            "killsELO": 1746.8925,
-            "gamesELO": 1943.125,
-            "wins": 4776,
-            "losses": 2291,
-            "kills_per_vehicle": 176581,
-            "kills_per_weapon": 174670,
-            "deaths": 44116,
+            "killsELO": 1745.8674999999998,
+            "gamesELO": 1946.3925000000002,
+            "wins": 4778,
+            "losses": 2292,
+            "kills_per_vehicle": 842,
+            "kills_per_weapon": 174695,
+            "deaths": 44129,
             "coins": 769
         },
         "Love": {
@@ -2889,7 +2889,7 @@
             "gamesELO": 1482.27,
             "wins": 13,
             "losses": 16,
-            "kills_per_vehicle": 5332,
+            "kills_per_vehicle": 15,
             "kills_per_weapon": 5324,
             "deaths": 565,
             "coins": 273
@@ -2900,7 +2900,7 @@
             "gamesELO": 1388.665,
             "wins": 148,
             "losses": 128,
-            "kills_per_vehicle": 2717,
+            "kills_per_vehicle": 13,
             "kills_per_weapon": 2716,
             "deaths": 2332,
             "coins": 450
@@ -2911,7 +2911,7 @@
             "gamesELO": 1799.7533333333333,
             "wins": 1504,
             "losses": 648,
-            "kills_per_vehicle": 43341,
+            "kills_per_vehicle": 1430,
             "kills_per_weapon": 43234,
             "deaths": 16166,
             "coins": 422
@@ -2922,7 +2922,7 @@
             "gamesELO": 1631.85,
             "wins": 411,
             "losses": 322,
-            "kills_per_vehicle": 7709,
+            "kills_per_vehicle": 116,
             "kills_per_weapon": 7416,
             "deaths": 7052,
             "coins": 111
@@ -2933,7 +2933,7 @@
             "gamesELO": 1564.075,
             "wins": 1177,
             "losses": 525,
-            "kills_per_vehicle": 29490,
+            "kills_per_vehicle": 2773,
             "kills_per_weapon": 29395,
             "deaths": 7269,
             "coins": 512
@@ -2944,7 +2944,7 @@
             "gamesELO": 2390.63,
             "wins": 1120,
             "losses": 628,
-            "kills_per_vehicle": 35876,
+            "kills_per_vehicle": 604,
             "kills_per_weapon": 32306,
             "deaths": 13684,
             "coins": 48
@@ -2955,7 +2955,7 @@
             "gamesELO": 2031.71,
             "wins": 1313,
             "losses": 655,
-            "kills_per_vehicle": 36391,
+            "kills_per_vehicle": 1833,
             "kills_per_weapon": 35945,
             "deaths": 14720,
             "coins": 171
@@ -2966,7 +2966,7 @@
             "gamesELO": 1343.52,
             "wins": 492,
             "losses": 476,
-            "kills_per_vehicle": 4040,
+            "kills_per_vehicle": 448,
             "kills_per_weapon": 3957,
             "deaths": 7397,
             "coins": 100
@@ -2977,7 +2977,7 @@
             "gamesELO": 1722.3,
             "wins": 375,
             "losses": 201,
-            "kills_per_vehicle": 10841,
+            "kills_per_vehicle": 270,
             "kills_per_weapon": 10768,
             "deaths": 4058,
             "coins": 408
@@ -2988,7 +2988,7 @@
             "gamesELO": 1663.145,
             "wins": 406,
             "losses": 252,
-            "kills_per_vehicle": 13161,
+            "kills_per_vehicle": 935,
             "kills_per_weapon": 12765,
             "deaths": 4232,
             "coins": 281
@@ -2999,7 +2999,7 @@
             "gamesELO": 1410.22,
             "wins": 425,
             "losses": 415,
-            "kills_per_vehicle": 7598,
+            "kills_per_vehicle": 607,
             "kills_per_weapon": 7386,
             "deaths": 7391,
             "coins": 370
@@ -3010,7 +3010,7 @@
             "gamesELO": 1600.2775000000001,
             "wins": 255,
             "losses": 186,
-            "kills_per_vehicle": 18424,
+            "kills_per_vehicle": 525,
             "kills_per_weapon": 17680,
             "deaths": 4805,
             "coins": 1970
@@ -3021,7 +3021,7 @@
             "gamesELO": 1771.62,
             "wins": 2766,
             "losses": 1942,
-            "kills_per_vehicle": 46929,
+            "kills_per_vehicle": 7336,
             "kills_per_weapon": 42909,
             "deaths": 24378,
             "coins": 244
@@ -3032,7 +3032,7 @@
             "gamesELO": 1768.34,
             "wins": 657,
             "losses": 346,
-            "kills_per_vehicle": 14552,
+            "kills_per_vehicle": 218,
             "kills_per_weapon": 14001,
             "deaths": 6320,
             "coins": 1584
@@ -3043,7 +3043,7 @@
             "gamesELO": 1587.6100000000001,
             "wins": 359,
             "losses": 303,
-            "kills_per_vehicle": 7781,
+            "kills_per_vehicle": 557,
             "kills_per_weapon": 7473,
             "deaths": 5465,
             "coins": 477
@@ -3054,7 +3054,7 @@
             "gamesELO": 1889.6074999999998,
             "wins": 8671,
             "losses": 3991,
-            "kills_per_vehicle": 231282,
+            "kills_per_vehicle": 3840,
             "kills_per_weapon": 230125,
             "deaths": 88012,
             "coins": 9834
@@ -3065,7 +3065,7 @@
             "gamesELO": 1756.97,
             "wins": 683,
             "losses": 279,
-            "kills_per_vehicle": 15472,
+            "kills_per_vehicle": 372,
             "kills_per_weapon": 15380,
             "deaths": 4973,
             "coins": 111
@@ -3076,7 +3076,7 @@
             "gamesELO": 1874.9450000000002,
             "wins": 654,
             "losses": 417,
-            "kills_per_vehicle": 15969,
+            "kills_per_vehicle": 1202,
             "kills_per_weapon": 15495,
             "deaths": 7560,
             "coins": 3864
@@ -3087,7 +3087,7 @@
             "gamesELO": 1501.96,
             "wins": 352,
             "losses": 267,
-            "kills_per_vehicle": 7028,
+            "kills_per_vehicle": 41,
             "kills_per_weapon": 6794,
             "deaths": 3673,
             "coins": 522
@@ -3098,7 +3098,7 @@
             "gamesELO": 1560.895,
             "wins": 203,
             "losses": 134,
-            "kills_per_vehicle": 3381,
+            "kills_per_vehicle": 73,
             "kills_per_weapon": 3361,
             "deaths": 2392,
             "coins": 1363
@@ -3109,7 +3109,7 @@
             "gamesELO": 1601.005,
             "wins": 833,
             "losses": 723,
-            "kills_per_vehicle": 18101,
+            "kills_per_vehicle": 255,
             "kills_per_weapon": 18021,
             "deaths": 12634,
             "coins": 695
@@ -3120,7 +3120,7 @@
             "gamesELO": 1561.36,
             "wins": 77,
             "losses": 29,
-            "kills_per_vehicle": 2620,
+            "kills_per_vehicle": 17,
             "kills_per_weapon": 2610,
             "deaths": 760,
             "coins": 1055
@@ -3131,7 +3131,7 @@
             "gamesELO": 1542.37,
             "wins": 219,
             "losses": 228,
-            "kills_per_vehicle": 2620,
+            "kills_per_vehicle": 95,
             "kills_per_weapon": 2591,
             "deaths": 3431,
             "coins": 3
@@ -3142,7 +3142,7 @@
             "gamesELO": 1671.1330769230767,
             "wins": 10759,
             "losses": 7509,
-            "kills_per_vehicle": 257133,
+            "kills_per_vehicle": 10601,
             "kills_per_weapon": 254774,
             "deaths": 138569,
             "coins": 8344
@@ -3153,7 +3153,7 @@
             "gamesELO": 1516.43,
             "wins": 661,
             "losses": 604,
-            "kills_per_vehicle": 15120,
+            "kills_per_vehicle": 359,
             "kills_per_weapon": 14969,
             "deaths": 11089,
             "coins": 143
@@ -3164,7 +3164,7 @@
             "gamesELO": 1626.6,
             "wins": 647,
             "losses": 574,
-            "kills_per_vehicle": 7550,
+            "kills_per_vehicle": 1037,
             "kills_per_weapon": 7502,
             "deaths": 4351,
             "coins": 2874
@@ -3175,7 +3175,7 @@
             "gamesELO": 1704.67,
             "wins": 1278,
             "losses": 995,
-            "kills_per_vehicle": 86405,
+            "kills_per_vehicle": 6972,
             "kills_per_weapon": 78684,
             "deaths": 34926,
             "coins": 5150
@@ -3186,7 +3186,7 @@
             "gamesELO": 2107.57,
             "wins": 498,
             "losses": 206,
-            "kills_per_vehicle": 14854,
+            "kills_per_vehicle": 1252,
             "kills_per_weapon": 14732,
             "deaths": 3665,
             "coins": 4080
@@ -3197,7 +3197,7 @@
             "gamesELO": 2032.0600000000002,
             "wins": 12287,
             "losses": 6606,
-            "kills_per_vehicle": 338239,
+            "kills_per_vehicle": 6350,
             "kills_per_weapon": 336997,
             "deaths": 125732,
             "coins": 1379
@@ -3208,7 +3208,7 @@
             "gamesELO": 1483.96,
             "wins": 492,
             "losses": 412,
-            "kills_per_vehicle": 7451,
+            "kills_per_vehicle": 328,
             "kills_per_weapon": 7346,
             "deaths": 6772,
             "coins": 171
@@ -3219,7 +3219,7 @@
             "gamesELO": 1608.8166666666668,
             "wins": 676,
             "losses": 574,
-            "kills_per_vehicle": 12662,
+            "kills_per_vehicle": 322,
             "kills_per_weapon": 12520,
             "deaths": 10140,
             "coins": 2043
@@ -3230,7 +3230,7 @@
             "gamesELO": 1531.76,
             "wins": 111,
             "losses": 63,
-            "kills_per_vehicle": 6672,
+            "kills_per_vehicle": 276,
             "kills_per_weapon": 6619,
             "deaths": 1240,
             "coins": 3805
@@ -3241,7 +3241,7 @@
             "gamesELO": 1804.41,
             "wins": 4112,
             "losses": 2216,
-            "kills_per_vehicle": 97937,
+            "kills_per_vehicle": 3879,
             "kills_per_weapon": 95123,
             "deaths": 34295,
             "coins": 6718
@@ -3252,7 +3252,7 @@
             "gamesELO": 1621.73,
             "wins": 3225,
             "losses": 2345,
-            "kills_per_vehicle": 69064,
+            "kills_per_vehicle": 3916,
             "kills_per_weapon": 68450,
             "deaths": 45072,
             "coins": 2735
@@ -3263,7 +3263,7 @@
             "gamesELO": 1770.64,
             "wins": 289,
             "losses": 266,
-            "kills_per_vehicle": 13997,
+            "kills_per_vehicle": 1337,
             "kills_per_weapon": 13124,
             "deaths": 5854,
             "coins": 230
@@ -3274,7 +3274,7 @@
             "gamesELO": 1874.92,
             "wins": 1307,
             "losses": 668,
-            "kills_per_vehicle": 35952,
+            "kills_per_vehicle": 829,
             "kills_per_weapon": 34967,
             "deaths": 11894,
             "coins": 3743
@@ -3285,7 +3285,7 @@
             "gamesELO": 2487.5,
             "wins": 1262,
             "losses": 498,
-            "kills_per_vehicle": 40438,
+            "kills_per_vehicle": 1553,
             "kills_per_weapon": 37013,
             "deaths": 10094,
             "coins": 395
@@ -3296,7 +3296,7 @@
             "gamesELO": 1497.69,
             "wins": 91,
             "losses": 38,
-            "kills_per_vehicle": 2505,
+            "kills_per_vehicle": 45,
             "kills_per_weapon": 2497,
             "deaths": 577,
             "coins": 110
@@ -3307,7 +3307,7 @@
             "gamesELO": 1985.02,
             "wins": 1220,
             "losses": 736,
-            "kills_per_vehicle": 36084,
+            "kills_per_vehicle": 361,
             "kills_per_weapon": 35836,
             "deaths": 12151,
             "coins": 25
@@ -3318,7 +3318,7 @@
             "gamesELO": 2028.565,
             "wins": 844,
             "losses": 442,
-            "kills_per_vehicle": 28128,
+            "kills_per_vehicle": 625,
             "kills_per_weapon": 27889,
             "deaths": 9397,
             "coins": 686
@@ -3329,7 +3329,7 @@
             "gamesELO": 1907.52,
             "wins": 429,
             "losses": 190,
-            "kills_per_vehicle": 19054,
+            "kills_per_vehicle": 567,
             "kills_per_weapon": 18809,
             "deaths": 4670,
             "coins": 2589
@@ -3340,7 +3340,7 @@
             "gamesELO": 1789.75,
             "wins": 412,
             "losses": 248,
-            "kills_per_vehicle": 10298,
+            "kills_per_vehicle": 341,
             "kills_per_weapon": 10146,
             "deaths": 5108,
             "coins": 741
@@ -3351,7 +3351,7 @@
             "gamesELO": 1522.29,
             "wins": 422,
             "losses": 314,
-            "kills_per_vehicle": 6683,
+            "kills_per_vehicle": 541,
             "kills_per_weapon": 6512,
             "deaths": 4954,
             "coins": 591
@@ -3362,7 +3362,7 @@
             "gamesELO": 1783.28,
             "wins": 547,
             "losses": 475,
-            "kills_per_vehicle": 12554,
+            "kills_per_vehicle": 230,
             "kills_per_weapon": 12536,
             "deaths": 10054,
             "coins": 200
@@ -3373,20 +3373,20 @@
             "gamesELO": 1991.48,
             "wins": 1785,
             "losses": 974,
-            "kills_per_vehicle": 46800,
+            "kills_per_vehicle": 476,
             "kills_per_weapon": 46768,
             "deaths": 17984,
             "coins": 472
         },
         "PAIN": {
-            "level": 231.0612244897959,
-            "killsELO": 1643.59693877551,
-            "gamesELO": 1824.6257142857141,
-            "wins": 54598,
-            "losses": 31172,
-            "kills_per_vehicle": 1350357,
-            "kills_per_weapon": 1336986,
-            "deaths": 546016,
+            "level": 231.08163265306123,
+            "killsELO": 1643.679183673469,
+            "gamesELO": 1825.1653061224488,
+            "wins": 54602,
+            "losses": 31173,
+            "kills_per_vehicle": 36752,
+            "kills_per_weapon": 1337108,
+            "deaths": 546081,
             "coins": 41674
         },
         "PANDA": {
@@ -3395,7 +3395,7 @@
             "gamesELO": 1526.205,
             "wins": 632,
             "losses": 516,
-            "kills_per_vehicle": 11458,
+            "kills_per_vehicle": 1375,
             "kills_per_weapon": 11260,
             "deaths": 8214,
             "coins": 982
@@ -3406,7 +3406,7 @@
             "gamesELO": 1641.6599999999999,
             "wins": 873,
             "losses": 800,
-            "kills_per_vehicle": 20067,
+            "kills_per_vehicle": 1598,
             "kills_per_weapon": 19469,
             "deaths": 16715,
             "coins": 672
@@ -3417,7 +3417,7 @@
             "gamesELO": 1500.17,
             "wins": 989,
             "losses": 729,
-            "kills_per_vehicle": 20364,
+            "kills_per_vehicle": 29,
             "kills_per_weapon": 20359,
             "deaths": 12378,
             "coins": 170
@@ -3428,7 +3428,7 @@
             "gamesELO": 1780.9062962962967,
             "wins": 35155,
             "losses": 17114,
-            "kills_per_vehicle": 965021,
+            "kills_per_vehicle": 12418,
             "kills_per_weapon": 960250,
             "deaths": 320129,
             "coins": 23993
@@ -3439,7 +3439,7 @@
             "gamesELO": 1689.7,
             "wins": 368,
             "losses": 276,
-            "kills_per_vehicle": 6695,
+            "kills_per_vehicle": 156,
             "kills_per_weapon": 6604,
             "deaths": 4509,
             "coins": 1210
@@ -3450,7 +3450,7 @@
             "gamesELO": 1903.6999999999998,
             "wins": 331,
             "losses": 131,
-            "kills_per_vehicle": 11671,
+            "kills_per_vehicle": 123,
             "kills_per_weapon": 11658,
             "deaths": 2165,
             "coins": 1130
@@ -3461,7 +3461,7 @@
             "gamesELO": 1502.5533333333333,
             "wins": 392,
             "losses": 315,
-            "kills_per_vehicle": 7612,
+            "kills_per_vehicle": 705,
             "kills_per_weapon": 7496,
             "deaths": 5955,
             "coins": 1054
@@ -3472,7 +3472,7 @@
             "gamesELO": 2481.74,
             "wins": 399,
             "losses": 115,
-            "kills_per_vehicle": 13356,
+            "kills_per_vehicle": 217,
             "kills_per_weapon": 13331,
             "deaths": 2924,
             "coins": 40
@@ -3483,7 +3483,7 @@
             "gamesELO": 1964.566,
             "wins": 1540,
             "losses": 892,
-            "kills_per_vehicle": 47820,
+            "kills_per_vehicle": 695,
             "kills_per_weapon": 43307,
             "deaths": 17130,
             "coins": 7389
@@ -3494,7 +3494,7 @@
             "gamesELO": 1822.6633333333332,
             "wins": 1974,
             "losses": 1412,
-            "kills_per_vehicle": 47028,
+            "kills_per_vehicle": 738,
             "kills_per_weapon": 46598,
             "deaths": 26410,
             "coins": 3295
@@ -3505,7 +3505,7 @@
             "gamesELO": 1812.99,
             "wins": 961,
             "losses": 526,
-            "kills_per_vehicle": 24960,
+            "kills_per_vehicle": 904,
             "kills_per_weapon": 24898,
             "deaths": 9097,
             "coins": 1438
@@ -3516,7 +3516,7 @@
             "gamesELO": 1707.95,
             "wins": 947,
             "losses": 70,
-            "kills_per_vehicle": 27705,
+            "kills_per_vehicle": 1515,
             "kills_per_weapon": 27624,
             "deaths": 1784,
             "coins": 902
@@ -3527,7 +3527,7 @@
             "gamesELO": 1772.9,
             "wins": 1370,
             "losses": 1102,
-            "kills_per_vehicle": 37580,
+            "kills_per_vehicle": 1187,
             "kills_per_weapon": 37401,
             "deaths": 14206,
             "coins": 775
@@ -3538,7 +3538,7 @@
             "gamesELO": 1578.61,
             "wins": 267,
             "losses": 177,
-            "kills_per_vehicle": 7350,
+            "kills_per_vehicle": 18,
             "kills_per_weapon": 7286,
             "deaths": 2937,
             "coins": 425
@@ -3549,7 +3549,7 @@
             "gamesELO": 1532.6533333333334,
             "wins": 2166,
             "losses": 1548,
-            "kills_per_vehicle": 38264,
+            "kills_per_vehicle": 1154,
             "kills_per_weapon": 37874,
             "deaths": 25787,
             "coins": 192
@@ -3560,7 +3560,7 @@
             "gamesELO": 1697.48,
             "wins": 1044,
             "losses": 876,
-            "kills_per_vehicle": 28240,
+            "kills_per_vehicle": 477,
             "kills_per_weapon": 28020,
             "deaths": 15854,
             "coins": 2119
@@ -3571,7 +3571,7 @@
             "gamesELO": 1860.43,
             "wins": 741,
             "losses": 463,
-            "kills_per_vehicle": 15297,
+            "kills_per_vehicle": 88,
             "kills_per_weapon": 15279,
             "deaths": 8541,
             "coins": 80
@@ -3582,7 +3582,7 @@
             "gamesELO": 1631.455,
             "wins": 386,
             "losses": 267,
-            "kills_per_vehicle": 12942,
+            "kills_per_vehicle": 175,
             "kills_per_weapon": 12577,
             "deaths": 6284,
             "coins": 3725
@@ -3593,7 +3593,7 @@
             "gamesELO": 1471.87,
             "wins": 781,
             "losses": 587,
-            "kills_per_vehicle": 13788,
+            "kills_per_vehicle": 1122,
             "kills_per_weapon": 13688,
             "deaths": 8894,
             "coins": 821
@@ -3604,7 +3604,7 @@
             "gamesELO": 2002.6979999999999,
             "wins": 6215,
             "losses": 3257,
-            "kills_per_vehicle": 145415,
+            "kills_per_vehicle": 4740,
             "kills_per_weapon": 144842,
             "deaths": 41362,
             "coins": 881
@@ -3615,7 +3615,7 @@
             "gamesELO": 1431.89,
             "wins": 495,
             "losses": 502,
-            "kills_per_vehicle": 11436,
+            "kills_per_vehicle": 265,
             "kills_per_weapon": 11300,
             "deaths": 10144,
             "coins": 594
@@ -3626,7 +3626,7 @@
             "gamesELO": 1865.735,
             "wins": 1212,
             "losses": 757,
-            "kills_per_vehicle": 32865,
+            "kills_per_vehicle": 1050,
             "kills_per_weapon": 32481,
             "deaths": 12180,
             "coins": 694
@@ -3637,7 +3637,7 @@
             "gamesELO": 1755.4275000000002,
             "wins": 2188,
             "losses": 964,
-            "kills_per_vehicle": 70906,
+            "kills_per_vehicle": 6991,
             "kills_per_weapon": 70125,
             "deaths": 22582,
             "coins": 441
@@ -3648,7 +3648,7 @@
             "gamesELO": 1630.225789473684,
             "wins": 8996,
             "losses": 6052,
-            "kills_per_vehicle": 198679,
+            "kills_per_vehicle": 4728,
             "kills_per_weapon": 196345,
             "deaths": 100342,
             "coins": 7150
@@ -3659,7 +3659,7 @@
             "gamesELO": 1132.81,
             "wins": 632,
             "losses": 492,
-            "kills_per_vehicle": 17920,
+            "kills_per_vehicle": 322,
             "kills_per_weapon": 17824,
             "deaths": 7297,
             "coins": 445
@@ -3670,20 +3670,20 @@
             "gamesELO": 1944.62,
             "wins": 446,
             "losses": 174,
-            "kills_per_vehicle": 11852,
+            "kills_per_vehicle": 87,
             "kills_per_weapon": 11823,
             "deaths": 3600,
             "coins": 105
         },
         "Polar": {
             "level": 639.7857142857143,
-            "killsELO": 1852.8078571428573,
-            "gamesELO": 2159.6485714285714,
-            "wins": 42910,
-            "losses": 16285,
-            "kills_per_vehicle": 1397191,
-            "kills_per_weapon": 1392767,
-            "deaths": 265648,
+            "killsELO": 1852.945,
+            "gamesELO": 2158.8492857142855,
+            "wins": 42914,
+            "losses": 16288,
+            "kills_per_vehicle": 23282,
+            "kills_per_weapon": 1392932,
+            "deaths": 265687,
             "coins": 24933
         },
         "Predator": {
@@ -3692,7 +3692,7 @@
             "gamesELO": 1606.743333333333,
             "wins": 1544,
             "losses": 1315,
-            "kills_per_vehicle": 25950,
+            "kills_per_vehicle": 967,
             "kills_per_weapon": 25578,
             "deaths": 20902,
             "coins": 1825
@@ -3703,7 +3703,7 @@
             "gamesELO": 1867.22,
             "wins": 313,
             "losses": 186,
-            "kills_per_vehicle": 8109,
+            "kills_per_vehicle": 86,
             "kills_per_weapon": 8096,
             "deaths": 3835,
             "coins": 2468
@@ -3714,7 +3714,7 @@
             "gamesELO": 1738.155,
             "wins": 1659,
             "losses": 894,
-            "kills_per_vehicle": 42804,
+            "kills_per_vehicle": 161,
             "kills_per_weapon": 42769,
             "deaths": 15259,
             "coins": 50
@@ -3725,7 +3725,7 @@
             "gamesELO": 1905.51,
             "wins": 320,
             "losses": 144,
-            "kills_per_vehicle": 6836,
+            "kills_per_vehicle": 243,
             "kills_per_weapon": 6828,
             "deaths": 1450,
             "coins": 160
@@ -3736,7 +3736,7 @@
             "gamesELO": 1426.21,
             "wins": 268,
             "losses": 291,
-            "kills_per_vehicle": 6880,
+            "kills_per_vehicle": 330,
             "kills_per_weapon": 6753,
             "deaths": 5463,
             "coins": 95
@@ -3747,7 +3747,7 @@
             "gamesELO": 1731.01,
             "wins": 810,
             "losses": 597,
-            "kills_per_vehicle": 31021,
+            "kills_per_vehicle": 408,
             "kills_per_weapon": 30426,
             "deaths": 13817,
             "coins": 281
@@ -3758,7 +3758,7 @@
             "gamesELO": 1816.67,
             "wins": 403,
             "losses": 140,
-            "kills_per_vehicle": 9440,
+            "kills_per_vehicle": 55,
             "kills_per_weapon": 9419,
             "deaths": 3152,
             "coins": 2
@@ -3769,7 +3769,7 @@
             "gamesELO": 1354.2849999999999,
             "wins": 528,
             "losses": 425,
-            "kills_per_vehicle": 10423,
+            "kills_per_vehicle": 501,
             "kills_per_weapon": 10318,
             "deaths": 8572,
             "coins": 923
@@ -3780,7 +3780,7 @@
             "gamesELO": 1780.1866666666667,
             "wins": 8525,
             "losses": 5026,
-            "kills_per_vehicle": 190992,
+            "kills_per_vehicle": 11253,
             "kills_per_weapon": 186971,
             "deaths": 78603,
             "coins": 10943
@@ -3791,7 +3791,7 @@
             "gamesELO": 1970.8,
             "wins": 655,
             "losses": 242,
-            "kills_per_vehicle": 22246,
+            "kills_per_vehicle": 784,
             "kills_per_weapon": 21920,
             "deaths": 5785,
             "coins": 2710
@@ -3802,7 +3802,7 @@
             "gamesELO": 1629.38,
             "wins": 797,
             "losses": 537,
-            "kills_per_vehicle": 21984,
+            "kills_per_vehicle": 1375,
             "kills_per_weapon": 21522,
             "deaths": 13281,
             "coins": 0
@@ -3813,7 +3813,7 @@
             "gamesELO": 1722.7533333333333,
             "wins": 4975,
             "losses": 3193,
-            "kills_per_vehicle": 118575,
+            "kills_per_vehicle": 5339,
             "kills_per_weapon": 117413,
             "deaths": 59636,
             "coins": 3661
@@ -3824,7 +3824,7 @@
             "gamesELO": 1813.597777777778,
             "wins": 6116,
             "losses": 3858,
-            "kills_per_vehicle": 135084,
+            "kills_per_vehicle": 2262,
             "kills_per_weapon": 133863,
             "deaths": 61178,
             "coins": 2699
@@ -3835,7 +3835,7 @@
             "gamesELO": 1589.83,
             "wins": 77,
             "losses": 36,
-            "kills_per_vehicle": 10377,
+            "kills_per_vehicle": 344,
             "kills_per_weapon": 10014,
             "deaths": 1860,
             "coins": 146
@@ -3846,7 +3846,7 @@
             "gamesELO": 1560.8933333333334,
             "wins": 1151,
             "losses": 903,
-            "kills_per_vehicle": 28710,
+            "kills_per_vehicle": 1916,
             "kills_per_weapon": 28520,
             "deaths": 17882,
             "coins": 582
@@ -3857,7 +3857,7 @@
             "gamesELO": 1834.2822222222223,
             "wins": 19359,
             "losses": 11379,
-            "kills_per_vehicle": 461696,
+            "kills_per_vehicle": 16674,
             "kills_per_weapon": 457427,
             "deaths": 192215,
             "coins": 10037
@@ -3868,7 +3868,7 @@
             "gamesELO": 1485.32,
             "wins": 684,
             "losses": 636,
-            "kills_per_vehicle": 13344,
+            "kills_per_vehicle": 332,
             "kills_per_weapon": 13272,
             "deaths": 10576,
             "coins": 557
@@ -3879,7 +3879,7 @@
             "gamesELO": 1630.51,
             "wins": 492,
             "losses": 306,
-            "kills_per_vehicle": 8696,
+            "kills_per_vehicle": 477,
             "kills_per_weapon": 8618,
             "deaths": 4832,
             "coins": 180
@@ -3890,7 +3890,7 @@
             "gamesELO": 1732.9266666666665,
             "wins": 2080,
             "losses": 1021,
-            "kills_per_vehicle": 77007,
+            "kills_per_vehicle": 4836,
             "kills_per_weapon": 76564,
             "deaths": 25624,
             "coins": 1030
@@ -3901,7 +3901,7 @@
             "gamesELO": 2344.03,
             "wins": 1291,
             "losses": 583,
-            "kills_per_vehicle": 28288,
+            "kills_per_vehicle": 966,
             "kills_per_weapon": 28188,
             "deaths": 8234,
             "coins": 1023
@@ -3912,7 +3912,7 @@
             "gamesELO": 2092.98,
             "wins": 1322,
             "losses": 623,
-            "kills_per_vehicle": 27173,
+            "kills_per_vehicle": 744,
             "kills_per_weapon": 26928,
             "deaths": 7421,
             "coins": 70
@@ -3923,7 +3923,7 @@
             "gamesELO": 1921.2866666666669,
             "wins": 1391,
             "losses": 808,
-            "kills_per_vehicle": 32519,
+            "kills_per_vehicle": 478,
             "kills_per_weapon": 32326,
             "deaths": 11433,
             "coins": 7941
@@ -3934,7 +3934,7 @@
             "gamesELO": 1725.0325,
             "wins": 8425,
             "losses": 6481,
-            "kills_per_vehicle": 208767,
+            "kills_per_vehicle": 6423,
             "kills_per_weapon": 207742,
             "deaths": 107084,
             "coins": 6816
@@ -3945,7 +3945,7 @@
             "gamesELO": 1861.78,
             "wins": 106,
             "losses": 48,
-            "kills_per_vehicle": 7619,
+            "kills_per_vehicle": 62,
             "kills_per_weapon": 7591,
             "deaths": 1388,
             "coins": 270
@@ -3956,7 +3956,7 @@
             "gamesELO": 1670.0733333333335,
             "wins": 516,
             "losses": 396,
-            "kills_per_vehicle": 15055,
+            "kills_per_vehicle": 900,
             "kills_per_weapon": 14876,
             "deaths": 7628,
             "coins": 2063
@@ -3967,7 +3967,7 @@
             "gamesELO": 1532.56,
             "wins": 970,
             "losses": 873,
-            "kills_per_vehicle": 18143,
+            "kills_per_vehicle": 928,
             "kills_per_weapon": 17807,
             "deaths": 14270,
             "coins": 72
@@ -3978,7 +3978,7 @@
             "gamesELO": 1762.78,
             "wins": 521,
             "losses": 474,
-            "kills_per_vehicle": 12784,
+            "kills_per_vehicle": 482,
             "kills_per_weapon": 12583,
             "deaths": 7467,
             "coins": 271
@@ -3989,7 +3989,7 @@
             "gamesELO": 1923.96,
             "wins": 570,
             "losses": 290,
-            "kills_per_vehicle": 12727,
+            "kills_per_vehicle": 648,
             "kills_per_weapon": 12670,
             "deaths": 5243,
             "coins": 420
@@ -4000,7 +4000,7 @@
             "gamesELO": 1794.7707142857146,
             "wins": 15170,
             "losses": 11174,
-            "kills_per_vehicle": 335777,
+            "kills_per_vehicle": 7262,
             "kills_per_weapon": 333136,
             "deaths": 169898,
             "coins": 7978
@@ -4011,7 +4011,7 @@
             "gamesELO": 2036.1214285714284,
             "wins": 9728,
             "losses": 5475,
-            "kills_per_vehicle": 263285,
+            "kills_per_vehicle": 12458,
             "kills_per_weapon": 261019,
             "deaths": 104931,
             "coins": 2238
@@ -4022,7 +4022,7 @@
             "gamesELO": 1999.78,
             "wins": 347,
             "losses": 218,
-            "kills_per_vehicle": 9856,
+            "kills_per_vehicle": 28,
             "kills_per_weapon": 9849,
             "deaths": 5416,
             "coins": 455
@@ -4033,7 +4033,7 @@
             "gamesELO": 1460.9450000000002,
             "wins": 658,
             "losses": 611,
-            "kills_per_vehicle": 8983,
+            "kills_per_vehicle": 896,
             "kills_per_weapon": 8658,
             "deaths": 9047,
             "coins": 754
@@ -4044,7 +4044,7 @@
             "gamesELO": 1539.95,
             "wins": 125,
             "losses": 78,
-            "kills_per_vehicle": 3169,
+            "kills_per_vehicle": 144,
             "kills_per_weapon": 3115,
             "deaths": 1763,
             "coins": 630
@@ -4055,7 +4055,7 @@
             "gamesELO": 1640.2119999999998,
             "wins": 7594,
             "losses": 4864,
-            "kills_per_vehicle": 149649,
+            "kills_per_vehicle": 4977,
             "kills_per_weapon": 147618,
             "deaths": 67859,
             "coins": 7025
@@ -4066,7 +4066,7 @@
             "gamesELO": 1618.0275000000001,
             "wins": 836,
             "losses": 589,
-            "kills_per_vehicle": 16529,
+            "kills_per_vehicle": 299,
             "kills_per_weapon": 16256,
             "deaths": 11112,
             "coins": 1241
@@ -4077,7 +4077,7 @@
             "gamesELO": 1581.62,
             "wins": 4841,
             "losses": 3606,
-            "kills_per_vehicle": 91646,
+            "kills_per_vehicle": 5950,
             "kills_per_weapon": 89151,
             "deaths": 58972,
             "coins": 4238
@@ -4088,7 +4088,7 @@
             "gamesELO": 2060.83,
             "wins": 622,
             "losses": 209,
-            "kills_per_vehicle": 18551,
+            "kills_per_vehicle": 38,
             "kills_per_weapon": 18542,
             "deaths": 3587,
             "coins": 21
@@ -4099,7 +4099,7 @@
             "gamesELO": 1593.06,
             "wins": 124,
             "losses": 75,
-            "kills_per_vehicle": 14013,
+            "kills_per_vehicle": 713,
             "kills_per_weapon": 13354,
             "deaths": 4358,
             "coins": 1
@@ -4110,7 +4110,7 @@
             "gamesELO": 1509.24,
             "wins": 181,
             "losses": 117,
-            "kills_per_vehicle": 4679,
+            "kills_per_vehicle": 279,
             "kills_per_weapon": 4628,
             "deaths": 2782,
             "coins": 260
@@ -4121,7 +4121,7 @@
             "gamesELO": 1858.096875,
             "wins": 18879,
             "losses": 10294,
-            "kills_per_vehicle": 549687,
+            "kills_per_vehicle": 10416,
             "kills_per_weapon": 548421,
             "deaths": 187441,
             "coins": 4625
@@ -4132,7 +4132,7 @@
             "gamesELO": 1441.13,
             "wins": 854,
             "losses": 845,
-            "kills_per_vehicle": 11880,
+            "kills_per_vehicle": 221,
             "kills_per_weapon": 11849,
             "deaths": 8424,
             "coins": 127
@@ -4143,7 +4143,7 @@
             "gamesELO": 1711.96,
             "wins": 107,
             "losses": 70,
-            "kills_per_vehicle": 3374,
+            "kills_per_vehicle": 157,
             "kills_per_weapon": 3340,
             "deaths": 1471,
             "coins": 830
@@ -4154,7 +4154,7 @@
             "gamesELO": 1674.36,
             "wins": 159,
             "losses": 81,
-            "kills_per_vehicle": 5698,
+            "kills_per_vehicle": 70,
             "kills_per_weapon": 5680,
             "deaths": 1908,
             "coins": 160
@@ -4165,7 +4165,7 @@
             "gamesELO": 1604.882,
             "wins": 1105,
             "losses": 682,
-            "kills_per_vehicle": 25307,
+            "kills_per_vehicle": 879,
             "kills_per_weapon": 24805,
             "deaths": 12851,
             "coins": 1912
@@ -4176,7 +4176,7 @@
             "gamesELO": 1673.9999999999998,
             "wins": 8518,
             "losses": 5077,
-            "kills_per_vehicle": 227003,
+            "kills_per_vehicle": 6820,
             "kills_per_weapon": 225286,
             "deaths": 98064,
             "coins": 5009
@@ -4187,7 +4187,7 @@
             "gamesELO": 1487.44,
             "wins": 195,
             "losses": 207,
-            "kills_per_vehicle": 4417,
+            "kills_per_vehicle": 31,
             "kills_per_weapon": 4411,
             "deaths": 3524,
             "coins": 134
@@ -4198,7 +4198,7 @@
             "gamesELO": 1793.82,
             "wins": 297,
             "losses": 115,
-            "kills_per_vehicle": 8954,
+            "kills_per_vehicle": 198,
             "kills_per_weapon": 8910,
             "deaths": 3095,
             "coins": 1196
@@ -4209,7 +4209,7 @@
             "gamesELO": 2352.19,
             "wins": 693,
             "losses": 273,
-            "kills_per_vehicle": 20236,
+            "kills_per_vehicle": 6,
             "kills_per_weapon": 20236,
             "deaths": 7568,
             "coins": 160
@@ -4220,7 +4220,7 @@
             "gamesELO": 1629.67,
             "wins": 1322,
             "losses": 723,
-            "kills_per_vehicle": 23520,
+            "kills_per_vehicle": 1074,
             "kills_per_weapon": 23352,
             "deaths": 14071,
             "coins": 11
@@ -4231,7 +4231,7 @@
             "gamesELO": 1451.715,
             "wins": 327,
             "losses": 320,
-            "kills_per_vehicle": 7277,
+            "kills_per_vehicle": 528,
             "kills_per_weapon": 7157,
             "deaths": 5757,
             "coins": 223
@@ -4242,7 +4242,7 @@
             "gamesELO": 1634.855,
             "wins": 2009,
             "losses": 1450,
-            "kills_per_vehicle": 43661,
+            "kills_per_vehicle": 1226,
             "kills_per_weapon": 42671,
             "deaths": 24633,
             "coins": 565
@@ -4253,7 +4253,7 @@
             "gamesELO": 1591.18,
             "wins": 134,
             "losses": 94,
-            "kills_per_vehicle": 11272,
+            "kills_per_vehicle": 65,
             "kills_per_weapon": 11231,
             "deaths": 2813,
             "coins": 887
@@ -4264,7 +4264,7 @@
             "gamesELO": 1733.94,
             "wins": 339,
             "losses": 178,
-            "kills_per_vehicle": 10561,
+            "kills_per_vehicle": 210,
             "kills_per_weapon": 10555,
             "deaths": 3874,
             "coins": 2228
@@ -4275,7 +4275,7 @@
             "gamesELO": 1834.44,
             "wins": 440,
             "losses": 308,
-            "kills_per_vehicle": 12675,
+            "kills_per_vehicle": 389,
             "kills_per_weapon": 12638,
             "deaths": 6989,
             "coins": 490
@@ -4286,7 +4286,7 @@
             "gamesELO": 1634.52,
             "wins": 231,
             "losses": 192,
-            "kills_per_vehicle": 1201,
+            "kills_per_vehicle": 179,
             "kills_per_weapon": 1142,
             "deaths": 3423,
             "coins": 17
@@ -4297,7 +4297,7 @@
             "gamesELO": 1756.0499999999997,
             "wins": 4349,
             "losses": 2439,
-            "kills_per_vehicle": 105917,
+            "kills_per_vehicle": 3609,
             "kills_per_weapon": 105064,
             "deaths": 48429,
             "coins": 4844
@@ -4308,7 +4308,7 @@
             "gamesELO": 1768.865,
             "wins": 1301,
             "losses": 994,
-            "kills_per_vehicle": 29787,
+            "kills_per_vehicle": 344,
             "kills_per_weapon": 29606,
             "deaths": 18059,
             "coins": 1367
@@ -4319,7 +4319,7 @@
             "gamesELO": 1997.155,
             "wins": 6870,
             "losses": 2984,
-            "kills_per_vehicle": 219527,
+            "kills_per_vehicle": 9385,
             "kills_per_weapon": 217929,
             "deaths": 62790,
             "coins": 6762
@@ -4330,20 +4330,20 @@
             "gamesELO": 1599.3449999999998,
             "wins": 2297,
             "losses": 1867,
-            "kills_per_vehicle": 42501,
+            "kills_per_vehicle": 1664,
             "kills_per_weapon": 42107,
             "deaths": 25859,
             "coins": 3103
         },
         "SVEN": {
             "level": 94.0,
-            "killsELO": 1633.47,
-            "gamesELO": 1621.37,
+            "killsELO": 1628.43,
+            "gamesELO": 1613.26,
             "wins": 217,
-            "losses": 168,
-            "kills_per_vehicle": 9628,
-            "kills_per_weapon": 9562,
-            "deaths": 5374,
+            "losses": 170,
+            "kills_per_vehicle": 206,
+            "kills_per_weapon": 9593,
+            "deaths": 5416,
             "coins": 2256
         },
         "SWAT": {
@@ -4352,7 +4352,7 @@
             "gamesELO": 1810.99,
             "wins": 399,
             "losses": 359,
-            "kills_per_vehicle": 7625,
+            "kills_per_vehicle": 601,
             "kills_per_weapon": 7554,
             "deaths": 6738,
             "coins": 865
@@ -4363,7 +4363,7 @@
             "gamesELO": 1721.35,
             "wins": 220,
             "losses": 158,
-            "kills_per_vehicle": 4957,
+            "kills_per_vehicle": 80,
             "kills_per_weapon": 4948,
             "deaths": 2635,
             "coins": 137
@@ -4374,7 +4374,7 @@
             "gamesELO": 1604.64,
             "wins": 742,
             "losses": 363,
-            "kills_per_vehicle": 16052,
+            "kills_per_vehicle": 258,
             "kills_per_weapon": 15984,
             "deaths": 4676,
             "coins": 210
@@ -4385,7 +4385,7 @@
             "gamesELO": 1811.46,
             "wins": 381,
             "losses": 269,
-            "kills_per_vehicle": 10415,
+            "kills_per_vehicle": 709,
             "kills_per_weapon": 10230,
             "deaths": 5713,
             "coins": 130
@@ -4396,7 +4396,7 @@
             "gamesELO": 1629.7075,
             "wins": 1089,
             "losses": 865,
-            "kills_per_vehicle": 26805,
+            "kills_per_vehicle": 857,
             "kills_per_weapon": 26531,
             "deaths": 17274,
             "coins": 2126
@@ -4407,7 +4407,7 @@
             "gamesELO": 1553.0466666666664,
             "wins": 218,
             "losses": 207,
-            "kills_per_vehicle": 6513,
+            "kills_per_vehicle": 187,
             "kills_per_weapon": 6436,
             "deaths": 4581,
             "coins": 2280
@@ -4418,7 +4418,7 @@
             "gamesELO": 1436.45,
             "wins": 832,
             "losses": 753,
-            "kills_per_vehicle": 16280,
+            "kills_per_vehicle": 240,
             "kills_per_weapon": 16246,
             "deaths": 11491,
             "coins": 20
@@ -4429,7 +4429,7 @@
             "gamesELO": 1657.3174999999999,
             "wins": 922,
             "losses": 706,
-            "kills_per_vehicle": 20647,
+            "kills_per_vehicle": 798,
             "kills_per_weapon": 20545,
             "deaths": 14206,
             "coins": 1398
@@ -4440,7 +4440,7 @@
             "gamesELO": 1519.785,
             "wins": 1489,
             "losses": 1242,
-            "kills_per_vehicle": 40571,
+            "kills_per_vehicle": 568,
             "kills_per_weapon": 40345,
             "deaths": 21830,
             "coins": 2796
@@ -4451,7 +4451,7 @@
             "gamesELO": 1858.36,
             "wins": 471,
             "losses": 216,
-            "kills_per_vehicle": 10757,
+            "kills_per_vehicle": 395,
             "kills_per_weapon": 10628,
             "deaths": 4625,
             "coins": 791
@@ -4462,7 +4462,7 @@
             "gamesELO": 1921.39,
             "wins": 804,
             "losses": 515,
-            "kills_per_vehicle": 20382,
+            "kills_per_vehicle": 1207,
             "kills_per_weapon": 20223,
             "deaths": 8643,
             "coins": 3320
@@ -4473,7 +4473,7 @@
             "gamesELO": 1646.1100000000001,
             "wins": 626,
             "losses": 562,
-            "kills_per_vehicle": 14978,
+            "kills_per_vehicle": 923,
             "kills_per_weapon": 14749,
             "deaths": 10129,
             "coins": 271
@@ -4484,7 +4484,7 @@
             "gamesELO": 1938.03,
             "wins": 1525,
             "losses": 961,
-            "kills_per_vehicle": 38246,
+            "kills_per_vehicle": 377,
             "kills_per_weapon": 38085,
             "deaths": 16218,
             "coins": 522
@@ -4495,7 +4495,7 @@
             "gamesELO": 1608.795,
             "wins": 627,
             "losses": 402,
-            "kills_per_vehicle": 11803,
+            "kills_per_vehicle": 564,
             "kills_per_weapon": 11212,
             "deaths": 5846,
             "coins": 1174
@@ -4506,7 +4506,7 @@
             "gamesELO": 1854.46,
             "wins": 341,
             "losses": 307,
-            "kills_per_vehicle": 8103,
+            "kills_per_vehicle": 271,
             "kills_per_weapon": 8027,
             "deaths": 5117,
             "coins": 201
@@ -4517,7 +4517,7 @@
             "gamesELO": 1966.88,
             "wins": 272,
             "losses": 129,
-            "kills_per_vehicle": 9330,
+            "kills_per_vehicle": 763,
             "kills_per_weapon": 9182,
             "deaths": 3232,
             "coins": 358
@@ -4528,7 +4528,7 @@
             "gamesELO": 1801.11,
             "wins": 304,
             "losses": 266,
-            "kills_per_vehicle": 8347,
+            "kills_per_vehicle": 147,
             "kills_per_weapon": 8314,
             "deaths": 3757,
             "coins": 4100
@@ -4539,7 +4539,7 @@
             "gamesELO": 1488.505,
             "wins": 1207,
             "losses": 726,
-            "kills_per_vehicle": 22391,
+            "kills_per_vehicle": 843,
             "kills_per_weapon": 22296,
             "deaths": 13475,
             "coins": 8557
@@ -4550,7 +4550,7 @@
             "gamesELO": 1926.33,
             "wins": 904,
             "losses": 796,
-            "kills_per_vehicle": 22586,
+            "kills_per_vehicle": 1545,
             "kills_per_weapon": 22333,
             "deaths": 14268,
             "coins": 174
@@ -4561,7 +4561,7 @@
             "gamesELO": 1625.13,
             "wins": 682,
             "losses": 482,
-            "kills_per_vehicle": 15220,
+            "kills_per_vehicle": 605,
             "kills_per_weapon": 15003,
             "deaths": 8706,
             "coins": 185
@@ -4572,7 +4572,7 @@
             "gamesELO": 1691.5108333333335,
             "wins": 12208,
             "losses": 6841,
-            "kills_per_vehicle": 289207,
+            "kills_per_vehicle": 7247,
             "kills_per_weapon": 286961,
             "deaths": 100642,
             "coins": 11041
@@ -4583,7 +4583,7 @@
             "gamesELO": 1551.0120000000002,
             "wins": 944,
             "losses": 847,
-            "kills_per_vehicle": 15210,
+            "kills_per_vehicle": 969,
             "kills_per_weapon": 15010,
             "deaths": 14078,
             "coins": 3100
@@ -4594,7 +4594,7 @@
             "gamesELO": 1502.635,
             "wins": 419,
             "losses": 374,
-            "kills_per_vehicle": 7525,
+            "kills_per_vehicle": 389,
             "kills_per_weapon": 7459,
             "deaths": 6728,
             "coins": 847
@@ -4605,7 +4605,7 @@
             "gamesELO": 1814.74,
             "wins": 969,
             "losses": 674,
-            "kills_per_vehicle": 18304,
+            "kills_per_vehicle": 54,
             "kills_per_weapon": 18297,
             "deaths": 9100,
             "coins": 131
@@ -4616,7 +4616,7 @@
             "gamesELO": 1612.85,
             "wins": 2189,
             "losses": 1975,
-            "kills_per_vehicle": 25605,
+            "kills_per_vehicle": 2197,
             "kills_per_weapon": 24999,
             "deaths": 30478,
             "coins": 3053
@@ -4627,7 +4627,7 @@
             "gamesELO": 1608.3600000000001,
             "wins": 409,
             "losses": 293,
-            "kills_per_vehicle": 25126,
+            "kills_per_vehicle": 781,
             "kills_per_weapon": 24359,
             "deaths": 6759,
             "coins": 1458
@@ -4638,7 +4638,7 @@
             "gamesELO": 1934.54,
             "wins": 482,
             "losses": 376,
-            "kills_per_vehicle": 11458,
+            "kills_per_vehicle": 34,
             "kills_per_weapon": 11450,
             "deaths": 6662,
             "coins": 2360
@@ -4649,7 +4649,7 @@
             "gamesELO": 1713.18,
             "wins": 369,
             "losses": 260,
-            "kills_per_vehicle": 13665,
+            "kills_per_vehicle": 307,
             "kills_per_weapon": 13631,
             "deaths": 5734,
             "coins": 2636
@@ -4660,7 +4660,7 @@
             "gamesELO": 1958.05,
             "wins": 645,
             "losses": 279,
-            "kills_per_vehicle": 15567,
+            "kills_per_vehicle": 1083,
             "kills_per_weapon": 13759,
             "deaths": 4892,
             "coins": 746
@@ -4671,7 +4671,7 @@
             "gamesELO": 1921.115,
             "wins": 9230,
             "losses": 3828,
-            "kills_per_vehicle": 299262,
+            "kills_per_vehicle": 1385,
             "kills_per_weapon": 293175,
             "deaths": 98212,
             "coins": 5271
@@ -4682,7 +4682,7 @@
             "gamesELO": 2186.0,
             "wins": 423,
             "losses": 184,
-            "kills_per_vehicle": 11184,
+            "kills_per_vehicle": 6,
             "kills_per_weapon": 11184,
             "deaths": 3494,
             "coins": 740
@@ -4693,7 +4693,7 @@
             "gamesELO": 1547.16,
             "wins": 423,
             "losses": 395,
-            "kills_per_vehicle": 4987,
+            "kills_per_vehicle": 183,
             "kills_per_weapon": 4949,
             "deaths": 5835,
             "coins": 352
@@ -4704,7 +4704,7 @@
             "gamesELO": 1930.83,
             "wins": 669,
             "losses": 474,
-            "kills_per_vehicle": 12550,
+            "kills_per_vehicle": 287,
             "kills_per_weapon": 12502,
             "deaths": 6882,
             "coins": 1511
@@ -4715,7 +4715,7 @@
             "gamesELO": 1794.125,
             "wins": 857,
             "losses": 417,
-            "kills_per_vehicle": 21344,
+            "kills_per_vehicle": 576,
             "kills_per_weapon": 21246,
             "deaths": 6828,
             "coins": 847
@@ -4726,7 +4726,7 @@
             "gamesELO": 1866.47,
             "wins": 1162,
             "losses": 593,
-            "kills_per_vehicle": 25634,
+            "kills_per_vehicle": 594,
             "kills_per_weapon": 25526,
             "deaths": 9549,
             "coins": 82
@@ -4737,7 +4737,7 @@
             "gamesELO": 1672.35,
             "wins": 156,
             "losses": 147,
-            "kills_per_vehicle": 4496,
+            "kills_per_vehicle": 179,
             "kills_per_weapon": 4407,
             "deaths": 2582,
             "coins": 37
@@ -4748,7 +4748,7 @@
             "gamesELO": 1836.35,
             "wins": 280,
             "losses": 212,
-            "kills_per_vehicle": 6602,
+            "kills_per_vehicle": 392,
             "kills_per_weapon": 6538,
             "deaths": 5132,
             "coins": 90
@@ -4759,20 +4759,20 @@
             "gamesELO": 1879.5725,
             "wins": 6158,
             "losses": 3918,
-            "kills_per_vehicle": 149121,
+            "kills_per_vehicle": 1664,
             "kills_per_weapon": 146559,
             "deaths": 41323,
             "coins": 2139
         },
         "Thunder": {
             "level": 90.0,
-            "killsELO": 1673.13,
-            "gamesELO": 1731.2966666666669,
+            "killsELO": 1674.7966666666669,
+            "gamesELO": 1730.4133333333332,
             "wins": 1354,
-            "losses": 890,
-            "kills_per_vehicle": 25654,
-            "kills_per_weapon": 25465,
-            "deaths": 12792,
+            "losses": 891,
+            "kills_per_vehicle": 1000,
+            "kills_per_weapon": 25480,
+            "deaths": 12795,
             "coins": 3496
         },
         "TopGun": {
@@ -4781,7 +4781,7 @@
             "gamesELO": 1498.01,
             "wins": 323,
             "losses": 284,
-            "kills_per_vehicle": 8569,
+            "kills_per_vehicle": 338,
             "kills_per_weapon": 8438,
             "deaths": 5853,
             "coins": 411
@@ -4792,7 +4792,7 @@
             "gamesELO": 1675.99,
             "wins": 6551,
             "losses": 4711,
-            "kills_per_vehicle": 111455,
+            "kills_per_vehicle": 29874,
             "kills_per_weapon": 100625,
             "deaths": 72960,
             "coins": 2551
@@ -4803,7 +4803,7 @@
             "gamesELO": 2300.825,
             "wins": 7027,
             "losses": 2203,
-            "kills_per_vehicle": 245746,
+            "kills_per_vehicle": 5550,
             "kills_per_weapon": 244918,
             "deaths": 44521,
             "coins": 2657
@@ -4814,7 +4814,7 @@
             "gamesELO": 1669.0640000000003,
             "wins": 2939,
             "losses": 2223,
-            "kills_per_vehicle": 72423,
+            "kills_per_vehicle": 2186,
             "kills_per_weapon": 71853,
             "deaths": 40029,
             "coins": 3222
@@ -4825,7 +4825,7 @@
             "gamesELO": 1594.787142857143,
             "wins": 1355,
             "losses": 1091,
-            "kills_per_vehicle": 36092,
+            "kills_per_vehicle": 1230,
             "kills_per_weapon": 35819,
             "deaths": 19413,
             "coins": 16641
@@ -4836,20 +4836,20 @@
             "gamesELO": 1350.79,
             "wins": 225,
             "losses": 227,
-            "kills_per_vehicle": 3246,
+            "kills_per_vehicle": 75,
             "kills_per_weapon": 3207,
             "deaths": 3144,
             "coins": 370
         },
         "UMS": {
             "level": 350.21875,
-            "killsELO": 1715.1368750000001,
-            "gamesELO": 1906.9312499999996,
-            "wins": 46468,
-            "losses": 27461,
-            "kills_per_vehicle": 1284106,
-            "kills_per_weapon": 1275070,
-            "deaths": 426893,
+            "killsELO": 1714.6662500000002,
+            "gamesELO": 1907.8174999999999,
+            "wins": 46473,
+            "losses": 27463,
+            "kills_per_vehicle": 14655,
+            "kills_per_weapon": 1275182,
+            "deaths": 426998,
             "coins": 15828
         },
         "UNSC": {
@@ -4858,7 +4858,7 @@
             "gamesELO": 1482.63,
             "wins": 581,
             "losses": 563,
-            "kills_per_vehicle": 8693,
+            "kills_per_vehicle": 644,
             "kills_per_weapon": 8630,
             "deaths": 8998,
             "coins": 216
@@ -4869,7 +4869,7 @@
             "gamesELO": 1879.27,
             "wins": 307,
             "losses": 153,
-            "kills_per_vehicle": 17054,
+            "kills_per_vehicle": 141,
             "kills_per_weapon": 17001,
             "deaths": 4513,
             "coins": 980
@@ -4880,7 +4880,7 @@
             "gamesELO": 1693.73,
             "wins": 396,
             "losses": 282,
-            "kills_per_vehicle": 10875,
+            "kills_per_vehicle": 824,
             "kills_per_weapon": 10805,
             "deaths": 5049,
             "coins": 382
@@ -4891,7 +4891,7 @@
             "gamesELO": 1578.2,
             "wins": 1127,
             "losses": 1020,
-            "kills_per_vehicle": 18591,
+            "kills_per_vehicle": 1080,
             "kills_per_weapon": 18300,
             "deaths": 15766,
             "coins": 1280
@@ -4902,7 +4902,7 @@
             "gamesELO": 1833.26,
             "wins": 344,
             "losses": 193,
-            "kills_per_vehicle": 7529,
+            "kills_per_vehicle": 105,
             "kills_per_weapon": 7511,
             "deaths": 3838,
             "coins": 260
@@ -4913,7 +4913,7 @@
             "gamesELO": 1681.61,
             "wins": 373,
             "losses": 278,
-            "kills_per_vehicle": 12931,
+            "kills_per_vehicle": 204,
             "kills_per_weapon": 12879,
             "deaths": 6482,
             "coins": 451
@@ -4924,7 +4924,7 @@
             "gamesELO": 2103.14,
             "wins": 494,
             "losses": 234,
-            "kills_per_vehicle": 16166,
+            "kills_per_vehicle": 654,
             "kills_per_weapon": 16093,
             "deaths": 4856,
             "coins": 10
@@ -4935,7 +4935,7 @@
             "gamesELO": 1869.9,
             "wins": 354,
             "losses": 97,
-            "kills_per_vehicle": 12477,
+            "kills_per_vehicle": 67,
             "kills_per_weapon": 12477,
             "deaths": 2933,
             "coins": 2354
@@ -4946,7 +4946,7 @@
             "gamesELO": 1506.455,
             "wins": 196,
             "losses": 181,
-            "kills_per_vehicle": 5165,
+            "kills_per_vehicle": 311,
             "kills_per_weapon": 5051,
             "deaths": 3537,
             "coins": 4107
@@ -4957,20 +4957,20 @@
             "gamesELO": 1563.08,
             "wins": 655,
             "losses": 566,
-            "kills_per_vehicle": 14128,
+            "kills_per_vehicle": 362,
             "kills_per_weapon": 14043,
             "deaths": 9958,
             "coins": 3
         },
         "VSU": {
             "level": 118.0,
-            "killsELO": 1851.58,
-            "gamesELO": 1871.2816666666665,
-            "wins": 2151,
-            "losses": 677,
-            "kills_per_vehicle": 61381,
-            "kills_per_weapon": 61362,
-            "deaths": 14923,
+            "killsELO": 1849.8416666666665,
+            "gamesELO": 1871.4566666666667,
+            "wins": 2153,
+            "losses": 678,
+            "kills_per_vehicle": 92,
+            "kills_per_weapon": 61423,
+            "deaths": 14949,
             "coins": 12703
         },
         "VVV": {
@@ -4979,7 +4979,7 @@
             "gamesELO": 1762.575,
             "wins": 752,
             "losses": 409,
-            "kills_per_vehicle": 21608,
+            "kills_per_vehicle": 494,
             "kills_per_weapon": 21486,
             "deaths": 9533,
             "coins": 528
@@ -4990,7 +4990,7 @@
             "gamesELO": 2038.2377777777776,
             "wins": 32324,
             "losses": 12388,
-            "kills_per_vehicle": 902662,
+            "kills_per_vehicle": 36723,
             "kills_per_weapon": 897959,
             "deaths": 234483,
             "coins": 30531
@@ -5001,7 +5001,7 @@
             "gamesELO": 1559.0822222222223,
             "wins": 3566,
             "losses": 2496,
-            "kills_per_vehicle": 84862,
+            "kills_per_vehicle": 2042,
             "kills_per_weapon": 84283,
             "deaths": 50411,
             "coins": 2208
@@ -5012,7 +5012,7 @@
             "gamesELO": 1591.745,
             "wins": 1634,
             "losses": 1317,
-            "kills_per_vehicle": 30172,
+            "kills_per_vehicle": 2056,
             "kills_per_weapon": 29741,
             "deaths": 19585,
             "coins": 156
@@ -5023,7 +5023,7 @@
             "gamesELO": 1754.51,
             "wins": 517,
             "losses": 414,
-            "kills_per_vehicle": 12984,
+            "kills_per_vehicle": 604,
             "kills_per_weapon": 12872,
             "deaths": 8649,
             "coins": 210
@@ -5034,7 +5034,7 @@
             "gamesELO": 1565.48,
             "wins": 238,
             "losses": 218,
-            "kills_per_vehicle": 5412,
+            "kills_per_vehicle": 312,
             "kills_per_weapon": 5285,
             "deaths": 3646,
             "coins": 21
@@ -5045,7 +5045,7 @@
             "gamesELO": 1830.47,
             "wins": 195,
             "losses": 67,
-            "kills_per_vehicle": 5960,
+            "kills_per_vehicle": 139,
             "kills_per_weapon": 5897,
             "deaths": 1792,
             "coins": 275
@@ -5056,7 +5056,7 @@
             "gamesELO": 1685.49,
             "wins": 85,
             "losses": 71,
-            "kills_per_vehicle": 2184,
+            "kills_per_vehicle": 0,
             "kills_per_weapon": 2122,
             "deaths": 1114,
             "coins": 243
@@ -5067,7 +5067,7 @@
             "gamesELO": 1758.52,
             "wins": 1270,
             "losses": 915,
-            "kills_per_vehicle": 29155,
+            "kills_per_vehicle": 2545,
             "kills_per_weapon": 28322,
             "deaths": 18453,
             "coins": 584
@@ -5078,7 +5078,7 @@
             "gamesELO": 1735.9614285714288,
             "wins": 4207,
             "losses": 2511,
-            "kills_per_vehicle": 110828,
+            "kills_per_vehicle": 3500,
             "kills_per_weapon": 110385,
             "deaths": 48404,
             "coins": 987
@@ -5089,7 +5089,7 @@
             "gamesELO": 2548.1,
             "wins": 2343,
             "losses": 997,
-            "kills_per_vehicle": 67710,
+            "kills_per_vehicle": 849,
             "kills_per_weapon": 67206,
             "deaths": 19834,
             "coins": 1246
@@ -5100,7 +5100,7 @@
             "gamesELO": 1929.02,
             "wins": 1454,
             "losses": 901,
-            "kills_per_vehicle": 30606,
+            "kills_per_vehicle": 847,
             "kills_per_weapon": 30505,
             "deaths": 15400,
             "coins": 791
@@ -5111,7 +5111,7 @@
             "gamesELO": 1537.34,
             "wins": 287,
             "losses": 211,
-            "kills_per_vehicle": 5974,
+            "kills_per_vehicle": 254,
             "kills_per_weapon": 5861,
             "deaths": 3634,
             "coins": 183
@@ -5122,7 +5122,7 @@
             "gamesELO": 3194.33,
             "wins": 4440,
             "losses": 1304,
-            "kills_per_vehicle": 147734,
+            "kills_per_vehicle": 1918,
             "kills_per_weapon": 147608,
             "deaths": 31699,
             "coins": 510
@@ -5133,7 +5133,7 @@
             "gamesELO": 1634.134615384615,
             "wins": 5719,
             "losses": 4145,
-            "kills_per_vehicle": 140117,
+            "kills_per_vehicle": 5949,
             "kills_per_weapon": 136896,
             "deaths": 77892,
             "coins": 5517
@@ -5144,7 +5144,7 @@
             "gamesELO": 1793.3449999999998,
             "wins": 357,
             "losses": 210,
-            "kills_per_vehicle": 14747,
+            "kills_per_vehicle": 655,
             "kills_per_weapon": 14315,
             "deaths": 4889,
             "coins": 3443
@@ -5155,7 +5155,7 @@
             "gamesELO": 1964.0033333333333,
             "wins": 1918,
             "losses": 898,
-            "kills_per_vehicle": 51164,
+            "kills_per_vehicle": 993,
             "kills_per_weapon": 51003,
             "deaths": 17305,
             "coins": 4245
@@ -5166,7 +5166,7 @@
             "gamesELO": 1604.335,
             "wins": 3129,
             "losses": 1949,
-            "kills_per_vehicle": 56184,
+            "kills_per_vehicle": 299,
             "kills_per_weapon": 56168,
             "deaths": 26935,
             "coins": 553
@@ -5177,7 +5177,7 @@
             "gamesELO": 1803.14,
             "wins": 440,
             "losses": 371,
-            "kills_per_vehicle": 8400,
+            "kills_per_vehicle": 545,
             "kills_per_weapon": 8332,
             "deaths": 6921,
             "coins": 320
@@ -5188,7 +5188,7 @@
             "gamesELO": 1701.52,
             "wins": 219,
             "losses": 221,
-            "kills_per_vehicle": 4655,
+            "kills_per_vehicle": 167,
             "kills_per_weapon": 4637,
             "deaths": 3773,
             "coins": 450
@@ -5199,7 +5199,7 @@
             "gamesELO": 1997.435,
             "wins": 638,
             "losses": 394,
-            "kills_per_vehicle": 35080,
+            "kills_per_vehicle": 502,
             "kills_per_weapon": 34792,
             "deaths": 7574,
             "coins": 540
@@ -5210,7 +5210,7 @@
             "gamesELO": 1730.91,
             "wins": 414,
             "losses": 304,
-            "kills_per_vehicle": 7100,
+            "kills_per_vehicle": 829,
             "kills_per_weapon": 6950,
             "deaths": 5189,
             "coins": 118
@@ -5221,7 +5221,7 @@
             "gamesELO": 1612.78,
             "wins": 145,
             "losses": 114,
-            "kills_per_vehicle": 3834,
+            "kills_per_vehicle": 57,
             "kills_per_weapon": 3822,
             "deaths": 2671,
             "coins": 50
@@ -5232,7 +5232,7 @@
             "gamesELO": 1739.6088888888887,
             "wins": 18385,
             "losses": 11492,
-            "kills_per_vehicle": 451803,
+            "kills_per_vehicle": 13893,
             "kills_per_weapon": 443049,
             "deaths": 220189,
             "coins": 29065
@@ -5243,7 +5243,7 @@
             "gamesELO": 3030.27,
             "wins": 1689,
             "losses": 424,
-            "kills_per_vehicle": 63170,
+            "kills_per_vehicle": 1566,
             "kills_per_weapon": 63068,
             "deaths": 10962,
             "coins": 7710
@@ -5254,7 +5254,7 @@
             "gamesELO": 2000.2983333333334,
             "wins": 4879,
             "losses": 1950,
-            "kills_per_vehicle": 135599,
+            "kills_per_vehicle": 1852,
             "kills_per_weapon": 135387,
             "deaths": 35319,
             "coins": 5090
@@ -5265,7 +5265,7 @@
             "gamesELO": 1577.98,
             "wins": 2780,
             "losses": 2496,
-            "kills_per_vehicle": 32726,
+            "kills_per_vehicle": 2500,
             "kills_per_weapon": 31282,
             "deaths": 27345,
             "coins": 690
@@ -5276,7 +5276,7 @@
             "gamesELO": 1380.25,
             "wins": 341,
             "losses": 305,
-            "kills_per_vehicle": 9215,
+            "kills_per_vehicle": 288,
             "kills_per_weapon": 9105,
             "deaths": 5139,
             "coins": 73
@@ -5287,7 +5287,7 @@
             "gamesELO": 2213.02,
             "wins": 794,
             "losses": 295,
-            "kills_per_vehicle": 21512,
+            "kills_per_vehicle": 124,
             "kills_per_weapon": 21312,
             "deaths": 5823,
             "coins": 6340
@@ -5298,7 +5298,7 @@
             "gamesELO": 1651.81,
             "wins": 548,
             "losses": 462,
-            "kills_per_vehicle": 11506,
+            "kills_per_vehicle": 62,
             "kills_per_weapon": 11503,
             "deaths": 6862,
             "coins": 273
@@ -5309,7 +5309,7 @@
             "gamesELO": 1440.52,
             "wins": 100,
             "losses": 68,
-            "kills_per_vehicle": 1169,
+            "kills_per_vehicle": 83,
             "kills_per_weapon": 1149,
             "deaths": 1125,
             "coins": 20
@@ -5320,7 +5320,7 @@
             "gamesELO": 1804.42,
             "wins": 391,
             "losses": 305,
-            "kills_per_vehicle": 7031,
+            "kills_per_vehicle": 703,
             "kills_per_weapon": 6987,
             "deaths": 5500,
             "coins": 54
@@ -5331,7 +5331,7 @@
             "gamesELO": 1463.91,
             "wins": 157,
             "losses": 158,
-            "kills_per_vehicle": 2109,
+            "kills_per_vehicle": 146,
             "kills_per_weapon": 2105,
             "deaths": 2299,
             "coins": 82
@@ -5342,7 +5342,7 @@
             "gamesELO": 1483.75,
             "wins": 837,
             "losses": 731,
-            "kills_per_vehicle": 16928,
+            "kills_per_vehicle": 882,
             "kills_per_weapon": 16771,
             "deaths": 14163,
             "coins": 122
@@ -5353,7 +5353,7 @@
             "gamesELO": 1432.975,
             "wins": 840,
             "losses": 821,
-            "kills_per_vehicle": 10923,
+            "kills_per_vehicle": 399,
             "kills_per_weapon": 10801,
             "deaths": 11184,
             "coins": 142
@@ -5364,7 +5364,7 @@
             "gamesELO": 1436.36,
             "wins": 342,
             "losses": 309,
-            "kills_per_vehicle": 5144,
+            "kills_per_vehicle": 155,
             "kills_per_weapon": 5105,
             "deaths": 5483,
             "coins": 570
@@ -5375,7 +5375,7 @@
             "gamesELO": 1591.75,
             "wins": 392,
             "losses": 314,
-            "kills_per_vehicle": 8285,
+            "kills_per_vehicle": 120,
             "kills_per_weapon": 8246,
             "deaths": 4541,
             "coins": 366
@@ -5386,7 +5386,7 @@
             "gamesELO": 1970.52,
             "wins": 562,
             "losses": 385,
-            "kills_per_vehicle": 23092,
+            "kills_per_vehicle": 383,
             "kills_per_weapon": 23003,
             "deaths": 9424,
             "coins": 19
@@ -5397,7 +5397,7 @@
             "gamesELO": 1589.57,
             "wins": 261,
             "losses": 226,
-            "kills_per_vehicle": 4386,
+            "kills_per_vehicle": 141,
             "kills_per_weapon": 4378,
             "deaths": 3598,
             "coins": 612
@@ -5408,7 +5408,7 @@
             "gamesELO": 1591.29,
             "wins": 351,
             "losses": 256,
-            "kills_per_vehicle": 8399,
+            "kills_per_vehicle": 286,
             "kills_per_weapon": 8329,
             "deaths": 4736,
             "coins": 130
@@ -5419,7 +5419,7 @@
             "gamesELO": 1624.04,
             "wins": 969,
             "losses": 871,
-            "kills_per_vehicle": 18632,
+            "kills_per_vehicle": 554,
             "kills_per_weapon": 18424,
             "deaths": 12684,
             "coins": 484
@@ -5430,7 +5430,7 @@
             "gamesELO": 1661.08,
             "wins": 1940,
             "losses": 959,
-            "kills_per_vehicle": 54436,
+            "kills_per_vehicle": 56,
             "kills_per_weapon": 54423,
             "deaths": 16834,
             "coins": 190
@@ -5441,7 +5441,7 @@
             "gamesELO": 1701.24,
             "wins": 817,
             "losses": 607,
-            "kills_per_vehicle": 10982,
+            "kills_per_vehicle": 850,
             "kills_per_weapon": 10915,
             "deaths": 6470,
             "coins": 250
@@ -5452,7 +5452,7 @@
             "gamesELO": 1953.83,
             "wins": 385,
             "losses": 290,
-            "kills_per_vehicle": 11150,
+            "kills_per_vehicle": 404,
             "kills_per_weapon": 11067,
             "deaths": 6142,
             "coins": 455
@@ -5463,7 +5463,7 @@
             "gamesELO": 1771.69,
             "wins": 410,
             "losses": 337,
-            "kills_per_vehicle": 10422,
+            "kills_per_vehicle": 221,
             "kills_per_weapon": 10403,
             "deaths": 6783,
             "coins": 407
@@ -5474,7 +5474,7 @@
             "gamesELO": 1535.7350000000001,
             "wins": 610,
             "losses": 564,
-            "kills_per_vehicle": 16639,
+            "kills_per_vehicle": 505,
             "kills_per_weapon": 16396,
             "deaths": 11607,
             "coins": 2635
@@ -5485,7 +5485,7 @@
             "gamesELO": 1671.52,
             "wins": 606,
             "losses": 458,
-            "kills_per_vehicle": 16220,
+            "kills_per_vehicle": 417,
             "kills_per_weapon": 16151,
             "deaths": 5923,
             "coins": 1345
@@ -5496,7 +5496,7 @@
             "gamesELO": 1684.96,
             "wins": 296,
             "losses": 194,
-            "kills_per_vehicle": 6826,
+            "kills_per_vehicle": 327,
             "kills_per_weapon": 6714,
             "deaths": 4890,
             "coins": 80
@@ -5507,7 +5507,7 @@
             "gamesELO": 1938.59,
             "wins": 580,
             "losses": 235,
-            "kills_per_vehicle": 14545,
+            "kills_per_vehicle": 520,
             "kills_per_weapon": 14454,
             "deaths": 4614,
             "coins": 1314
@@ -5518,7 +5518,7 @@
             "gamesELO": 1647.6833333333334,
             "wins": 1677,
             "losses": 1159,
-            "kills_per_vehicle": 40251,
+            "kills_per_vehicle": 1706,
             "kills_per_weapon": 40066,
             "deaths": 14989,
             "coins": 652
@@ -5529,7 +5529,7 @@
             "gamesELO": 2088.81,
             "wins": 7862,
             "losses": 2413,
-            "kills_per_vehicle": 212850,
+            "kills_per_vehicle": 1966,
             "kills_per_weapon": 206705,
             "deaths": 46830,
             "coins": 124
@@ -5551,7 +5551,7 @@
             "gamesELO": 1915.52,
             "wins": 587,
             "losses": 349,
-            "kills_per_vehicle": 18272,
+            "kills_per_vehicle": 332,
             "kills_per_weapon": 18141,
             "deaths": 6875,
             "coins": 3010
@@ -5562,7 +5562,7 @@
             "gamesELO": 1522.0433333333333,
             "wins": 952,
             "losses": 677,
-            "kills_per_vehicle": 22790,
+            "kills_per_vehicle": 348,
             "kills_per_weapon": 22061,
             "deaths": 11493,
             "coins": 1513
@@ -5573,7 +5573,7 @@
             "gamesELO": 1628.4150000000013,
             "wins": 4388,
             "losses": 3052,
-            "kills_per_vehicle": 100094,
+            "kills_per_vehicle": 3105,
             "kills_per_weapon": 98134,
             "deaths": 55932,
             "coins": 4576
@@ -5584,7 +5584,7 @@
             "gamesELO": 1568.225,
             "wins": 445,
             "losses": 335,
-            "kills_per_vehicle": 11725,
+            "kills_per_vehicle": 456,
             "kills_per_weapon": 11654,
             "deaths": 7076,
             "coins": 352
@@ -5595,7 +5595,7 @@
             "gamesELO": 1614.8778571428572,
             "wins": 7086,
             "losses": 5587,
-            "kills_per_vehicle": 150254,
+            "kills_per_vehicle": 4840,
             "kills_per_weapon": 148509,
             "deaths": 105172,
             "coins": 7065
@@ -5606,7 +5606,7 @@
             "gamesELO": 1439.91,
             "wins": 166,
             "losses": 152,
-            "kills_per_vehicle": 1999,
+            "kills_per_vehicle": 107,
             "kills_per_weapon": 1977,
             "deaths": 1808,
             "coins": 11
@@ -5617,7 +5617,7 @@
             "gamesELO": 1641.5290909090909,
             "wins": 8287,
             "losses": 6114,
-            "kills_per_vehicle": 179097,
+            "kills_per_vehicle": 5006,
             "kills_per_weapon": 177682,
             "deaths": 101596,
             "coins": 13964
@@ -5628,7 +5628,7 @@
             "gamesELO": 1794.915,
             "wins": 734,
             "losses": 488,
-            "kills_per_vehicle": 16809,
+            "kills_per_vehicle": 2511,
             "kills_per_weapon": 16156,
             "deaths": 8668,
             "coins": 728
@@ -5639,7 +5639,7 @@
             "gamesELO": 1725.96,
             "wins": 208,
             "losses": 79,
-            "kills_per_vehicle": 6884,
+            "kills_per_vehicle": 28,
             "kills_per_weapon": 6879,
             "deaths": 1467,
             "coins": 200
@@ -5650,7 +5650,7 @@
             "gamesELO": 2458.48,
             "wins": 761,
             "losses": 244,
-            "kills_per_vehicle": 22413,
+            "kills_per_vehicle": 39,
             "kills_per_weapon": 22411,
             "deaths": 4933,
             "coins": 1972
@@ -5661,7 +5661,7 @@
             "gamesELO": 1720.415,
             "wins": 3583,
             "losses": 2072,
-            "kills_per_vehicle": 93658,
+            "kills_per_vehicle": 1899,
             "kills_per_weapon": 93091,
             "deaths": 44101,
             "coins": 1701
@@ -5672,7 +5672,7 @@
             "gamesELO": 1462.64,
             "wins": 43,
             "losses": 48,
-            "kills_per_vehicle": 1856,
+            "kills_per_vehicle": 7,
             "kills_per_weapon": 1855,
             "deaths": 1320,
             "coins": 271
@@ -5683,7 +5683,7 @@
             "gamesELO": 1788.4,
             "wins": 265,
             "losses": 188,
-            "kills_per_vehicle": 7924,
+            "kills_per_vehicle": 1336,
             "kills_per_weapon": 6846,
             "deaths": 3433,
             "coins": 294
@@ -5694,7 +5694,7 @@
             "gamesELO": 1784.89,
             "wins": 1043,
             "losses": 688,
-            "kills_per_vehicle": 30818,
+            "kills_per_vehicle": 113,
             "kills_per_weapon": 30775,
             "deaths": 12644,
             "coins": 902
@@ -5705,7 +5705,7 @@
             "gamesELO": 1428.88,
             "wins": 379,
             "losses": 267,
-            "kills_per_vehicle": 11727,
+            "kills_per_vehicle": 218,
             "kills_per_weapon": 11721,
             "deaths": 5313,
             "coins": 223
