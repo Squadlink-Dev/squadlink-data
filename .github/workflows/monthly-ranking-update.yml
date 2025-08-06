@@ -3,13 +3,14 @@ name: Monthly Ranking Update
 on:
   workflow_dispatch:  # Allows manual triggering from the GitHub UI
   schedule:
-    - cron: '0 0 1 * *' # Runs at 00:00 UTC on the 1st day of every month
+    # Runs at 00:00 UTC on the 1st and 15th day of every month, which is suitable for monthly updates
+    - cron: '0 0 1,15 * *'
 
 jobs:
   update-rankings:
     runs-on: ubuntu-latest
-    permissions: # <--- ADD THIS BLOCK
-      contents: write # Grant write permission to the GITHUB_TOKEN for this job
+    permissions: # Grant write permission to the GITHUB_TOKEN for this job
+      contents: write
 
     steps:
     - name: Checkout repository
