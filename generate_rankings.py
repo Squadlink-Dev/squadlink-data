@@ -75,7 +75,8 @@ def generate_ranking_data():
                 squad_kills_elo.append(player_stats.get("killsELO", 0))
                 squad_games_elo.append(player_stats.get("gamesELO", 0))
                 
-                # FIX: Explicitly check if data is a dictionary before trying to sum it.
+                # Check and sum stats that are dictionaries
+                # Wins and Losses
                 player_wins_data = player_stats.get("wins")
                 if isinstance(player_wins_data, dict):
                     total_wins += player_wins_data.get("m00", 0)
@@ -84,15 +85,19 @@ def generate_ranking_data():
                 if isinstance(player_losses_data, dict):
                     total_losses += player_losses_data.get("m00", 0)
                 
-                kills_per_vehicle_data = player_stats.get("kills_per_vehicle")
+                # Kills per vehicle (ignore v30)
+                kills_per_vehicle_data = player_stats.get("kills_per_vehicle", {})
                 if isinstance(kills_per_vehicle_data, dict):
-                    total_kills_per_vehicle += sum(kills_per_vehicle_data.values())
-                
-                kills_per_weapon_data = player_stats.get("kills_per_weapon")
+                    # Sum all values *except* the one for key "v30"
+                    total_kills_per_vehicle += sum(v for k, v in kills_per_vehicle_data.items() if k != "v30")
+
+                # Kills per weapon
+                kills_per_weapon_data = player_stats.get("kills_per_weapon", {})
                 if isinstance(kills_per_weapon_data, dict):
                     total_kills_per_weapon += sum(kills_per_weapon_data.values())
                 
-                deaths_data = player_stats.get("deaths")
+                # Deaths
+                deaths_data = player_stats.get("deaths", {})
                 if isinstance(deaths_data, dict):
                     total_deaths += sum(deaths_data.values())
                 
@@ -105,13 +110,13 @@ def generate_ranking_data():
                 print(f"    - Error parsing player stats for {uid}: {e}. Skipping.")
                 continue
 
-            time.sleep(0.05)
+            time.sleep(0.05) # Small delay between player API calls
 
-        if squad_levels:
+        if member_data:
             squad_stats_all[squad_name] = {
-                "level": sum(squad_levels) / len(squad_levels),
-                "killsELO": sum(squad_kills_elo) / len(squad_kills_elo),
-                "gamesELO": sum(squad_games_elo) / len(squad_games_elo),
+                "level": sum(squad_levels) / len(squad_levels) if squad_levels else 0,
+                "killsELO": sum(squad_kills_elo) / len(squad_kills_elo) if squad_kills_elo else 0,
+                "gamesELO": sum(squad_games_elo) / len(squad_games_elo) if squad_games_elo else 0,
                 "wins": total_wins,
                 "losses": total_losses,
                 "kills_per_vehicle": total_kills_per_vehicle,
@@ -119,7 +124,7 @@ def generate_ranking_data():
                 "deaths": total_deaths,
                 "coins": total_coins
             }
-        else:
+        else: # If no valid member data for stats, set all to 0
              squad_stats_all[squad_name] = {
                 "level": 0, "killsELO": 0, "gamesELO": 0,
                 "wins": 0, "losses": 0,
@@ -127,7 +132,7 @@ def generate_ranking_data():
             }
         
         print(f"  > Done processing {squad_name}. Total squads processed: {len(squad_stats_all)}.")
-        time.sleep(0.5)
+        time.sleep(0.5) # Delay between squads to prevent API rate limiting
 
     final_data = {
         "last_updated": datetime.datetime.now(datetime.timezone.utc).timestamp(),

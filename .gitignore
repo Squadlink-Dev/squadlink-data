@@ -18,4 +18,4 @@ venv/
 
 # Generated files that are meant to be committed
 # Do NOT ignore squad_rankings.json, as it is the output you want to track
-#!squad_rankings.json
+!squad_rankings.json
