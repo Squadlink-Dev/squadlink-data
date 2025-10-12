@@ -1,12 +1,72 @@
 {
-  "PAIN": [
-    { "opponent": "UMS", "result": "1-0" },
-    { "opponent": "CAESAR", "result": "1v1" }
-  ],
   "UMS": [
-    { "opponent": "PAIN", "result": "0-1" }
+    { "opponent": "Fuse", "result": "3-0" },
+    { "opponent": "CAESAR", "result": "3-0" },
+    { "opponent": "SupR", "result": "3-0" },
+    { "opponent": "WCS", "result": "3-0" },
+    { "opponent": "BEASTS", "result": "3-0" },
+    { "opponent": "RaB", "result": "3-0" },
+    { "opponent": "AI", "result": "0-3" },
+    { "opponent": "BEASTS", "result": "3-0" },
+    { "opponent": "PAIN", "result": "4-0" },
+    { "opponent": "CAESAR", "result": "4-0" }
+  ],
+  "FUSE": [
+    { "opponent": "UMS", "result": "0-3" },
+    { "opponent": "CAESAR", "result": "Defeat" }
   ],
   "CAESAR": [
-    { "opponent": "PAIN", "result": "1v1" }
+    { "opponent": "UMS", "result": "0-3" },
+    { "opponent": "PAIN", "result": "1-3" },
+    { "opponent": "PAIN", "result": "3-0" },
+    { "opponent": "AI", "result": "Defeat" },
+    { "opponent": "RWS", "result": "Defeat" },
+    { "opponent": "UMS", "result": "3-0" },
+    { "opponent": "UMS", "result": "4-0" },
+    { "opponent": "Maun", "result": "Win" },
+    { "opponent": "Glory", "result": "Win" },
+    { "opponent": "Fuse", "result": "Win" },
+    { "opponent": "UMS", "result": "0-4" }
+  ],
+  "SUPR": [
+    { "opponent": "UMS", "result": "0-3" },
+    { "opponent": "APG", "result": "0-3" }
+  ],
+  "WCS": [
+    { "opponent": "UMS", "result": "0-3" }
+  ],
+  "BEASTS": [
+    { "opponent": "UMS", "result": "0-3" },
+    { "opponent": "UMS", "result": "0-3" }
+  ],
+  "RAB": [
+    { "opponent": "UMS", "result": "0-3" }
+  ],
+  "AI": [
+    { "opponent": "UMS", "result": "3-0" },
+    { "opponent": "CAESAR", "result": "Win" }
+  ],
+  "PAIN": [
+    { "opponent": "UMS", "result": "0-4" },
+    { "opponent": "CAESAR", "result": "3-1" },
+    { "opponent": "CAESAR", "result": "0-3" }
+  ],
+  "APG": [
+    { "opponent": "SupR", "result": "3-0" },
+    { "opponent": "GLORY", "result": "3-0" },
+    { "opponent": "Function", "result": "3-0" }
+  ],
+  "GLORY": [
+    { "opponent": "APG", "result": "0-3" },
+    { "opponent": "CAESAR", "result": "Defeat" }
+  ],
+  "FUNCTION": [
+    { "opponent": "APG", "result": "0-3" }
+  ],
+  "RWS": [
+    { "opponent": "CAESAR", "result": "Win" }
+  ],
+  "MAUN": [
+    { "opponent": "CAESAR", "result": "Defeat" }
   ]
 }
