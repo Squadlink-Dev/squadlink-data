@@ -1,0 +1,12 @@
+{
+  "PAIN": [
+    { "opponent": "UMS", "result": "1-0" },
+    { "opponent": "CAESAR", "result": "1v1" }
+  ],
+  "UMS": [
+    { "opponent": "PAIN", "result": "0-1" }
+  ],
+  "CAESAR": [
+    { "opponent": "PAIN", "result": "1v1" }
+  ]
+}
