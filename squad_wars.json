@@ -9,7 +9,8 @@
     { "opponent": "AI", "result": "0-3" },
     { "opponent": "BEASTS", "result": "3-0" },
     { "opponent": "PAIN", "result": "4-0" },
-    { "opponent": "CAESAR", "result": "4-0" }
+    { "opponent": "CAESAR", "result": "4-0" },
+    { "opponent": "SOF", "result": "2-0" }
   ],
   "FUSE": [
     { "opponent": "UMS", "result": "0-3" },
