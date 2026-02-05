@@ -14,14 +14,14 @@
   ],
   "FUSE": [
     { "opponent": "UMS", "result": "0-3" },
-    { "opponent": "CAESAR", "result": "Defeat" }
+    { "opponent": "CAESAR", "result": "Loss" }
   ],
   "CAESAR": [
     { "opponent": "UMS", "result": "0-3" },
     { "opponent": "PAIN", "result": "1-3" },
     { "opponent": "PAIN", "result": "3-0" },
-    { "opponent": "AI", "result": "Defeat" },
-    { "opponent": "RWS", "result": "Defeat" },
+    { "opponent": "AI", "result": "Loss" },
+    { "opponent": "RWS", "result": "Loss" },
     { "opponent": "UMS", "result": "3-0" },
     { "opponent": "UMS", "result": "4-0" },
     { "opponent": "Maun", "result": "Win" },
@@ -59,7 +59,7 @@
   ],
   "GLORY": [
     { "opponent": "APG", "result": "0-3" },
-    { "opponent": "CAESAR", "result": "Defeat" }
+    { "opponent": "CAESAR", "result": "Loss" }
   ],
   "FUNCTION": [
     { "opponent": "APG", "result": "0-3" }
@@ -68,6 +68,9 @@
     { "opponent": "CAESAR", "result": "Win" }
   ],
   "MAUN": [
-    { "opponent": "CAESAR", "result": "Defeat" }
+    { "opponent": "CAESAR", "result": "Loss" }
+  ]
+  "SOF": [
+    { "opponent": "UMS", "result": "0-2" }
   ]
 }
