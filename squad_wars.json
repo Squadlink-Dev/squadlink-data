@@ -8,6 +8,7 @@
     { "opponent": "RaB", "result": "3-0" },
     { "opponent": "AI", "result": "0-3" },
     { "opponent": "BEASTS", "result": "3-0" },
+    { "opponent": "GLORY", "result": "3-0" },
     { "opponent": "PAIN", "result": "4-0" },
     { "opponent": "CAESAR", "result": "4-0" },
     { "opponent": "SOF", "result": "2-0" }
@@ -25,7 +26,7 @@
     { "opponent": "UMS", "result": "3-0" },
     { "opponent": "UMS", "result": "4-0" },
     { "opponent": "Maun", "result": "Win" },
-    { "opponent": "Glory", "result": "Win" },
+    { "opponent": "Glory", "result": "4-0" },
     { "opponent": "Fuse", "result": "Win" },
     { "opponent": "UMS", "result": "0-4" }
   ],
@@ -59,7 +60,8 @@
   ],
   "GLORY": [
     { "opponent": "APG", "result": "0-3" },
-    { "opponent": "CAESAR", "result": "Loss" }
+    { "opponent": "UMS", "result": "0-3" },
+    { "opponent": "CAESAR", "result": "0-4" }
   ],
   "FUNCTION": [
     { "opponent": "APG", "result": "0-3" }
