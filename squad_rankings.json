@@ -1,192 +1,236 @@
 {
-    "last_updated": 1778817360.667324,
+    "last_updated": 1780289247.585727,
     "squad_stats": {
-        "A.F.K": {
-            "level": 58.5,
-            "killsELO": 1635.4299999999998,
-            "gamesELO": 1701.955,
-            "wins": 500,
-            "losses": 305,
-            "kills_per_vehicle": 168,
-            "kills_per_weapon": 13241,
-            "deaths": 6842,
-            "coins": 167
+        "$$$": {
+            "level": 40.5,
+            "killsELO": 1656.755,
+            "gamesELO": 1663.345,
+            "wins": 488,
+            "losses": 386,
+            "kills_per_vehicle": 592,
+            "kills_per_weapon": 8888,
+            "deaths": 5298,
+            "coins": 621
         },
-        "AAA": {
-            "level": 153.33333333333334,
-            "killsELO": 1673.1599999999999,
-            "gamesELO": 2038.2633333333335,
-            "wins": 2246,
-            "losses": 1272,
-            "kills_per_vehicle": 837,
-            "kills_per_weapon": 69838,
-            "deaths": 25743,
-            "coins": 5622
-        },
-        "ABC": {
-            "level": 90.0,
-            "killsELO": 1766.03,
-            "gamesELO": 2221.2,
+        "-=SYN=-": {
+            "level": 31.0,
+            "killsELO": 1407.74,
+            "gamesELO": 1355.7,
             "wins": 179,
-            "losses": 65,
-            "kills_per_vehicle": 1,
-            "kills_per_weapon": 8590,
-            "deaths": 1723,
-            "coins": 714
+            "losses": 180,
+            "kills_per_vehicle": 249,
+            "kills_per_weapon": 2854,
+            "deaths": 2894,
+            "coins": 133
         },
-        "ACE": {
-            "level": 126.25,
-            "killsELO": 1665.0025,
-            "gamesELO": 1806.6125000000002,
-            "wins": 2892,
-            "losses": 1473,
-            "kills_per_vehicle": 2789,
-            "kills_per_weapon": 75354,
-            "deaths": 30365,
-            "coins": 4762
+        "-ARROW->": {
+            "level": 100.33333333333333,
+            "killsELO": 1620.8,
+            "gamesELO": 1567.3766666666668,
+            "wins": 1159,
+            "losses": 944,
+            "kills_per_vehicle": 1235,
+            "kills_per_weapon": 26197,
+            "deaths": 16325,
+            "coins": 675
         },
-        "EP3R": {
-            "level": 164.2,
-            "killsELO": 1705.0880000000002,
-            "gamesELO": 1842.3100000000002,
-            "wins": 5173,
-            "losses": 3596,
-            "kills_per_vehicle": 705,
-            "kills_per_weapon": 153913,
-            "deaths": 78383,
-            "coins": 18436
+        "-GIGN-": {
+            "level": 41.0,
+            "killsELO": 1486.42,
+            "gamesELO": 1392.73,
+            "wins": 31,
+            "losses": 28,
+            "kills_per_vehicle": 30,
+            "kills_per_weapon": 539,
+            "deaths": 598,
+            "coins": 240
         },
-        "EPIC": {
-            "level": 58.5,
-            "killsELO": 1675.0149999999999,
-            "gamesELO": 1886.94,
-            "wins": 655,
-            "losses": 353,
-            "kills_per_vehicle": 718,
-            "kills_per_weapon": 19167,
-            "deaths": 8853,
-            "coins": 5425
+        "-PTS-": {
+            "level": 94.0,
+            "killsELO": 1728.75,
+            "gamesELO": 1741.05,
+            "wins": 399,
+            "losses": 235,
+            "kills_per_vehicle": 241,
+            "kills_per_weapon": 12349,
+            "deaths": 3971,
+            "coins": 507
         },
-        "ERASE": {
-            "level": 83.0,
-            "killsELO": 1521.53,
-            "gamesELO": 1647.92,
-            "wins": 570,
-            "losses": 491,
-            "kills_per_vehicle": 897,
-            "kills_per_weapon": 10279,
-            "deaths": 9648,
+        "-Rebel-": {
+            "level": 66.0,
+            "killsELO": 1638.93,
+            "gamesELO": 1689.59,
+            "wins": 298,
+            "losses": 167,
+            "kills_per_vehicle": 328,
+            "kills_per_weapon": 7884,
+            "deaths": 3551,
+            "coins": 500
+        },
+        "CraZy": {
+            "level": 65.0,
+            "killsELO": 1630.98,
+            "gamesELO": 1853.08,
+            "wins": 310,
+            "losses": 222,
+            "kills_per_vehicle": 553,
+            "kills_per_weapon": 6460,
+            "deaths": 4422,
+            "coins": 170
+        },
+        "Crown": {
+            "level": 39.0,
+            "killsELO": 1469.905,
+            "gamesELO": 1296.795,
+            "wins": 462,
+            "losses": 432,
+            "kills_per_vehicle": 344,
+            "kills_per_weapon": 7661,
+            "deaths": 7474,
+            "coins": 53
+        },
+        "D.J": {
+            "level": 45.375,
+            "killsELO": 1555.5812500000002,
+            "gamesELO": 1583.69875,
+            "wins": 1420,
+            "losses": 1068,
+            "kills_per_vehicle": 1000,
+            "kills_per_weapon": 28909,
+            "deaths": 18870,
+            "coins": 2678
+        },
+        "GOD": {
+            "level": 391.1,
+            "killsELO": 1867.7779999999998,
+            "gamesELO": 2286.9459999999995,
+            "wins": 14956,
+            "losses": 5282,
+            "kills_per_vehicle": 9191,
+            "kills_per_weapon": 601723,
+            "deaths": 94428,
+            "coins": 28580
+        },
+        "GO_SBKN!": {
+            "level": 360.0,
+            "killsELO": 1660.85,
+            "gamesELO": 2004.85,
+            "wins": 2573,
+            "losses": 1578,
+            "kills_per_vehicle": 588,
+            "kills_per_weapon": 63989,
+            "deaths": 22876,
+            "coins": 390
+        },
+        "GSG-9": {
+            "level": 0,
+            "killsELO": 0,
+            "gamesELO": 0,
+            "wins": 0,
+            "losses": 0,
+            "kills_per_vehicle": 0,
+            "kills_per_weapon": 0,
+            "deaths": 0,
+            "coins": 0
+        },
+        "MZR": {
+            "level": 137.0,
+            "killsELO": 1414.76,
+            "gamesELO": 1543.45,
+            "wins": 91,
+            "losses": 41,
+            "kills_per_vehicle": 17,
+            "kills_per_weapon": 2811,
+            "deaths": 1135,
+            "coins": 15
+        },
+        "Major": {
+            "level": 57.0,
+            "killsELO": 1448.54,
+            "gamesELO": 1564.96,
+            "wins": 219,
+            "losses": 229,
+            "kills_per_vehicle": 95,
+            "kills_per_weapon": 2613,
+            "deaths": 3434,
+            "coins": 3
+        },
+        "Maun": {
+            "level": 162.66666666666666,
+            "killsELO": 1610.8155555555559,
+            "gamesELO": 1683.7555555555557,
+            "wins": 6676,
+            "losses": 4833,
+            "kills_per_vehicle": 6026,
+            "kills_per_weapon": 160102,
+            "deaths": 88384,
+            "coins": 4681
+        },
+        "SKS": {
+            "level": 71.0,
+            "killsELO": 1409.78,
+            "gamesELO": 1487.44,
+            "wins": 195,
+            "losses": 207,
+            "kills_per_vehicle": 31,
+            "kills_per_weapon": 4411,
+            "deaths": 3524,
+            "coins": 134
+        },
+        "SKU": {
+            "level": 101.0,
+            "killsELO": 1741.39,
+            "gamesELO": 1390.48,
+            "wins": 541,
+            "losses": 239,
+            "kills_per_vehicle": 805,
+            "kills_per_weapon": 14773,
+            "deaths": 5447,
+            "coins": 633
+        },
+        "SLIME": {
+            "level": 117.0,
+            "killsELO": 1711.0,
+            "gamesELO": 2352.19,
+            "wins": 693,
+            "losses": 273,
+            "kills_per_vehicle": 6,
+            "kills_per_weapon": 20236,
+            "deaths": 7568,
+            "coins": 160
+        },
+        "SNPR": {
+            "level": 158.0,
+            "killsELO": 1539.08,
+            "gamesELO": 1629.67,
+            "wins": 1322,
+            "losses": 723,
+            "kills_per_vehicle": 1074,
+            "kills_per_weapon": 23352,
+            "deaths": 14071,
             "coins": 11
         },
-        "ESP": {
-            "level": 78.5,
-            "killsELO": 1578.525,
-            "gamesELO": 1688.87,
-            "wins": 470,
-            "losses": 324,
-            "kills_per_vehicle": 421,
-            "kills_per_weapon": 19442,
-            "deaths": 5517,
-            "coins": 4898
-        },
-        "Kinetic": {
-            "level": 119.0,
-            "killsELO": 1527.69,
-            "gamesELO": 1638.96,
-            "wins": 1062,
-            "losses": 842,
-            "kills_per_vehicle": 1013,
-            "kills_per_weapon": 14213,
-            "deaths": 11291,
-            "coins": 316
-        },
-        "Kings": {
-            "level": 70.0,
-            "killsELO": 1575.52,
-            "gamesELO": 1613.27,
+        "SOAR": {
+            "level": 41.0,
+            "killsELO": 1560.32,
+            "gamesELO": 1442.73,
             "wins": 327,
-            "losses": 303,
-            "kills_per_vehicle": 258,
-            "kills_per_weapon": 4537,
-            "deaths": 3534,
-            "coins": 1533
+            "losses": 321,
+            "kills_per_vehicle": 528,
+            "kills_per_weapon": 7161,
+            "deaths": 5766,
+            "coins": 223
         },
-        "Korea_": {
-            "level": 175.5,
-            "killsELO": 1694.435,
-            "gamesELO": 1931.495,
-            "wins": 2047,
-            "losses": 1126,
-            "kills_per_vehicle": 249,
-            "kills_per_weapon": 58344,
-            "deaths": 23315,
-            "coins": 691
-        },
-        "L2P": {
+        "SOF": {
             "level": 57.0,
-            "killsELO": 1601.97,
-            "gamesELO": 1911.16,
-            "wins": 255,
-            "losses": 131,
-            "kills_per_vehicle": 644,
-            "kills_per_weapon": 7365,
-            "deaths": 2711,
-            "coins": 430
-        },
-        "LEADERS": {
-            "level": 68.0,
-            "killsELO": 1781.99,
-            "gamesELO": 2143.14,
-            "wins": 304,
-            "losses": 125,
-            "kills_per_vehicle": 321,
-            "kills_per_weapon": 8575,
-            "deaths": 2070,
-            "coins": 421
-        },
-        "LEG1ON": {
-            "level": 48.5,
-            "killsELO": 1537.6950000000002,
-            "gamesELO": 1635.2,
-            "wins": 527,
-            "losses": 424,
-            "kills_per_vehicle": 282,
-            "kills_per_weapon": 10862,
-            "deaths": 9125,
-            "coins": 294
-        },
-        "RUSSIA": {
-            "level": 194.0,
-            "killsELO": 1722.95,
-            "gamesELO": 2092.98,
-            "wins": 1322,
-            "losses": 623,
-            "kills_per_vehicle": 744,
-            "kills_per_weapon": 26928,
-            "deaths": 7421,
-            "coins": 70
-        },
-        "RUST": {
-            "level": 65.0,
-            "killsELO": 1549.34,
-            "gamesELO": 1581.6,
-            "wins": 316,
-            "losses": 196,
-            "kills_per_vehicle": 36,
-            "kills_per_weapon": 5461,
-            "deaths": 3605,
-            "coins": 576
-        },
-        "RaB": {
-            "level": 172.22222222222223,
-            "killsELO": 1660.8555555555558,
-            "gamesELO": 1724.627777777778,
-            "wins": 7120,
-            "losses": 5682,
-            "kills_per_vehicle": 5780,
-            "kills_per_weapon": 183361,
-            "deaths": 94193,
-            "coins": 3092
+            "killsELO": 1619.7649999999999,
+            "gamesELO": 1515.74,
+            "wins": 705,
+            "losses": 654,
+            "kills_per_vehicle": 906,
+            "kills_per_weapon": 12009,
+            "deaths": 6899,
+            "coins": 3423
         },
         "WCS": {
             "level": 27.0,
@@ -222,15 +266,15 @@
             "coins": 745
         },
         "WTW": {
-            "level": 198.0,
-            "killsELO": 1723.13,
-            "gamesELO": 2061.31,
-            "wins": 543,
-            "losses": 401,
-            "kills_per_vehicle": 111,
-            "kills_per_weapon": 13159,
-            "deaths": 8331,
-            "coins": 121
+            "level": 551.0,
+            "killsELO": 1858.22,
+            "gamesELO": 2958.5,
+            "wins": 1927,
+            "losses": 662,
+            "kills_per_vehicle": 760,
+            "kills_per_weapon": 57904,
+            "deaths": 12921,
+            "coins": 2438
         }
     }
 }
